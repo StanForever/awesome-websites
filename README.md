@@ -22,7 +22,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://about.me](https://about.me/) : Freelancers and entrepreneurs use about.me to grow their audience and get more clients.
 
 ## B :
-* [http://bugmenot.com/](http://bugmenot.com/) : Enter a website below to see if the bugmenot community has shared any logins for it.
+* [http://bugmenot.com](http://bugmenot.com/) : Enter a website below to see if the bugmenot community has shared any logins for it.
 * [https://bubbl.us](https://bubbl.us/) : A free mind mapping tool.
 * [https://burner.bonanza.com](https://burner.bonanza.com/) : Background Burner does a surprisingly good job of removing background images from photos.
 * [http://blahtherapy.com](http://blahtherapy.com/) : Vent your problems and secrets to a total stranger.

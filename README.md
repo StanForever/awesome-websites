@@ -233,6 +233,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://thistothat.com](http://thistothat.com/) : Find the best glue to apply for gluing two materials. You just need to enter the materials and it'll find the best glue to keep it together for a long life!
 * [http://televisor.com](http://televisor.com/) : Enter a show you like and it will recommend new shows to watch and where to find them.
 * [http://twitternamegenerator.com](http://twitternamegenerator.com/) : Free Online Tool to Generate Pretty Nicknames for Twitter.
+* [http://titlecase.com](http://titlecase.com/) : Text conversion solutions. 
 
 ## U :
 * [https://unsplash.com](https://unsplash.com/) : Discover the latest free high resolution photos.

@@ -106,6 +106,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://hackertyper.com](http://hackertyper.com/) : This site will make you look like a computer hacker from the movies when you hit random keys.
 * [http://histography.io](http://histography.io/) : Timeline of History where every dot is a historic event in Wikipedia.
 * [https://howsecureismypassword.net](https://howsecureismypassword.net/) : See how much time it would take for a computer to crack your password. 
+* [https://haveibeenpwned.com](https://haveibeenpwned.com/) : Check if you have an account that has been compromised in a data breach.
 
 ## I :
 * [https://www.ifixit.com](https://www.ifixit.com/) : The free repair guide for everything, written by everyone.

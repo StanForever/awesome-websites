@@ -10,7 +10,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 ## A : 
 * [http://www.allitebooks.com](http://www.allitebooks.com/) : Free IT eBooks Download. :books:
 * [https://www.accountkiller.com](https://www.accountkiller.com/) : Super simple instructions to delete just about any online account or profile. :x:
-* [https://ahmia.fi](https://ahmia.fi/) : Ahmia searches hidden services on the Tor network. To access these hidden services, you need the Tor browser bundle.
+* [https://ahmia.fi](https://ahmia.fi/) : Ahmia searches hidden services on the Tor network. To access these hidden services, you need the TOR browser bundle.
 * [https://alison.com](https://alison.com/) : Free Online Courses from the World’s Leading Experts. :free: 
 * [http://anasomnia.com](http://anasomnia.com/) : Turn off the light, lay back and enjoy the ride!
 * [http://www.audiocheck.net](http://www.audiocheck.net/) : Test your headphones and earphones. :headphones:
@@ -34,26 +34,26 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://www.csgenerator.com](http://www.csgenerator.com/) : Complex Sentence Generator is a free content rewriter that can potentially rephrase, reword, paraphrase and/or rewrite sentences, paragraphs, articles, content, words and/or phrases into a more complex, unorthodox or convoluted alternative while delivering the same meaning. :free:
 * [http://crossfade.io](http://crossfade.io/) : Allows you to mix and match videos and change their audios, etc.
 * [https://cvmkr.com](https://cvmkr.com/) : Create beautiful, professional resumes in minutes, free. :page_facing_up:
-* [https://corrupt-a-file.net](https://corrupt-a-file.net/) : Can’t finish your assignment before deadline? This will corrupts your assignment files so that you can ask for extra time.
+* [https://corrupt-a-file.net](https://corrupt-a-file.net/) : Can’t finish your assignment before deadline? This will corrupt your assignment files so that you can ask for extra time.
 * [https://www.calligraphr.com](https://www.calligraphr.com/) : Transform your handwriting or calligraphy into a font! Creating your own font has never been easier. With your own font you can create genuine personal designs and calligraphic artwork.
 * [https://www.canva.com](https://www.canva.com/) : Amazingly Simple Graphic Design Software.
 * [http://checkip.amazonaws.com](http://checkip.amazonaws.com/) : Check your IP address. 
 * [https://calculator.s3.amazonaws.com/index.html](https://calculator.s3.amazonaws.com/index.html) : This Calculator provides an estimate of usage charges for AWS services based on certain information you provide.
 * [http://cidr.xyz](http://cidr.xyz/) : An interactive IP address and CIDR range visualizer.
 * [https://crontab-generator.org](https://crontab-generator.org/) : Generate crontab syntax. 
-* [https://clickclickclick.click](https://clickclickclick.click/) : Just "click" it to see what happens ;)
+* [https://clickclickclick.click](https://clickclickclick.click/) : Just "click" it to see what happens. :wink:
 * [https://codeclippet.com](https://codeclippet.com/) : Code Clippet allows you to stop storing code snippets within text files and start sharing them with others, around a community focused environment.
 
 ## D : 
 * [http://downforeveryoneorjustme.com](http://downforeveryoneorjustme.com/) : Check if a website is down for everyone or just you.
 * [http://www.degraeve.com/color-palette](http://www.degraeve.com/color-palette) : Create color palettes from images. Simply put a URL of a photo and voila!
-* [http://downloadtimecalculator.com](http://downloadtimecalculator.com/) : Download time calculator is a simple free online tool to find out how much. :arrow_down:
-* [http://www.drawastickman.com](http://www.drawastickman.com/) : Draw a stickman and then take it on an adventurous trip. This COOL WEBSITE is actually a time machine that will transport you straight to your childhood.
+* [http://downloadtimecalculator.com](http://downloadtimecalculator.com/) : A simple calculator with which you can calculate download time for a file depending on download speed. How long time it will take depends on file size, your own download speed and the server's upload speed. In these calculations it is assumed that your download speed is the bottleneck. :arrow_down:
+* [http://www.drawastickman.com](http://www.drawastickman.com/) : Draw a stickman and then take it on an adventurous trip. This cool website is actually a time machine that will transport you straight to your childhood.
 * [https://www.draw.io](https://www.draw.io/) : Make network diagrams for free and you can export them as XML, png, jpeg, etc. :free:
-* [https://www.drumeo.com](https://www.drumeo.com/) : Learn Anything On The Drums With The World's Best Teachers.
-* [https://devlids.com](https://devlids.com/) : Devlids are a gallary of laptop-lids which are decorated with laptop stickers.
+* [https://www.drumeo.com](https://www.drumeo.com/) : Learn anything on the drums with the world's best teachers.
+* [https://devlids.com](https://devlids.com/) : Devlids is a gallary of laptop-lids which are decorated with laptop stickers.
 * [https://diagramy.com](https://diagramy.com/) : Diagramy is the easiest way to create and share interactive diagrams.
-* [http://www.didthanoskill.me](http://www.didthanoskill.me/) : Did Thanos kill you? 
+* [http://www.didthanoskill.me](http://www.didthanoskill.me/) : Did Thanos kill you? Check it out here.
 * [https://devhints.io](https://devhints.io/) : A modest collection of cheatsheets for almost everything.
 
 ## E : 
@@ -61,13 +61,13 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://ecomputernotes.com](http://ecomputernotes.com/) : For learning many cool stuff related to computers like networking, web development, programming etc.
 * [https://www.ecosia.org](https://www.ecosia.org/) : Search engine which plants a tree with the revenue from ads... Sounds good to our environment. :seedling:
 * [http://www.essaytyper.com](http://www.essaytyper.com/) : The finals are right around the corner and you need to finish your essay? You’re in luck!
-* [https://ecsworkshop.com](https://ecsworkshop.com/) : This workshop is designed to educate engineers that might not be familiar with Fargate, ECS, and possibly even Docker container workflow. 
+* [https://ecsworkshop.com](https://ecsworkshop.com/) : This workshop is designed to educate engineers that might not be familiar with Fargate, ECS, and possibly even Docker container workflow. :whale:
 * [https://www.easycron.com](https://www.easycron.com/) : EasyCron is a task scheduler which provides services of calling specified URLs at specified time or by time interval. :watch:
 
 ## F :
-* [http://www.foxebook.net](http://www.foxebook.net/) : Amazing Free eBook Download Site! Newest Free eBook Share! Free Download PDF, EPUB, MOBI eBooks. :books:
+* [http://www.foxebook.net](http://www.foxebook.net/) : Amazing Free eBook Download Site. Newest Free eBook Share. Free Download PDF, EPUB, MOBI eBooks. :books:
 * [http://www.fallingfalling.com](http://www.fallingfalling.com/) : Mind you, you'll fall for it!
-* [http://ffffidget.com](http://ffffidget.com/) : Someone made a fidget spinner simulation so you can waste your day away.
+* [http://ffffidget.com](http://ffffidget.com/) : Someone made a fidget spinner simulation so you can waste your day away. :stuck_out_tongue_winking_eye:
 * [http://www.freeimages.com](http://www.freeimages.com/) : Download free stock photos. :free:
 * [https://fmovies.is](https://fmovies.is/) : Watch your favorite Movies, TV shows online for free! :movie_camera:
 * [https://www.fiverr.com](https://www.fiverr.com/) : A huge marketplace of $5 dollar services.
@@ -99,11 +99,11 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://gtmetrix.com](https://gtmetrix.com/) : Analyze your site’s speed and make it faster. GTmetrix gives you insight on how well your site loads and provides actionable recommendations on how to optimize it. :chart_with_upwards_trend:
 
 ## H :
-* [http://www.1happybirthday.com](http://www.1happybirthday.com/) : Birthday Song for a Happy Birthday. :birthday:
+* [http://www.1happybirthday.com](http://www.1happybirthday.com/) : Birthday songs for a Happy Birthday. :birthday:
 * [http://htmlreference.io](http://htmlreference.io/) : A free guide to all HTML elements and attributes. :free:
 * [http://honestslogans.com](http://honestslogans.com/) : Honest Slogans pokes fun at iconic brands by remixing their logos with slogans that convey what people actually think about that brand.
 * [https://htmlmail.pro](https://htmlmail.pro/) : Email services like Gmail and Outlook support rich HTML emails but they do not offer an option to compose email messages directly using HTML and CSS markup. That's where HTML Mail fits in.
-* [http://hackertyper.com](http://hackertyper.com/) : This site will make you look like a computer hacker from the movies when you hit random keys.
+* [http://hackertyper.com](http://hackertyper.com/) : This site will make you look like a computer hacker from the movies when you hit random keys. Try it out. It's fun!
 * [http://histography.io](http://histography.io/) : Timeline of History where every dot is a historic event in Wikipedia.
 * [https://howsecureismypassword.net](https://howsecureismypassword.net/) : See how much time it would take for a computer to crack your password. 
 * [https://haveibeenpwned.com](https://haveibeenpwned.com/) : Check if you have an account that has been compromised in a data breach.
@@ -207,7 +207,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://studio.stupeflix.com](https://studio.stupeflix.com/) : Make amazing videos in seconds. Just add photos, videos, music, and text.
 * [https://send-anywhere.com](https://send-anywhere.com/) : Send whatever you want, wherever you want. :arrow_up:
 * [http://www.stolencamerafinder.com](http://www.stolencamerafinder.com/) : Use the serial number stored in your photos to search the web for other photos taken with the same camera.
-* [https://smallpdf.com](https://smallpdf.com/) : Convert pdf to jpg,  excel, word, unlock, merge and other cool options.Convert pdf to jpg,  excel, word, unlock, merge and other cool options. 
+* [https://smallpdf.com](https://smallpdf.com/) : Convert PDF to JPG,  Excel, Word, unlock, merge and other cool options. Convert PDF to JPG,  Excel, Word, unlock, merge and other cool options. 
 * [http://shelterpups.com](http://shelterpups.com/) : Send a picture of your dog or cat and they'll send you a stuffed animal that looks just like it. :dog:
 * [https://www.sporcle.com](https://www.sporcle.com/) : Take thousands of quizzes, or create your own. 
 * [https://stuvera.com](https://stuvera.com/) : Boost your knowledge and gain an edge today. Find affordable online programs, certificate courses, ebooks and many more.
@@ -251,9 +251,9 @@ Most of the websites are just for fun and some are very useful for specific purp
 ## W :
 * [http://weavesilk.com](http://weavesilk.com/) : Totally mind blowing. Create dreamy works of art with your mouse. Have fun! :curly_loop:
 * [http://weirdorconfusing.com](http://weirdorconfusing.com/) : Go to this site to buy weird and confusing thing. Things can go really weird 😉
-* [http://www.windows93.net](http://www.windows93.net/) : Use old windows on your browser and live your past again.
+* [http://www.windows93.net](http://www.windows93.net/) : Use old Windows on your browser and live your past again.
 * [https://willrobotstakemyjob.com](https://willrobotstakemyjob.com/) : This site estimates how likely you are to lose your job to robots.
-* [http://whathappenedinmybirthyear.com](http://whathappenedinmybirthyear.com/) : What happened in your birth year?
+* [http://whathappenedinmybirthyear.com](http://whathappenedinmybirthyear.com/) : What happened in your birth year? Find out here. 
 * [http://whatthefuckshouldimakefordinner.com](http://whatthefuckshouldimakefordinner.com/) : Don’t know what to fix for dinner? This website will help. 
 * [http://web2pdfconvert.com](http://web2pdfconvert.com/) : Convert web page to PDF.
 * [http://what-is-what.com](http://what-is-what.com/) : Have questions in mind? Fire your questions here.
@@ -261,7 +261,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://www.whizzpast.com](http://www.whizzpast.com/) : The best place on the Web to learn about our amazing, action packed past.
 
 ## Y : 
-* [http://www.youtube-mp3.org](http://www.youtube-mp3.org/) : Convert Youtube videos to mp3s. :cinema:
+* [http://www.youtube-mp3.org](http://www.youtube-mp3.org/) : Convert YouTube videos to MP3s. :cinema:
 * [http://you.regettingold.com](http://you.regettingold.com/) : Website which shows interesting stats about your age.
 * [http://www.yamllint.com](http://www.yamllint.com/) : Paste in your YAML and click "Go" - it'll tell you if it's valid or not, and give you a nice clean UTF-8 version of it.
 

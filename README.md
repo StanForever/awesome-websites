@@ -43,6 +43,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://crontab-generator.org](https://crontab-generator.org/) : Generate crontab syntax. 
 * [https://clickclickclick.click](https://clickclickclick.click/) : Just "click" it to see what happens. :wink:
 * [https://codeclippet.com](https://codeclippet.com/) : Code Clippet allows you to stop storing code snippets within text files and start sharing them with others, around a community focused environment.
+* [https://www.sitepen.com/blog/2017/09/21/blockchain-basics/](https://www.sitepen.com/blog/2017/09/21/blockchain-basics/) :  Great introduction to blockchain
+* [https://gitcoin.co/](https://gitcoin.co/) : Gitcoin is the easiest way to monetize or incentivize work in Open Source Software.
 
 ## D : 
 * [http://downforeveryoneorjustme.com](http://downforeveryoneorjustme.com/) : Check if a website is down for everyone or just you.

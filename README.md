@@ -3,9 +3,13 @@ A curated list of awesome websites.
 ## Motivation
 We all love to surf the Internet. Most of the times, we come across some cool awesome websites which we tend to bookmark for future use. And I love to say that I'm no exception to this behavior. 
 
-Since I have found so many such awesome websites throughout my journey in this vast ocean we call Internet, I would like to share my collection with you all. I hope you will like this cool collection of mine and don't forget to bookmark my website too! 
+Since I have found so many such awesome websites throughout my journey in this vast ocean we call Internet, I would like to share my collection with you all. I hope you will like this cool collection of mine and don't forget to star my repo! 
 
 Most of the websites are just for fun and some are very useful for specific purposes. Though I have written brief information about it in front of the link which I hope will grow your curiosity. Enjoy and do share this cool collection with your friends 🙂 
+
+## # :
+* [http://50waystogetajob.com](http://50waystogetajob.com/) : Steps to help you move forward in getting that next job.
+* [https://www.7cups.com](https://www.7cups.com/) : 7 Cups is a website which provides online emotional heath support service to people experiencing emotional distress by connecting them with trained listeners. The listener, trained in active listening, interacts with the person seeking help via an anonymous and confidential chat.
 
 ## A : 
 * [http://www.allitebooks.com](http://www.allitebooks.com/) : Free IT eBooks Download. :books:
@@ -20,8 +24,12 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://accessmars.withgoogle.com](https://accessmars.withgoogle.com/) : Access Mars lets you explore a 3D replica of the Martian surface, exactly as it was recorded by the Curiosity rover. As Curiosity has travelled across Mars, it’s taken digital photographs with two stereoscopic camera systems. By combining and analyzing these photographs, scientists at NASA JPL have created a 3D model used to study Mars and plan future experiments. For the first time, this same 3D model is now available here for anyone to explore in their browser using WebVR. 
 * [https://artillery.io](https://artillery.io/) : Artillery is a modern, powerful & easy-to-use load testing toolkit. Use it to ship scalable applications that stay performant & resilient under high load.
 * [https://about.me](https://about.me/) : Freelancers and entrepreneurs use about.me to grow their audience and get more clients. :free:
+* [http://www.allyoucanread.com](http://www.allyoucanread.com/) : The largest database of newspapers and magazines on the Internet.
+* [http://all-free-download.com](http://all-free-download.com/) : Free Vector graphic art, free photos, free icons, free website templates, psd graphic, photoshop brush, font, footage free download. :free:
+* [http://www.alertful.com](http://www.alertful.com/) : Get reminded of important appointments via email.
 
 ## B :
+* [https://builtwith.com](https://builtwith.com/) : Find out what websites are built with. You can find the technology stack of any website.
 * [http://bugmenot.com](http://bugmenot.com/) : Enter a website below to see if the bugmenot community has shared any logins for it.
 * [https://bubbl.us](https://bubbl.us/) : A free mind mapping tool. :free:
 * [https://burner.bonanza.com](https://burner.bonanza.com/) : Background Burner does a surprisingly good job of removing background images from photos.
@@ -29,6 +37,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://betterexplained.com](https://betterexplained.com/) : Explains tough math concepts in a better and intuitive way.
 * [https://bellard.org/jslinux](https://bellard.org/jslinux/) : Run Linux or other Operating Systems in your browser! :penguin:
 * [https://www.burnerapp.com](https://www.burnerapp.com/) : Burner is the original second phone number app for calling, texting and picture messaging. Stay safe and anonymous when you give out your number.
+* [http://www.bartleby.com](http://www.bartleby.com/) : The preeminent internet publisher of literature, reference and verse providing students, researchers and the intellectually curious with unlimited access to books and information on the web, free of charge.
+* [http://www.boxoh.com](http://www.boxoh.com/) : Boxoh universal package tracking:  UPS, FedEx, USPS, and DHL with RSS and Maps.
 
 ## C :
 * [http://www.csgenerator.com](http://www.csgenerator.com/) : Complex Sentence Generator is a free content rewriter that can potentially rephrase, reword, paraphrase and/or rewrite sentences, paragraphs, articles, content, words and/or phrases into a more complex, unorthodox or convoluted alternative while delivering the same meaning. :free:
@@ -43,6 +53,15 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://crontab-generator.org](https://crontab-generator.org/) : Generate crontab syntax. 
 * [https://clickclickclick.click](https://clickclickclick.click/) : Just "click" it to see what happens. :wink:
 * [https://codeclippet.com](https://codeclippet.com/) : Code Clippet allows you to stop storing code snippets within text files and start sharing them with others, around a community focused environment.
+* [https://camelcamelcamel.com](https://camelcamelcamel.com/) : This free Amazon price tracker monitors millions of products and alerts you when prices drop, helping you decide when to buy. 
+* [https://codecombat.com](https://codecombat.com/) : Play a game and learn to code in Python and Javascript.
+* [http://www.commercialtunage.com](http://www.commercialtunage.com/) : Find out which song was used in that one commercial.
+* [https://cloudconvert.com](https://cloudconvert.com/) : Convert anything to anything! 
+* [https://www.couchsurfing.com](https://www.couchsurfing.com/) : Crash on someone’s couch anywhere in the world.
+* [https://www.charitynavigator.org](https://www.charitynavigator.org/) : Evaluates various charities.
+* [https://www.calorieking.com](https://www.calorieking.com/) : Weight control is the goal. Take control with CalorieKing.
+* [http://chapiapp.com](http://chapiapp.com/) : Chapi helps you save contents like texts, images and webpages to a personalized space and recollects them when you require.
+* [https://www.copypastecharacter.com](https://www.copypastecharacter.com/) : Copy special characters that aren't on your keyboard.
 
 ## D : 
 * [http://downforeveryoneorjustme.com](http://downforeveryoneorjustme.com/) : Check if a website is down for everyone or just you.
@@ -55,6 +74,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://diagramy.com](https://diagramy.com/) : Diagramy is the easiest way to create and share interactive diagrams.
 * [http://www.didthanoskill.me](http://www.didthanoskill.me/) : Did Thanos kill you? Check it out here.
 * [https://devhints.io](https://devhints.io/) : A modest collection of cheatsheets for almost everything.
+* [https://www.deadmansswitch.net](https://www.deadmansswitch.net/) : Have emails sent when you die.
 
 ## E : 
 * [https://explainshell.com](https://explainshell.com/) : Write down a command-line to see the help text that matches each argument. :shell:
@@ -63,6 +83,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://www.essaytyper.com](http://www.essaytyper.com/) : The finals are right around the corner and you need to finish your essay? You’re in luck!
 * [https://ecsworkshop.com](https://ecsworkshop.com/) : This workshop is designed to educate engineers that might not be familiar with Fargate, ECS, and possibly even Docker container workflow. :whale:
 * [https://www.easycron.com](https://www.easycron.com/) : EasyCron is a task scheduler which provides services of calling specified URLs at specified time or by time interval. :watch:
+* [https://www.etymonline.com](https://www.etymonline.com/) : Gives you the history and derivation of any word. Check it out here.
 
 ## F :
 * [http://www.foxebook.net](http://www.foxebook.net/) : Amazing Free eBook Download Site. Newest Free eBook Share. Free Download PDF, EPUB, MOBI eBooks. :books:
@@ -83,6 +104,12 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://file-upload.com](http://file-upload.com/) : Free cloud storage for your data. :free:
 * [https://www.freeprivacypolicy.com](https://www.freeprivacypolicy.com/) : Create a free custom privacy policy for your website, blog or mobile app in just minutes! :free:
 * [https://freeformatter.com](https://freeformatter.com/) : Website to help developers by providing them with free online tools. These tools include several formatters, validators, code minifiers, string escapers, encoders and decoders, message digesters, web resources and more. :free:
+* [http://www.foodplusfood.com](http://www.foodplusfood.com/) : Food combination inspiration.
+* [https://forget.me](https://forget.me/) : Remove yourself from Google search results.
+* [https://www.freecycle.org](https://www.freecycle.org/) : A network of people giving away free stuff in their towns.
+* [https://www.followupthen.com](https://www.followupthen.com/) : The simplest way to schedule an email reminder.
+* [https://faxzero.com](https://faxzero.com/) : Send an online fax for free – see more fax services.
+* [https://www.freeimages.com](https://www.freeimages.com/) : Find and download free stock photos - all free for personal and commercial use. 
 
 ## G :
 * [http://gizoogle.net](http://gizoogle.net/) : Translate your words into Snoop Dogg style gangsta.
@@ -97,6 +124,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://goalkicker.com](https://goalkicker.com/) : FREE programming books. :free:
 * [http://gettingstartedwithchef.com](http://gettingstartedwithchef.com/) : Learn how to configure, manage and provision cloud servers with Chef by following practical examples with real world applications.
 * [https://gtmetrix.com](https://gtmetrix.com/) : Analyze your site’s speed and make it faster. GTmetrix gives you insight on how well your site loads and provides actionable recommendations on how to optimize it. :chart_with_upwards_trend:
+* [http://www.getnotify.com](http://www.getnotify.com/) : This website tracks whether the emails sent by you were opened and read by the receiver. Moreover, it also provides the recipient’s IP Address, location, browser details, and more.
+* [http://ge.tt](http://ge.tt/) : Quickly send a file to someone, they can even preview it before downloading.
 
 ## H :
 * [http://www.1happybirthday.com](http://www.1happybirthday.com/) : Birthday songs for a Happy Birthday. :birthday:
@@ -107,6 +136,9 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://histography.io](http://histography.io/) : Timeline of History where every dot is a historic event in Wikipedia.
 * [https://howsecureismypassword.net](https://howsecureismypassword.net/) : See how much time it would take for a computer to crack your password. 
 * [https://haveibeenpwned.com](https://haveibeenpwned.com/) : Check if you have an account that has been compromised in a data breach.
+* [https://www.howacarworks.com](https://www.howacarworks.com/) : Beautiful illustrations depicting how various parts of the car function.
+* [https://homestyler.com](https://homestyler.com/) : Design your dream home in 3D.
+* [https://htmlmail.pro](https://htmlmail.pro/) : Email services like Gmail and Outlook support rich HTML emails but they do not offer an option to compose email messages directly using HTML and CSS markup. That's where HTML Mail fits in.
 
 ## I :
 * [https://www.ifixit.com](https://www.ifixit.com/) : The free repair guide for everything, written by everyone. :hammer:
@@ -120,14 +152,20 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://www.internetlivestats.com](http://www.internetlivestats.com/) : Live statistics of Internet usage and social media.
 * [https://iplogger.com](https://iplogger.com/) : IP Logger URL shortener web service helps to track data on your website traffic, get information about clicks on your short URLs shared via you social media channels or published on your website, lookup ip address, check ip location and check any URL for redirects and safety. :mag:
 * [https://isthisyour.pw](https://isthisyour.pw/) : Has your password leaked? Check here. 
+* [https://www.instructables.com](https://www.instructables.com/) : Take the free classes for making anything.
+* [https://www.iconfinder.com](https://www.iconfinder.com/) : The best place to find icons of all sizes.
 
 ## J :
 * [http://jsbeautifier.org](http://jsbeautifier.org/) : Beautify, unpack or deobfuscate JavaScript and HTML, make JSON/JSONP readable, etc. :dizzy:
+* [https://virusscan.jotti.org](https://virusscan.jotti.org/) : Scan any suspicious file or email attachment for viruses.
+* [https://www.join.me](https://www.join.me/) : Share you screen with anyone over the web.
 
 ## K :
 * [http://www.keybr.com](http://www.keybr.com/) : Simple and adaptive typing lessons will help you type faster and with fewer errors.
 * [https://www.kimovil.com](https://www.kimovil.com/) : Cheap smartphones comparison. :iphone: :iphone:
 * [https://www.kill-the-newsletter.com](https://www.kill-the-newsletter.com/) : Convert email newsletters into Atom feeds. :newspaper:
+* [http://www.keyboardtester.com](http://www.keyboardtester.com/) : Test your keyboard’s functionality.
+* [http://kleki.com](http://kleki.com/) : Create paintings and sketches with a wide variety of brushes.
 
 ## L :
 * [https://www.lucidchart.com](https://www.lucidchart.com/) : Flowchart maker and online diagram software.
@@ -149,6 +187,10 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://myfridgefood.com](http://myfridgefood.com/) : Put in whatever you have in your fridge and it will tell you everything you can make with them.
 * [https://www.mailinator.com](https://www.mailinator.com/) : Use any email you think up. :e-mail:
 * [https://www.mindmup.com](https://www.mindmup.com/) : Free online mind mapping.
+* [https://www.myfonts.com](https://www.myfonts.com/home) : The largest selection of professional fonts for any project.
+* [https://www.mountainproject.com](https://www.mountainproject.com) : Find boulders and rocks to climb.
+* [https://www.mypustak.com](https://www.mypustak.com/) : You can order any book through this website for free of cost. They charge only for there courier service.
+* [https://minutes.io](https://minutes.io/) : Quickly capture effective notes during meetings.
 
 ## N :
 * [https://neave.com](https://neave.com/) : A collection of interactive tools, apps, toys and art.
@@ -161,7 +203,9 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://map.norsecorp.com](http://map.norsecorp.com/) : Watch cyber attacks happening all over the world live.
 * [https://namechk.com](https://namechk.com/) : If you have many different online accounts, here you can see every website where your username has been used.
 * [http://www.nothingprivate.ml](http://www.nothingprivate.ml/) : Do you think that switching to your browser's private browsing mode or incognito mode will make you anonymous? Sorry to disappoint you, but you are wrong! You can check it out for yourself. :squirrel:
-* [http://network-tools.com](http://network-tools.com/) : Traceroute, Ping, WHOIS, DNS Lookup and many more tools. 
+* [http://network-tools.com](http://network-tools.com/) : Traceroute, Ping, WHOIS, DNS Lookup and many more tools.
+* [http://netflixroulette.net](http://netflixroulette.net/) : Find something random to watch on Netflix.
+* [http://notes.io](http://notes.io/) : The easiest way to write short text notes in the browser.
 
 ## O :
 * [http://oldcomputers.net](http://oldcomputers.net/) : The museum of old, rare, vintage, antique computers. View all 150 old computers all at the same time to appreciate how diverse and interesting they are. :computer:
@@ -170,6 +214,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://omglasergunspewpewpew.com](http://omglasergunspewpewpew.com/) : No words can describe this website! Check it out yourself.
 * [http://www.online-toolz.com/tools/text-binary-convertor.php](http://www.online-toolz.com/tools/text-binary-convertor.php) : This tool converts from Text to Binary and vise-versa.
 * [http://oswallpapers.com](http://oswallpapers.com/) : Download all OS's default wallpapers and Backgrounds, All Operating System HD Background archive. 
+* [http://www.oldversion.com](http://www.oldversion.com/) : Get old versions of software.
+* [https://www.onlineocr.net](https://www.onlineocr.net/) : Recognize text from scanned PDFs
 
 ## P : 
 * [http://pointerpointer.com](http://pointerpointer.com/) : It is on there and it's really cool.
@@ -186,6 +232,11 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://pdfcandy.com](https://pdfcandy.com/) : Edit PDF free with online PDF editor. :free:
 * [http://protondrive.com](http://protondrive.com/) : Secure digital storage for your online files and data. End-to-end encrypted and based in Switzerland. :key:
 * [http://www.patience-is-a-virtue.org](http://www.patience-is-a-virtue.org/) : Website that loads surprisingly fast! :arrows_counterclockwise:
+* [http://pective.com](http://pective.com/) : Pective displays the actual size of any item on your monitor.
+* [https://pipl.com](https://pipl.com/) : With the world's largest people search engine, Pipl is the place to find the person behind the email address, social username or phone number.
+* [https://www.pdfescape.com](https://www.pdfescape.com/) : Lets you can quickly edit PDFs in the browser itself.
+* [https://www.plustransfer.com](https://www.plustransfer.com/) : Transfer files of size up to 5 GB without uploading to a third-party server.
+* [https://www.preceden.com](https://www.preceden.com/) : Preceden is an simple yet powerful timeline maker that helps you quickly create great looking timelines. With our intuitive web-based interface, numerous export options, and more, you'll be able to build and share your timeline in no time at all.
 
 ## Q :
 * [https://quickdraw.withgoogle.com](https://quickdraw.withgoogle.com/) : Can a neural network learn to recognize doodling? Help teach it by adding your drawings to the world’s largest doodling data set, shared publicly to help with machine learning research. :pencil2:
@@ -202,6 +253,11 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://reinventvideos.com](https://reinventvideos.com/) : Here's a list of all of the AWS re:Invent breakout sessions from 2012 - 2017. :cloud:
 * [http://recruitahacker.net](http://recruitahacker.net/) : Do you have what it takes? 
 * [https://regexr.com](https://regexr.com/) : RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions. 
+* [https://www.ribbet.com](https://www.ribbet.com/) : Online Photo editor and collage maker. Great choice when you're desperate to edit your photos and be a superstar on social media!
+* [http://www.routerpasswords.com](http://www.routerpasswords.com/) : Find default router passwords for any manufacturer.
+* [https://relax.li](https://relax.li/) : Relax to the soothing sounds of nature.
+* [https://roadtrippers.com](https://roadtrippers.com/) : Plan your route with the best lodging and attractions.
+* [https://www.random.org](https://www.random.org/) : RANDOM.ORG offers true random numbers to anyone on the Internet. The randomness comes from atmospheric noise, which for many purposes is better than the pseudo-random number algorithms typically used in computer programs.
 
 ## S :
 * [https://studio.stupeflix.com](https://studio.stupeflix.com/) : Make amazing videos in seconds. Just add photos, videos, music, and text.
@@ -221,6 +277,17 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://securityplanner.org](https://securityplanner.org/#/) : Improve your online safety with advice from experts. 
 * [http://shinytoylabs.com/jargon/](http://shinytoylabs.com/jargon/) : Need some dialogue for your Hollywood thriller screenplay? Visit this website for some tech jargon!
 * [https://serversforhackers.com](https://serversforhackers.com/) : Teaching the server tech you need for development and production. Eliminating the frustration of server configuration.
+* [https://www.skyscanner.co.in](https://www.skyscanner.co.in/?) : Lets you search flights by date, price, and budget — even if you don’t know where you want to go. Start scanning here.
+* [http://www.stripcreator.com](http://www.stripcreator.com/) : Easily make your own online comic strips.
+* [http://www.studentrate.com](http://www.studentrate.com/) : Find student discounts for almost everything.
+* [https://signature-maker.net](https://signature-maker.net/) : Signature Maker is a free web based tool, that helps you create your handwritten digital signature, within few seconds.
+* [https://www.systemrequirementslab.com](https://www.systemrequirementslab.com/cyri) : Discover the system requirements to play specific computer games.
+* [https://www.studyblue.com](https://www.studyblue.com/) : StudyBlue is the largest crowdsourced study library, with over 400 million flashcards, notes and study guides from students like you. Make and share study materials, search for recommended study content from classmates, track progress, set reminders, and create custom quizzes. Join 15 million students on StudyBlue to study better, together.
+* [https://screenshot.guru](https://screenshot.guru/) : Take beautiful, high-resolution screen captures of any website or tweet.
+* [http://scr.im](http://scr.im/) : Share you email address online without worrying about spam.
+* [https://www.similarsites.com](https://www.similarsites.com/) : Discover sites similar to the ones you know and love.
+* [https://seatguru.com](https://seatguru.com/) : Consult this site before choosing a seat for your next flight.
+* [https://www.sumopaint.com](https://www.sumopaint.com/) : The best photo editing and drawing tool online.
 
 ## T :
 * [http://typatone.com](http://typatone.com/) : Type some random stuff and enjoy the music.
@@ -234,6 +301,11 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://televisor.com](http://televisor.com/) : Enter a show you like and it will recommend new shows to watch and where to find them.
 * [http://twitternamegenerator.com](http://twitternamegenerator.com/) : Free Online Tool to Generate Pretty Nicknames for Twitter. :free:
 * [http://titlecase.com](http://titlecase.com/) : Text conversion solutions. 
+* [https://www.timeanddate.com](https://www.timeanddate.com/) : Date to date calculator. 
+* [https://tunein.com](https://tunein.com/) : Listen to over 100,000 real radio stations.
+* [https://www.topcv.me](https://www.topcv.me/) : Create a professional Resume/CV in minutes. The simplest way to have impressive Resume without Photoshop, AI technique.
+* [https://www.typing.com](https://www.typing.com/) : Master touch-typing with these practice sessions.
+* [https://teuxdeux.com](https://teuxdeux.com/) : If you like making to-do lists, you will love TeuxDeux.
 
 ## U :
 * [https://unsplash.com](https://unsplash.com/) : Discover the latest free high resolution photos. :camera:
@@ -247,9 +319,11 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://validator.w3.org/checklink](https://validator.w3.org/checklink) : Check links and anchors in Web pages or full Web sites.
 * [https://vubey.yt](https://vubey.yt/) : An online site that converts online videos to audio files, simply by pasting the URL.
 * [https://validate.puppet.com](https://validate.puppet.com/) : Paste Puppet code into the textbox and check it for validity. :white_check_mark:
+* [http://www.vocalfish.co](http://www.vocalfish.co/) : You submit a URL to this website and it'll give an audio file back of an actual human reading it.
 
 ## W :
 * [http://weavesilk.com](http://weavesilk.com/) : Totally mind blowing. Create dreamy works of art with your mouse. Have fun! :curly_loop:
+* [https://www.woorank.com](https://www.woorank.com/) : Free Website Review Tool & SEO Checker. Enter your URL for a free instant website review and SEO audit for any site.
 * [http://weirdorconfusing.com](http://weirdorconfusing.com/) : Go to this site to buy weird and confusing thing. Things can go really weird 😉
 * [http://www.windows93.net](http://www.windows93.net/) : Use old Windows on your browser and live your past again.
 * [https://willrobotstakemyjob.com](https://willrobotstakemyjob.com/) : This site estimates how likely you are to lose your job to robots.
@@ -259,16 +333,22 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://what-is-what.com](http://what-is-what.com/) : Have questions in mind? Fire your questions here.
 * [http://www.wordhippo.com](http://www.wordhippo.com/) : Website that will help you find the word you're looking for when you can only think of a phrase.
 * [http://www.whizzpast.com](http://www.whizzpast.com/) : The best place on the Web to learn about our amazing, action packed past.
+* [https://www.wolframalpha.com](https://www.wolframalpha.com/) : Compute expert-level answers using Wolfram's breakthrough algorithms, knowledgebase and AI technology.
+* [http://wobzip.org](http://wobzip.org/) : Uncompress zip files online.
+* [https://wetransfer.com](https://wetransfer.com/) : An easy way to send big files up to 2 GB.
+* [http://www.wordle.net](http://www.wordle.net/) : Wordle is a toy for generating “word clouds” from text that you provide. The clouds give greater prominence to words that appear more frequently in the source text. You can tweak your clouds with different fonts, layouts, and color schemes. The images you create with Wordle are yours to use however you like. You can print them out, or save them to your own desktop to use as you wish.
+* [https://www.whoishostingthis.com](https://www.whoishostingthis.com/) : Discover who is hosting any website. Get information about the web host, IP address, name servers & more.
 
 ## Y : 
 * [http://www.youtube-mp3.org](http://www.youtube-mp3.org/) : Convert YouTube videos to MP3s. :cinema:
 * [http://you.regettingold.com](http://you.regettingold.com/) : Website which shows interesting stats about your age.
 * [http://www.yamllint.com](http://www.yamllint.com/) : Paste in your YAML and click "Go" - it'll tell you if it's valid or not, and give you a nice clean UTF-8 version of it.
+* [http://youtube.com/leanback](http://youtube.com/leanback) : Watch YouTube channels in TV mode.
 
 ## Z : 
 * [http://zoomquilt.org](http://zoomquilt.org/) : Visit this website anytime you're bored. It'll leave you amazed.
 * [http://www.zamzar.com](http://www.zamzar.com/) : Have you ever wanted to convert files without the need to download software ? It's free online file converter. :repeat:
-
+* [http://zoom.it](http://zoom.it/) : ZoomHub lets you share & view your high-resolution images seamlessly and blazingly fast, no matter whether you are on a desktop computer, tablet, or mobile phone.
 
 
 

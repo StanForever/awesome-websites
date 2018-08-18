@@ -12,6 +12,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.7cups.com](https://www.7cups.com/) : 7 Cups is a website which provides online emotional heath support service to people experiencing emotional distress by connecting them with trained listeners. The listener, trained in active listening, interacts with the person seeking help via an anonymous and confidential chat.
 
 ## A : 
+* [https://www.awwwards.com](https://www.awwwards.com/) : The awards that recognize the talent and effort of the best web designers, developers and agencies in the world.
 * [http://www.allitebooks.com](http://www.allitebooks.com/) : Free IT eBooks Download. :books:
 * [https://www.accountkiller.com](https://www.accountkiller.com/) : Super simple instructions to delete just about any online account or profile. :x:
 * [https://ahmia.fi](https://ahmia.fi/) : Ahmia searches hidden services on the Tor network. To access these hidden services, you need the TOR browser bundle.
@@ -62,6 +63,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.calorieking.com](https://www.calorieking.com/) : Weight control is the goal. Take control with CalorieKing.
 * [http://chapiapp.com](http://chapiapp.com/) : Chapi helps you save contents like texts, images and webpages to a personalized space and recollects them when you require.
 * [https://www.copypastecharacter.com](https://www.copypastecharacter.com/) : Copy special characters that aren't on your keyboard.
+* [https://cidr.online](https://cidr.online/) : This Subnet/CIDR calculator allows you to enter a IPv4 CIDR range and calculates IP addresses, Network Size, Subnet Mask, Min and Max Host etc.
 
 ## D : 
 * [http://downforeveryoneorjustme.com](http://downforeveryoneorjustme.com/) : Check if a website is down for everyone or just you.
@@ -75,6 +77,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://www.didthanoskill.me](http://www.didthanoskill.me/) : Did Thanos kill you? Check it out here.
 * [https://devhints.io](https://devhints.io/) : A modest collection of cheatsheets for almost everything.
 * [https://www.deadmansswitch.net](https://www.deadmansswitch.net/) : Have emails sent when you die.
+* [https://dnschecker.org](https://dnschecker.org/) : DNS Checker provides free dns lookup service for checking domain name server records against a randomly selected list of DNS servers in different corners of the world. Do a quick look up for any domain name and check DNS data collected from all location for confirming that website is completely propagated or not worldwide.
 
 ## E : 
 * [https://explainshell.com](https://explainshell.com/) : Write down a command-line to see the help text that matches each argument. :shell:
@@ -82,6 +85,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.ecosia.org](https://www.ecosia.org/) : Search engine which plants a tree with the revenue from ads... Sounds good to our environment. :seedling:
 * [http://www.essaytyper.com](http://www.essaytyper.com/) : The finals are right around the corner and you need to finish your essay? You’re in luck!
 * [https://ecsworkshop.com](https://ecsworkshop.com/) : This workshop is designed to educate engineers that might not be familiar with Fargate, ECS, and possibly even Docker container workflow. :whale:
+* [https://eksworkshop.com](https://eksworkshop.com/) : This workshop is designed to educate engineers that might not be familiar with Amazon EKS, Kubernetes, and possibly even Docker container workflow.
 * [https://www.easycron.com](https://www.easycron.com/) : EasyCron is a task scheduler which provides services of calling specified URLs at specified time or by time interval. :watch:
 * [https://www.etymonline.com](https://www.etymonline.com/) : Gives you the history and derivation of any word. Check it out here.
 
@@ -110,6 +114,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.followupthen.com](https://www.followupthen.com/) : The simplest way to schedule an email reminder.
 * [https://faxzero.com](https://faxzero.com/) : Send an online fax for free – see more fax services.
 * [https://www.freeimages.com](https://www.freeimages.com/) : Find and download free stock photos - all free for personal and commercial use. 
+* [https://fast.com](https://fast.com/) : FAST.com gives you an estimate of your current Internet speed.
 
 ## G :
 * [http://gizoogle.net](http://gizoogle.net/) : Translate your words into Snoop Dogg style gangsta.
@@ -156,6 +161,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.instructables.com](https://www.instructables.com/) : Take the free classes for making anything.
 * [https://www.iconfinder.com](https://www.iconfinder.com/) : The best place to find icons of all sizes.
 * [http://invitationspace.com](http://invitationspace.com/) : Make your invitation easier with this free online invitational cards for every ceremony like Engagement, Wedding, Birthday, Baby shower, etc. 
+* [https://iplocation.io](https://iplocation.io/) : Check results for any IP provided by different Geolocation providers.
 
 ## J :
 * [http://jsbeautifier.org](http://jsbeautifier.org/) : Beautify, unpack or deobfuscate JavaScript and HTML, make JSON/JSONP readable, etc. :dizzy:
@@ -177,6 +183,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://loader.io](https://loader.io/) : Loader.io is a FREE load testing service that allows you to stress test your web-apps & apis with thousands of concurrent connections. :free:
 * [https://linuxjourney.com](https://linuxjourney.com/) : Learn the ways of Linux-fu for FREE. :penguin:
 * [https://lingojam.com/FancyTextGenerator](https://lingojam.com/FancyTextGenerator) : A translator to convert normal text to fancy text which you can copy and paste.
+* [https://www.locabrowser.com](https://www.locabrowser.com/) : Easy Web Browsing From Multiple Locations.
+* [https://linux.pictures](https://linux.pictures/) : Cool wallpapers for Linux guys! 
 
 ## M :
 * [https://www.mathway.com](https://www.mathway.com/) : Free math problem solver answers your algebra homework questions with step-by-step explanations.
@@ -193,6 +201,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.mountainproject.com](https://www.mountainproject.com) : Find boulders and rocks to climb.
 * [https://www.mypustak.com](https://www.mypustak.com/) : You can order any book through this website for free of cost. They charge only for there courier service.
 * [https://minutes.io](https://minutes.io/) : Quickly capture effective notes during meetings.
+* [https://mxtoolbox.com](https://mxtoolbox.com/) : This test will list MX records for a domain in priority order. The MX lookup is done directly against the domain's authoritative name server, so changes to MX Records should show up instantly.
 
 ## N :
 * [https://neave.com](https://neave.com/) : A collection of interactive tools, apps, toys and art.
@@ -239,6 +248,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.pdfescape.com](https://www.pdfescape.com/) : Lets you can quickly edit PDFs in the browser itself.
 * [https://www.plustransfer.com](https://www.plustransfer.com/) : Transfer files of size up to 5 GB without uploading to a third-party server.
 * [https://www.preceden.com](https://www.preceden.com/) : Preceden is an simple yet powerful timeline maker that helps you quickly create great looking timelines. With our intuitive web-based interface, numerous export options, and more, you'll be able to build and share your timeline in no time at all.
+* [https://tools.pingdom.com](https://tools.pingdom.com/) : Enter a URL to test the load time of that page, analyze it and find bottlenecks.
+* [https://www.powerwithindell.game](https://www.powerwithindell.game/) : Experience the power of Dell's Gaming. 
 
 ## Q :
 * [https://quickdraw.withgoogle.com](https://quickdraw.withgoogle.com/) : Can a neural network learn to recognize doodling? Help teach it by adding your drawings to the world’s largest doodling data set, shared publicly to help with machine learning research. :pencil2:

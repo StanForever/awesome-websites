@@ -10,6 +10,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 ## # :
 * [http://50waystogetajob.com](http://50waystogetajob.com/) : Steps to help you move forward in getting that next job.
 * [https://www.7cups.com](https://www.7cups.com/) : 7 Cups is a website which provides online emotional heath support service to people experiencing emotional distress by connecting them with trained listeners. The listener, trained in active listening, interacts with the person seeking help via an anonymous and confidential chat.
+* [https://www.16personalities.com](https://www.16personalities.com/) : Take this Personality Test and get a “freakishly accurate” description of who you are and why you do things the way you do.
 
 ## A : 
 * [https://www.awwwards.com](https://www.awwwards.com/) : The awards that recognize the talent and effort of the best web designers, developers and agencies in the world.
@@ -28,6 +29,14 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://www.allyoucanread.com](http://www.allyoucanread.com/) : The largest database of newspapers and magazines on the Internet.
 * [http://all-free-download.com](http://all-free-download.com/) : Free Vector graphic art, free photos, free icons, free website templates, psd graphic, photoshop brush, font, footage free download. :free:
 * [http://www.alertful.com](http://www.alertful.com/) : Get reminded of important appointments via email.
+* [https://www.awsgeek.com](https://www.awsgeek.com/) : Cloud diagrams and notes on AWS services.
+* [https://anotepad.com](https://anotepad.com/) : Anotepad.com is your online notepad on the web. It allows you to store notes on the GO without having to Login. You can use a rich text editor, sort notes by date or title and make notes private. Best of all - anotepad is a fast, clean, simple to use and FREE notepad online. 
+* [https://amplify-workshop.go-aws.com](https://amplify-workshop.go-aws.com) : In this workshop, build a Photo-Sharing Web App 
+with AWS Amplify and AWS AppSync.
+* [https://awsclibuilder.com](https://awsclibuilder.com) : Let this website help you BUILD YOUR AWS CLI COMMANDS. Happy CLI Building!!
+* [https://asecure.cloud](https://asecure.cloud/) : A free repository of customizable AWS security configurations and best practices.
+* [https://asciinema.org](https://asciinema.org/) : Forget screen recording apps and blurry video. Enjoy a lightweight, purely text-based approach to terminal recording and sharing.
+* [https://guacamole.apache.org](https://guacamole.apache.org/) : Access your computers from anywhere.
 
 ## B :
 * [https://builtwith.com](https://builtwith.com/) : Find out what websites are built with. You can find the technology stack of any website.
@@ -64,6 +73,16 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://chapiapp.com](http://chapiapp.com/) : Chapi helps you save contents like texts, images and webpages to a personalized space and recollects them when you require.
 * [https://www.copypastecharacter.com](https://www.copypastecharacter.com/) : Copy special characters that aren't on your keyboard.
 * [https://cidr.online](https://cidr.online/) : This Subnet/CIDR calculator allows you to enter a IPv4 CIDR range and calculates IP addresses, Network Size, Subnet Mask, Min and Max Host etc.
+* [https://containersonaws.com](https://containersonaws.com/) : Learn about how to run containers on AWS using Amazon ECS and AWS Fargate.
+* [https://cdkworkshop.com](https://cdkworkshop.com/) : This workshop is designed to educate engineers that might not be familiar with AWS Cloud Development Kit (CDK).
+* [https://codebeautify.org](https://codebeautify.org/) : CodeBeautify is an online code beautifier which allows you to beautify your source code.
+* [https://css-tricks.com](https://css-tricks.com/) : Learn about some cool CSS tricks through articles and videos. 
+* [https://crontab.guru](https://crontab.guru/) : The quick and simple editor for cron schedule expressions.
+* [http://cloudping.bastionhost.org](http://cloudping.bastionhost.org/en/) : This site allows you to perform an HTTP ping to measure the network latency from your browser to the various cloud data centers around the world.
+* [https://www.cloudping.co](https://www.cloudping.co/) : Records inter-region latency over a TCP connection between all AWS regions.
+* [https://www.cloudping.info](https://www.cloudping.info/) : Estimate the latency from your browser to each AWS region.
+* [https://cfnchecklist.com](https://cfnchecklist.com/) : The CloudFormation Checklist is a list of all elements you need to have / to test before launching your infra to production.
+* [https://cost-calculator.bref.sh](https://cost-calculator.bref.sh/) : Estimate AWS costs when running serverless applications on AWS Lambda.
 
 ## D : 
 * [http://downforeveryoneorjustme.com](http://downforeveryoneorjustme.com/) : Check if a website is down for everyone or just you.
@@ -78,6 +97,13 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://devhints.io](https://devhints.io/) : A modest collection of cheatsheets for almost everything.
 * [https://www.deadmansswitch.net](https://www.deadmansswitch.net/) : Have emails sent when you die.
 * [https://dnschecker.org](https://dnschecker.org/) : DNS Checker provides free dns lookup service for checking domain name server records against a randomly selected list of DNS servers in different corners of the world. Do a quick look up for any domain name and check DNS data collected from all location for confirming that website is completely propagated or not worldwide.
+* [https://www.diffchecker.com](https://www.diffchecker.com/) : Diffchecker is a diff tool to compare text differences between two text files. Enter the contents of two files and click Find Difference.
+* [https://downdetector.in](https://downdetector.in/) : Downdetector offers a realtime overview of status information and outages for all kinds of services including (but not limited to) internet providers, mobile providers, airlines, public transport and online services.
+* [https://www.donkeycar.com](https://www.donkeycar.com/) : Donkey is an open source project powered by volunteers with a shared interest to build their own self driving cars.
+* [https://darkmodelist.com](https://darkmodelist.com/) : A list of 92 apps that support Dark Mode.
+* [https://dockerswarm.rocks](https://dockerswarm.rocks/) : Docker Swarm mode rocks! Ideas, tools and recipes. Get a production-ready, distributed, HTTPS served, cluster in minutes, not weeks.
+* [https://www.dbdesigner.net](https://www.dbdesigner.net/) : Design your database schema without writing SQL.
+* [http://deathdate.info](http://deathdate.info/s/death) : Please fill out this form, don't be afraid to share your data - it's necessary only for your Death Date calculations, the only thing you should be concerned about is the time you have left... 
 
 ## E : 
 * [https://explainshell.com](https://explainshell.com/) : Write down a command-line to see the help text that matches each argument. :shell:
@@ -88,6 +114,10 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://eksworkshop.com](https://eksworkshop.com/) : This workshop is designed to educate engineers that might not be familiar with Amazon EKS, Kubernetes, and possibly even Docker container workflow.
 * [https://www.easycron.com](https://www.easycron.com/) : EasyCron is a task scheduler which provides services of calling specified URLs at specified time or by time interval. :watch:
 * [https://www.etymonline.com](https://www.etymonline.com/) : Gives you the history and derivation of any word. Check it out here.
+* [https://ec2instances.info](https://ec2instances.info) : Easy Amazon EC2 & Amazon RDS Instance Comparison.
+* [https://ec2spotworkshops.com](https://ec2spotworkshops.com/) : This workshop is designed to educate engineers that might not be familiar with Amazon EC2 Spot Instances.
+* [https://ec2types.io](https://ec2types.io) : Know and compare about different Amazon EC2 instance types.
+* [https://everytimezone.com](https://everytimezone.com/) : Never warp your brain with timezone math again.
 
 ## F :
 * [http://www.foxebook.net](http://www.foxebook.net/) : Amazing Free eBook Download Site. Newest Free eBook Share. Free Download PDF, EPUB, MOBI eBooks. :books:
@@ -115,6 +145,9 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://faxzero.com](https://faxzero.com/) : Send an online fax for free – see more fax services.
 * [https://www.freeimages.com](https://www.freeimages.com/) : Find and download free stock photos - all free for personal and commercial use. 
 * [https://fast.com](https://fast.com/) : FAST.com gives you an estimate of your current Internet speed.
+* [https://www.fromlatest.io](https://www.fromlatest.io) : An opinionated Dockerfile linter. The goal of this project is to help Dockerfile authors create better and more portable Docker images.
+* [https://fixmie.com](https://fixmie.com/) : Fixmie analyzes and automatically fixes your source code by providing smart and useful suggestions.
+* [https://frontendchecklist.io](https://frontendchecklist.io) : The Front-End Checklist is an exhaustive list of all elements you need to have / to test before launching your website / HTML page to production.
 
 ## G :
 * [http://gizoogle.net](http://gizoogle.net/) : Translate your words into Snoop Dogg style gangsta.
@@ -132,6 +165,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://www.getnotify.com](http://www.getnotify.com/) : This website tracks whether the emails sent by you were opened and read by the receiver. Moreover, it also provides the recipient’s IP Address, location, browser details, and more.
 * [http://ge.tt](http://ge.tt/) : Quickly send a file to someone, they can even preview it before downloading.
 * [https://gitcoin.co](https://gitcoin.co/) : Gitcoin is the easiest way to leverage the open source community to incentivize or monetize work.
+* [https://buckets.grayhatwarfare.com](https://buckets.grayhatwarfare.com) : Search for Open Amazon S3 Buckets and their contents.
+* [https://gitstalk.netlify.com](https://gitstalk.netlify.com/) : Discover who's upto what on Github.
 
 ## H :
 * [http://www.1happybirthday.com](http://www.1happybirthday.com/) : Birthday songs for a Happy Birthday. :birthday:
@@ -145,6 +180,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.howacarworks.com](https://www.howacarworks.com/) : Beautiful illustrations depicting how various parts of the car function.
 * [https://homestyler.com](https://homestyler.com/) : Design your dream home in 3D.
 * [https://htmlmail.pro](https://htmlmail.pro/) : Email services like Gmail and Outlook support rich HTML emails but they do not offer an option to compose email messages directly using HTML and CSS markup. That's where HTML Mail fits in.
+* [https://howdns.works](https://howdns.works/) : A fun and colorful explanation of how DNS works.
 
 ## I :
 * [https://www.ifixit.com](https://www.ifixit.com/) : The free repair guide for everything, written by everyone. :hammer:
@@ -156,17 +192,21 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://internet-map.net](http://internet-map.net/) : A map of the Internet!
 * [http://www.iamawesome.com](http://www.iamawesome.com/) : Prepare to be mind blown.
 * [http://www.internetlivestats.com](http://www.internetlivestats.com/) : Live statistics of Internet usage and social media.
-* [https://iplogger.com](https://iplogger.com/) : IP Logger URL shortener web service helps to track data on your website traffic, get information about clicks on your short URLs shared via you social media channels or published on your website, lookup ip address, check ip location and check any URL for redirects and safety. :mag:
+* [https://iplogger.org](https://iplogger.org/) : IP Logger URL shortener web service helps to track data on your website traffic, get information about clicks on your short URLs shared via you social media channels or published on your website, lookup ip address, check ip location and check any URL for redirects and safety. :mag:
 * [https://isthisyour.pw](https://isthisyour.pw/) : Has your password leaked? Check here. 
 * [https://www.instructables.com](https://www.instructables.com/) : Take the free classes for making anything.
 * [https://www.iconfinder.com](https://www.iconfinder.com/) : The best place to find icons of all sizes.
 * [http://invitationspace.com](http://invitationspace.com/) : Make your invitation easier with this free online invitational cards for every ceremony like Engagement, Wedding, Birthday, Baby shower, etc. 
 * [https://iplocation.io](https://iplocation.io/) : Check results for any IP provided by different Geolocation providers.
+* [https://icanhazip.com](https://icanhazip.com/) : Check your IP address.
+* [https://isitonaws.com](https://isitonaws.com/) : Discover whether something on the Web is on AWS.
 
 ## J :
 * [http://jsbeautifier.org](http://jsbeautifier.org/) : Beautify, unpack or deobfuscate JavaScript and HTML, make JSON/JSONP readable, etc. :dizzy:
 * [https://virusscan.jotti.org](https://virusscan.jotti.org/) : Scan any suspicious file or email attachment for viruses.
 * [https://www.join.me](https://www.join.me/) : Share you screen with anyone over the web.
+* [https://jsonlint.com](https://jsonlint.com) : JSONLint is a validator and reformatter for JSON, a lightweight data-interchange format.
+* [http://jsonresume.io](http://jsonresume.io/) : You can upload your JSON resume according to the spec and this website will render it all pretty for you.
 
 ## K :
 * [http://www.keybr.com](http://www.keybr.com/) : Simple and adaptive typing lessons will help you type faster and with fewer errors.
@@ -184,7 +224,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://linuxjourney.com](https://linuxjourney.com/) : Learn the ways of Linux-fu for FREE. :penguin:
 * [https://lingojam.com/FancyTextGenerator](https://lingojam.com/FancyTextGenerator) : A translator to convert normal text to fancy text which you can copy and paste.
 * [https://www.locabrowser.com](https://www.locabrowser.com/) : Easy Web Browsing From Multiple Locations.
-* [https://linux.pictures](https://linux.pictures/) : Cool wallpapers for Linux guys! 
+* [https://localstack.cloud](https://localstack.cloud/) : Develop and test your cloud apps offline.
+* [https://lightsailworkshop.com](https://lightsailworkshop.com/) : This workshop is designed to educate engineers to deploy and scale applications with Amazon Lightsail.
 
 ## M :
 * [https://www.mathway.com](https://www.mathway.com/) : Free math problem solver answers your algebra homework questions with step-by-step explanations.
@@ -202,6 +243,10 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.mypustak.com](https://www.mypustak.com/) : You can order any book through this website for free of cost. They charge only for there courier service.
 * [https://minutes.io](https://minutes.io/) : Quickly capture effective notes during meetings.
 * [https://mxtoolbox.com](https://mxtoolbox.com/) : This test will list MX records for a domain in priority order. The MX lookup is done directly against the domain's authoritative name server, so changes to MX Records should show up instantly.
+* [http://motherfuckingwebsite.com](http://motherfuckingwebsite.com/) : This is a motherf*#king website.
+* [https://modules.tf](https://modules.tf) : Draw your AWS infrastructure and get high-quality Terraform configuration code ready to use right away.
+* [https://maildrop.cc](https://maildrop.cc/) : Use Maildrop when you don't want to give out your real address & save your inbox from spam.
+* [https://www.mytextarea.com](https://www.mytextarea.com/) : A simple online text editor.
 
 ## N :
 * [https://neave.com](https://neave.com/) : A collection of interactive tools, apps, toys and art.
@@ -250,6 +295,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.preceden.com](https://www.preceden.com/) : Preceden is an simple yet powerful timeline maker that helps you quickly create great looking timelines. With our intuitive web-based interface, numerous export options, and more, you'll be able to build and share your timeline in no time at all.
 * [https://tools.pingdom.com](https://tools.pingdom.com/) : Enter a URL to test the load time of that page, analyze it and find bottlenecks.
 * [https://www.powerwithindell.game](https://www.powerwithindell.game/) : Experience the power of Dell's Gaming. 
+* [http://www.passwordmeter.com](http://www.passwordmeter.com/) : Assess the strength of your password strings.
+* [https://www.pretzel.rocks](https://www.pretzel.rocks/) : Stream-safe music for Livestreamers. Hours of Twitch, Mixer, YouTube and Facebook safe music, don't get DMCAed.
 
 ## Q :
 * [https://quickdraw.withgoogle.com](https://quickdraw.withgoogle.com/) : Can a neural network learn to recognize doodling? Help teach it by adding your drawings to the world’s largest doodling data set, shared publicly to help with machine learning research. :pencil2:
@@ -271,6 +318,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://relax.li](https://relax.li/) : Relax to the soothing sounds of nature.
 * [https://roadtrippers.com](https://roadtrippers.com/) : Plan your route with the best lodging and attractions.
 * [https://www.random.org](https://www.random.org/) : RANDOM.ORG offers true random numbers to anyone on the Internet. The randomness comes from atmospheric noise, which for many purposes is better than the pseudo-random number algorithms typically used in computer programs.
+* [https://rejected.us](https://rejected.us/) : Read and share your rejection stories.
+* [https://www.remove.bg](https://www.remove.bg/) : Remove.bg removes backgrounds from photos. Automatically, in only 5 seconds and for free. Try it!
 
 ## S :
 * [https://studio.stupeflix.com](https://studio.stupeflix.com/) : Make amazing videos in seconds. Just add photos, videos, music, and text.
@@ -301,6 +350,12 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.similarsites.com](https://www.similarsites.com/) : Discover sites similar to the ones you know and love.
 * [https://seatguru.com](https://seatguru.com/) : Consult this site before choosing a seat for your next flight.
 * [https://www.sumopaint.com](https://www.sumopaint.com/) : The best photo editing and drawing tool online.
+* [https://study-ccna.com](https://study-ccna.com/) : A free CCNA tutorial site where you can study CCNA. 
+* [https://sourcerer.io](https://sourcerer.io/) : A visual profile for software engineers.
+* [http://step-easy.s3-website-us-west-2.amazonaws.com](http://step-easy.s3-website-us-west-2.amazonaws.com/) : Step Easy is a visual editor for AWS Step Functions state machine definitions.
+* [http://seoi.net/penint](http://seoi.net/penint/) : Draw anything and check what it converts itself into. :P
+* [http://sticker.exchange](http://sticker.exchange/) : The International Sticker Exchange Comminuty.
+* [http://www.staggeringbeauty.com](http://www.staggeringbeauty.com/) : Shake your mouse pointer vigorously on this website and have fun!
 
 ## T :
 * [http://typatone.com](http://typatone.com/) : Type some random stuff and enjoy the music.
@@ -319,6 +374,11 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.topcv.me](https://www.topcv.me/) : Create a professional Resume/CV in minutes. The simplest way to have impressive Resume without Photoshop, AI technique.
 * [https://www.typing.com](https://www.typing.com/) : Master touch-typing with these practice sessions.
 * [https://teuxdeux.com](https://teuxdeux.com/) : If you like making to-do lists, you will love TeuxDeux.
+* [https://tls.ulfheim.net](https://tls.ulfheim.net/) : Every byte of a TLS connection explained and reproduced.
+* [https://test-ipv6.com](https://test-ipv6.com/) : Test your IPv6 connectivity.
+* [https://time.is](https://time.is/) : Time.is displays exact, official atomic clock time for any time zone (more than 7 million locations) in 51 languages.
+* [https://turnoff.us](https://turnoff.us/) : turnoff.us is a geek comic site. Comics about Programming Languages, Web, Cloud, Linux, etc.
+* [https://tweetfancy.io](https://tweetfancy.io/) : Tweet with bold, italics and strikethrough text.
 
 ## U :
 * [https://unsplash.com](https://unsplash.com/) : Discover the latest free high resolution photos. :camera:
@@ -351,6 +411,10 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://wetransfer.com](https://wetransfer.com/) : An easy way to send big files up to 2 GB.
 * [http://www.wordle.net](http://www.wordle.net/) : Wordle is a toy for generating “word clouds” from text that you provide. The clouds give greater prominence to words that appear more frequently in the source text. You can tweak your clouds with different fonts, layouts, and color schemes. The images you create with Wordle are yours to use however you like. You can print them out, or save them to your own desktop to use as you wish.
 * [https://www.whoishostingthis.com](https://www.whoishostingthis.com/) : Discover who is hosting any website. Get information about the web host, IP address, name servers & more.
+* [https://www.webpagetest.org](https://www.webpagetest.org) : Test a website's performance.
+* [https://web.dev](https://web.dev/) : After you've launched your site, come back to web.dev and measure how well it supports your users. If there are areas where it can improve, you'll get immediate steps to increase your metrics.
+* [https://webhook.site](https://webhook.site) : Webhook.site allows you to easily test webhooks and other types of HTTP requests.
+* [https://wellarchitectedlabs.com](https://wellarchitectedlabs.com/) : Hands on labs and code to help you learn, measure, and build using architectural best practices.
 
 ## Y : 
 * [http://www.youtube-mp3.org](http://www.youtube-mp3.org/) : Convert YouTube videos to MP3s. :cinema:

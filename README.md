@@ -399,7 +399,7 @@ with AWS Amplify and AWS AppSync.
 * [https://www.woorank.com](https://www.woorank.com/) : Free Website Review Tool & SEO Checker. Enter your URL for a free instant website review and SEO audit for any site.
 * [http://weirdorconfusing.com](http://weirdorconfusing.com/) : Go to this site to buy weird and confusing thing. Things can go really weird 😉
 * [http://www.windows93.net](http://www.windows93.net/) : Use old Windows on your browser and live your past again.
-* [https://www.windowsremix.com](https://www.windowsremix.com/software) : Web-based batch software installer.
+* [https://www.windowsremix.com](https://www.windowsremix.com/) : Web-based batch software installer.
 * [https://willrobotstakemyjob.com](https://willrobotstakemyjob.com/) : This site estimates how likely you are to lose your job to robots.
 * [http://whathappenedinmybirthyear.com](http://whathappenedinmybirthyear.com/) : What happened in your birth year? Find out here. 
 * [http://whatthefuckshouldimakefordinner.com](http://whatthefuckshouldimakefordinner.com/) : Don’t know what to fix for dinner? This website will help. 

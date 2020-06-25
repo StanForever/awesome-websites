@@ -297,6 +297,7 @@ with AWS Amplify and AWS AppSync.
 * [https://www.powerwithindell.game](https://www.powerwithindell.game/) : Experience the power of Dell's Gaming. 
 * [http://www.passwordmeter.com](http://www.passwordmeter.com/) : Assess the strength of your password strings.
 * [https://www.pretzel.rocks](https://www.pretzel.rocks/) : Stream-safe music for Livestreamers. Hours of Twitch, Mixer, YouTube and Facebook safe music, don't get DMCAed.
+* [https://postale.io](https://postale.io/) : Super intuitive freemium email service to painlessly create domain/business email addresses.
 
 ## Q :
 * [https://quickdraw.withgoogle.com](https://quickdraw.withgoogle.com/) : Can a neural network learn to recognize doodling? Help teach it by adding your drawings to the world’s largest doodling data set, shared publicly to help with machine learning research. :pencil2:

@@ -29,12 +29,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://www.allyoucanread.com](http://www.allyoucanread.com/) : The largest database of newspapers and magazines on the Internet.
 * [http://all-free-download.com](http://all-free-download.com/) : Free Vector graphic art, free photos, free icons, free website templates, psd graphic, photoshop brush, font, footage free download. :free:
 * [http://www.alertful.com](http://www.alertful.com/) : Get reminded of important appointments via email.
-* [https://www.awsgeek.com](https://www.awsgeek.com/) : Cloud diagrams and notes on AWS services.
 * [https://anotepad.com](https://anotepad.com/) : Anotepad.com is your online notepad on the web. It allows you to store notes on the GO without having to Login. You can use a rich text editor, sort notes by date or title and make notes private. Best of all - anotepad is a fast, clean, simple to use and FREE notepad online. 
-* [https://amplify-workshop.go-aws.com](https://amplify-workshop.go-aws.com) : In this workshop, build a Photo-Sharing Web App 
-with AWS Amplify and AWS AppSync.
-* [https://awsclibuilder.com](https://awsclibuilder.com) : Let this website help you BUILD YOUR AWS CLI COMMANDS. Happy CLI Building!!
-* [https://asecure.cloud](https://asecure.cloud/) : A free repository of customizable AWS security configurations and best practices.
 * [https://asciinema.org](https://asciinema.org/) : Forget screen recording apps and blurry video. Enjoy a lightweight, purely text-based approach to terminal recording and sharing.
 * [https://guacamole.apache.org](https://guacamole.apache.org/) : Access your computers from anywhere.
 
@@ -57,8 +52,6 @@ with AWS Amplify and AWS AppSync.
 * [https://corrupt-a-file.net](https://corrupt-a-file.net/) : Can’t finish your assignment before deadline? This will corrupt your assignment files so that you can ask for extra time.
 * [https://www.calligraphr.com](https://www.calligraphr.com/) : Transform your handwriting or calligraphy into a font! Creating your own font has never been easier. With your own font you can create genuine personal designs and calligraphic artwork.
 * [https://www.canva.com](https://www.canva.com/) : Amazingly Simple Graphic Design Software.
-* [http://checkip.amazonaws.com](http://checkip.amazonaws.com/) : Check your IP address. 
-* [https://calculator.s3.amazonaws.com/index.html](https://calculator.s3.amazonaws.com/index.html) : This Calculator provides an estimate of usage charges for AWS services based on certain information you provide.
 * [http://cidr.xyz](http://cidr.xyz/) : An interactive IP address and CIDR range visualizer.
 * [https://crontab-generator.org](https://crontab-generator.org/) : Generate crontab syntax. 
 * [https://clickclickclick.click](https://clickclickclick.click/) : Just "click" it to see what happens. :wink:
@@ -73,16 +66,10 @@ with AWS Amplify and AWS AppSync.
 * [http://chapiapp.com](http://chapiapp.com/) : Chapi helps you save contents like texts, images and webpages to a personalized space and recollects them when you require.
 * [https://www.copypastecharacter.com](https://www.copypastecharacter.com/) : Copy special characters that aren't on your keyboard.
 * [https://cidr.online](https://cidr.online/) : This Subnet/CIDR calculator allows you to enter a IPv4 CIDR range and calculates IP addresses, Network Size, Subnet Mask, Min and Max Host etc.
-* [https://containersonaws.com](https://containersonaws.com/) : Learn about how to run containers on AWS using Amazon ECS and AWS Fargate.
-* [https://cdkworkshop.com](https://cdkworkshop.com/) : This workshop is designed to educate engineers that might not be familiar with AWS Cloud Development Kit (CDK).
 * [https://codebeautify.org](https://codebeautify.org/) : CodeBeautify is an online code beautifier which allows you to beautify your source code.
 * [https://css-tricks.com](https://css-tricks.com/) : Learn about some cool CSS tricks through articles and videos. 
 * [https://crontab.guru](https://crontab.guru/) : The quick and simple editor for cron schedule expressions.
 * [http://cloudping.bastionhost.org](http://cloudping.bastionhost.org/en/) : This site allows you to perform an HTTP ping to measure the network latency from your browser to the various cloud data centers around the world.
-* [https://www.cloudping.co](https://www.cloudping.co/) : Records inter-region latency over a TCP connection between all AWS regions.
-* [https://www.cloudping.info](https://www.cloudping.info/) : Estimate the latency from your browser to each AWS region.
-* [https://cfnchecklist.com](https://cfnchecklist.com/) : The CloudFormation Checklist is a list of all elements you need to have / to test before launching your infra to production.
-* [https://cost-calculator.bref.sh](https://cost-calculator.bref.sh/) : Estimate AWS costs when running serverless applications on AWS Lambda.
 
 ## D : 
 * [http://downforeveryoneorjustme.com](http://downforeveryoneorjustme.com/) : Check if a website is down for everyone or just you.
@@ -110,13 +97,8 @@ with AWS Amplify and AWS AppSync.
 * [http://ecomputernotes.com](http://ecomputernotes.com/) : For learning many cool stuff related to computers like networking, web development, programming etc.
 * [https://www.ecosia.org](https://www.ecosia.org/) : Search engine which plants a tree with the revenue from ads... Sounds good to our environment. :seedling:
 * [http://www.essaytyper.com](http://www.essaytyper.com/) : The finals are right around the corner and you need to finish your essay? You’re in luck!
-* [https://ecsworkshop.com](https://ecsworkshop.com/) : This workshop is designed to educate engineers that might not be familiar with Fargate, ECS, and possibly even Docker container workflow. :whale:
-* [https://eksworkshop.com](https://eksworkshop.com/) : This workshop is designed to educate engineers that might not be familiar with Amazon EKS, Kubernetes, and possibly even Docker container workflow.
 * [https://www.easycron.com](https://www.easycron.com/) : EasyCron is a task scheduler which provides services of calling specified URLs at specified time or by time interval. :watch:
 * [https://www.etymonline.com](https://www.etymonline.com/) : Gives you the history and derivation of any word. Check it out here.
-* [https://ec2instances.info](https://ec2instances.info) : Easy Amazon EC2 & Amazon RDS Instance Comparison.
-* [https://ec2spotworkshops.com](https://ec2spotworkshops.com/) : This workshop is designed to educate engineers that might not be familiar with Amazon EC2 Spot Instances.
-* [https://ec2types.io](https://ec2types.io) : Know and compare about different Amazon EC2 instance types.
 * [https://everytimezone.com](https://everytimezone.com/) : Never warp your brain with timezone math again.
 
 ## F :
@@ -165,7 +147,6 @@ with AWS Amplify and AWS AppSync.
 * [http://www.getnotify.com](http://www.getnotify.com/) : This website tracks whether the emails sent by you were opened and read by the receiver. Moreover, it also provides the recipient’s IP Address, location, browser details, and more.
 * [http://ge.tt](http://ge.tt/) : Quickly send a file to someone, they can even preview it before downloading.
 * [https://gitcoin.co](https://gitcoin.co/) : Gitcoin is the easiest way to leverage the open source community to incentivize or monetize work.
-* [https://buckets.grayhatwarfare.com](https://buckets.grayhatwarfare.com) : Search for Open Amazon S3 Buckets and their contents.
 * [https://gitstalk.netlify.com](https://gitstalk.netlify.com/) : Discover who's upto what on Github.
 
 ## H :
@@ -199,7 +180,6 @@ with AWS Amplify and AWS AppSync.
 * [http://invitationspace.com](http://invitationspace.com/) : Make your invitation easier with this free online invitational cards for every ceremony like Engagement, Wedding, Birthday, Baby shower, etc. 
 * [https://iplocation.io](https://iplocation.io/) : Check results for any IP provided by different Geolocation providers.
 * [https://icanhazip.com](https://icanhazip.com/) : Check your IP address.
-* [https://isitonaws.com](https://isitonaws.com/) : Discover whether something on the Web is on AWS.
 
 ## J :
 * [http://jsbeautifier.org](http://jsbeautifier.org/) : Beautify, unpack or deobfuscate JavaScript and HTML, make JSON/JSONP readable, etc. :dizzy:
@@ -225,7 +205,6 @@ with AWS Amplify and AWS AppSync.
 * [https://lingojam.com/FancyTextGenerator](https://lingojam.com/FancyTextGenerator) : A translator to convert normal text to fancy text which you can copy and paste.
 * [https://www.locabrowser.com](https://www.locabrowser.com/) : Easy Web Browsing From Multiple Locations.
 * [https://localstack.cloud](https://localstack.cloud/) : Develop and test your cloud apps offline.
-* [https://lightsailworkshop.com](https://lightsailworkshop.com/) : This workshop is designed to educate engineers to deploy and scale applications with Amazon Lightsail.
 
 ## M :
 * [https://www.mathway.com](https://www.mathway.com/) : Free math problem solver answers your algebra homework questions with step-by-step explanations.
@@ -244,7 +223,6 @@ with AWS Amplify and AWS AppSync.
 * [https://minutes.io](https://minutes.io/) : Quickly capture effective notes during meetings.
 * [https://mxtoolbox.com](https://mxtoolbox.com/) : This test will list MX records for a domain in priority order. The MX lookup is done directly against the domain's authoritative name server, so changes to MX Records should show up instantly.
 * [http://motherfuckingwebsite.com](http://motherfuckingwebsite.com/) : This is a motherf*#king website.
-* [https://modules.tf](https://modules.tf) : Draw your AWS infrastructure and get high-quality Terraform configuration code ready to use right away.
 * [https://maildrop.cc](https://maildrop.cc/) : Use Maildrop when you don't want to give out your real address & save your inbox from spam.
 * [https://www.mytextarea.com](https://www.mytextarea.com/) : A simple online text editor.
 
@@ -311,7 +289,6 @@ with AWS Amplify and AWS AppSync.
 * [http://www.rap4ever.org](http://www.rap4ever.org/) : The best website to download the whole mixtaps of rap and hip hop music. 
 * [http://www.recipepuppy.com](http://www.recipepuppy.com/) : Search for recipes based on the ingredients you have. :stew:
 * [http://rhymer.com](http://rhymer.com/) : Online rhyming dictionary. Best if you love writing poems.
-* [https://reinventvideos.com](https://reinventvideos.com/) : Here's a list of all of the AWS re:Invent breakout sessions from 2012 - 2017. :cloud:
 * [http://recruitahacker.net](http://recruitahacker.net/) : Do you have what it takes? 
 * [https://regexr.com](https://regexr.com/) : RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions. 
 * [https://www.ribbet.com](https://www.ribbet.com/) : Online Photo editor and collage maker. Great choice when you're desperate to edit your photos and be a superstar on social media!
@@ -333,7 +310,6 @@ with AWS Amplify and AWS AppSync.
 * [https://www.spreeder.com](https://www.spreeder.com/) : Read 3x Faster and be More Productive in Life. It's the web's leading destination for speed reading. We help you read faster, comprehend more, so you can save time and be more productive in life. :fast_forward:
 * [https://soombo.com](https://soombo.com/) : Watch Live TV online. :tv:
 * [https://www.sparkpeople.com](https://www.sparkpeople.com/) : Get Fit and Lose Weight With Free Online Program. :muscle:
-* [https://skillinator.io](https://skillinator.io/) : Skillinator.io is a simple tool designed to help quickly prototype Alexa skills created through the Alexa Skills Kit. Skillinator takes your interaction model JSON, and generates template javascript which you can upload into AWS Lambda. Skillinator automatically creates handlers for all your intents, and includes code to delegate back to Alexa if you are using dialog features. :sound:
 * [https://www.shellcheck.net](https://www.shellcheck.net/) : ShellCheck, a static analysis tool that gives warnings and suggestions for bash/sh shell scripts. :shell:
 * [https://stars.chromeexperiments.com](https://stars.chromeexperiments.com/) : Visualization of 100,000 nearby stars. :stars:
 * [https://strobe.cool](https://strobe.cool/) : You are about to hallucinate. The world around you will change shape, appearing to warp and distort.
@@ -353,7 +329,6 @@ with AWS Amplify and AWS AppSync.
 * [https://www.sumopaint.com](https://www.sumopaint.com/) : The best photo editing and drawing tool online.
 * [https://study-ccna.com](https://study-ccna.com/) : A free CCNA tutorial site where you can study CCNA. 
 * [https://sourcerer.io](https://sourcerer.io/) : A visual profile for software engineers.
-* [http://step-easy.s3-website-us-west-2.amazonaws.com](http://step-easy.s3-website-us-west-2.amazonaws.com/) : Step Easy is a visual editor for AWS Step Functions state machine definitions.
 * [http://seoi.net/penint](http://seoi.net/penint/) : Draw anything and check what it converts itself into. :P
 * [http://sticker.exchange](http://sticker.exchange/) : The International Sticker Exchange Comminuty.
 * [http://www.staggeringbeauty.com](http://www.staggeringbeauty.com/) : Shake your mouse pointer vigorously on this website and have fun!
@@ -416,7 +391,6 @@ with AWS Amplify and AWS AppSync.
 * [https://www.webpagetest.org](https://www.webpagetest.org) : Test a website's performance.
 * [https://web.dev](https://web.dev/) : After you've launched your site, come back to web.dev and measure how well it supports your users. If there are areas where it can improve, you'll get immediate steps to increase your metrics.
 * [https://webhook.site](https://webhook.site) : Webhook.site allows you to easily test webhooks and other types of HTTP requests.
-* [https://wellarchitectedlabs.com](https://wellarchitectedlabs.com/) : Hands on labs and code to help you learn, measure, and build using architectural best practices.
 
 ## Y : 
 * [http://www.youtube-mp3.org](http://www.youtube-mp3.org/) : Convert YouTube videos to MP3s. :cinema:

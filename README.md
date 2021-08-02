@@ -318,6 +318,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://rejected.us](https://rejected.us/) : Read and share your rejection stories.
 * [https://www.remove.bg](https://www.remove.bg/) : Remove.bg removes backgrounds from photos. Automatically, in only 5 seconds and for free. Try it!
 * [https://rxresu.me](https://rxresu.me/) : Make your own reactive resume! 
+* [https://respresso.io/](https://respresso.io/) : Let your whole team edit resource files (localizations, images, colors, etc.) with Respresso’s online editor to get them in a platform-specific format, automatically delivered to your source code. 👨‍💻
 
 ## S :
 * [https://studio.stupeflix.com](https://studio.stupeflix.com/) : Make amazing videos in seconds. Just add photos, videos, music, and text.

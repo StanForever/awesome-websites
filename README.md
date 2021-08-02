@@ -241,7 +241,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://motherfuckingwebsite.com](http://motherfuckingwebsite.com/) : This is a motherf*#king website.
 * [https://maildrop.cc](https://maildrop.cc/) : Use Maildrop when you don't want to give out your real address & save your inbox from spam.
 * [https://www.mytextarea.com](https://www.mytextarea.com/) : A simple online text editor.
-* [https://mycvdesigner.com](https://www.mycvdesigner.com/) : The most affordable resume writing service that builds excellent quality resumes for worldwide job seekers. :page_facing_up: :bar-chart:
+* [https://mycvdesigner.com](https://www.mycvdesigner.com/) : The most affordable resume writing service that builds excellent quality resumes for worldwide job seekers. :page_facing_up: :bar_chart:
 
 ## N :
 * [https://neave.com](https://neave.com/) : A collection of interactive tools, apps, toys and art.

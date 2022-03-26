@@ -33,6 +33,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://anotepad.com](https://anotepad.com/) : Anotepad.com is your online notepad on the web. It allows you to store notes on the GO without having to Login. You can use a rich text editor, sort notes by date or title and make notes private. Best of all - anotepad is a fast, clean, simple to use and FREE notepad online. 
 * [https://asciinema.org](https://asciinema.org/) : Forget screen recording apps and blurry video. Enjoy a lightweight, purely text-based approach to terminal recording and sharing.
 * [https://guacamole.apache.org](https://guacamole.apache.org/) : Access your computers from anywhere.
+* [https://algorithm-visualizer.org](https://algorithm-visualizer.org) : Algorithm Visualizer is an interactive online platform that visualizes algorithms from code. Learning an algorithm gets much easier with visualizing it.
 
 ## B :
 * [https://builtwith.com](https://builtwith.com/) : Find out what websites are built with. You can find the technology stack of any website.
@@ -95,6 +96,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.dbdesigner.net](https://www.dbdesigner.net/) : Design your database schema without writing SQL.
 * [http://deathdate.info](http://deathdate.info/s/death) : Please fill out this form, don't be afraid to share your data - it's necessary only for your Death Date calculations, the only thing you should be concerned about is the time you have left... 
 * [http://deadpixelbuddy.com](http://deadpixelbuddy.com/) : The tool that detects dead pixels on your screen.
+* [https://www.davidc.net/sites/default/subnets/subnets.html](https://www.davidc.net/sites/default/subnets/subnets.html) : Visual Subnet Calculator for those folks working in Computer Networking. 
 
 ## E : 
 * [https://explainshell.com](https://explainshell.com/) : Write down a command-line to see the help text that matches each argument. :shell:

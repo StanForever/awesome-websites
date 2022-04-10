@@ -271,6 +271,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://oswallpapers.com](http://oswallpapers.com/) : Download all OS's default wallpapers and Backgrounds, All Operating System HD Background archive. 
 * [http://www.oldversion.com](http://www.oldversion.com/) : Get old versions of software.
 * [https://www.onlineocr.net](https://www.onlineocr.net/) : Recognize text from scanned PDFs
+* [https://os.directory](https://os.directory) : Online Operating System.
 
 ## P : 
 * [http://pointerpointer.com](http://pointerpointer.com/) : It is on there and it's really cool.

@@ -36,6 +36,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://algorithm-visualizer.org](https://algorithm-visualizer.org) : Algorithm Visualizer is an interactive online platform that visualizes algorithms from code. Learning an algorithm gets much easier with visualizing it.
 
 ## B :
+* [https://bundle.js.org](https://bundle.js.org) : A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, js, jsx and npm projects all online, while returning the final bundle file size.
 * [https://builtwith.com](https://builtwith.com/) : Find out what websites are built with. You can find the technology stack of any website.
 * [http://bugmenot.com](http://bugmenot.com/) : Enter a website below to see if the bugmenot community has shared any logins for it.
 * [https://bubbl.us](https://bubbl.us/) : A free mind mapping tool. :free:

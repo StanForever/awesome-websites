@@ -77,6 +77,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 
 ## D : 
 * [http://downforeveryoneorjustme.com](http://downforeveryoneorjustme.com/) : Check if a website is down for everyone or just you.
+* [https://www.debugbear.com/test/website-speed](https://www.debugbear.com/test/website-speed) : Enter a URL to test and optmize page speed.
 * [http://www.degraeve.com/color-palette](http://www.degraeve.com/color-palette) : Create color palettes from images. Simply put a URL of a photo and voila!
 * [http://downloadtimecalculator.com](http://downloadtimecalculator.com/) : A simple calculator with which you can calculate download time for a file depending on download speed. How long time it will take depends on file size, your own download speed and the server's upload speed. In these calculations it is assumed that your download speed is the bottleneck. :arrow_down:
 * [http://www.drawastickman.com](http://www.drawastickman.com/) : Draw a stickman and then take it on an adventurous trip. This cool website is actually a time machine that will transport you straight to your childhood.

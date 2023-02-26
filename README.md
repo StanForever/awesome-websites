@@ -34,6 +34,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://asciinema.org](https://asciinema.org/) : Forget screen recording apps and blurry video. Enjoy a lightweight, purely text-based approach to terminal recording and sharing.
 * [https://guacamole.apache.org](https://guacamole.apache.org/) : Access your computers from anywhere.
 * [https://algorithm-visualizer.org](https://algorithm-visualizer.org) : Algorithm Visualizer is an interactive online platform that visualizes algorithms from code. Learning an algorithm gets much easier with visualizing it.
+* [https://www.autoregex.xyz](https://www.autoregex.xyz/) : Regex is difficult to write and comprehend to the average human. This website uses artificial intelligence to automate this task by translating back and forth between English and RegEx.
 
 ## B :
 * [https://bundle.js.org](https://bundle.js.org) : A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, js, jsx and npm projects all online, while returning the final bundle file size.
@@ -75,6 +76,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://crontab.guru](https://crontab.guru/) : The quick and simple editor for cron schedule expressions.
 * [http://cloudping.bastionhost.org](http://cloudping.bastionhost.org/en/) : This site allows you to perform an HTTP ping to measure the network latency from your browser to the various cloud data centers around the world.
 * [https://chirpty.com](https://chirpty.com/) : Create your own Twitter interaction circle.
+* [https://api.chucknorris.io](https://api.chucknorris.io/) : Free JSON API for hand curated Chuck Norris facts.
+* [https://www.calligrapher.ai](https://www.calligrapher.ai/) : Realistic handwriting generator. Convert text to handwriting using an in-browser recurrent neural network. Choose from various print and cursive styles. Customize the outputs and download as SVG ✍🏻
 
 ## D : 
 * [http://downforeveryoneorjustme.com](http://downforeveryoneorjustme.com/) : Check if a website is down for everyone or just you.
@@ -99,6 +102,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://deathdate.info](http://deathdate.info/s/death) : Please fill out this form, don't be afraid to share your data - it's necessary only for your Death Date calculations, the only thing you should be concerned about is the time you have left... 
 * [http://deadpixelbuddy.com](http://deadpixelbuddy.com/) : The tool that detects dead pixels on your screen.
 * [https://www.davidc.net/sites/default/subnets/subnets.html](https://www.davidc.net/sites/default/subnets/subnets.html) : Visual Subnet Calculator for those folks working in Computer Networking. 
+* [https://dualmonitorbackgrounds.com](https://dualmonitorbackgrounds.com/) : Welcome to the largest dedicated dual monitor backgrounds website on the internet. Dual monitor backgrounds (AKA dual screen wallpapers) are backgrounds that span two screens 🖥 🖥
 
 ## E : 
 * [https://explainshell.com](https://explainshell.com/) : Write down a command-line to see the help text that matches each argument. :shell:
@@ -140,6 +144,9 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://fixmie.com](https://fixmie.com/) : Fixmie analyzes and automatically fixes your source code by providing smart and useful suggestions.
 * [https://frontendchecklist.io](https://frontendchecklist.io) : The Front-End Checklist is an exhaustive list of all elements you need to have / to test before launching your website / HTML page to production.
 * [https://www.factoftheday1.com](https://www.factoftheday1.com/) : A fact every business day about the tech industry, business leadership, and thought-provoking ideas.
+* [https://www.feeonlyindia.com](https://www.feeonlyindia.com/) : An association of financial planners who do not sell any products or earn commissions, and who work purely in the client's best interest.
+* [https://thefundoo.com/Tools](https://thefundoo.com/Tools) : Suite of tools useful for Share Market, Mutual Funds investors. 
+
 
 ## G :
 * [http://gizoogle.net](http://gizoogle.net/) : Translate your words into Snoop Dogg style gangsta.
@@ -159,6 +166,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://gitcoin.co](https://gitcoin.co/) : Gitcoin is the easiest way to leverage the open source community to incentivize or monetize work.
 * [https://gitstalk.netlify.com](https://gitstalk.netlify.com/) : Discover who's upto what on Github.
 * [https://gitexplorer.com](https://gitexplorer.com/) : Git Command Explorer. Find the right commands you need without digging through the web.
+* [https://gitstats.me](https://gitstats.me/) : Git-Stats. An open-source GitHub contribution analyzer
 * [https://gitstats.me](https://gitstats.me/) : Git-Stats. An open-source GitHub contribution analyzer
 
 ## H :
@@ -203,6 +211,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://jsonlint.com](https://jsonlint.com) : JSONLint is a validator and reformatter for JSON, a lightweight data-interchange format.
 * [http://jsonresume.io](http://jsonresume.io/) : You can upload your JSON resume according to the spec and this website will render it all pretty for you.
 * [https://www.jscreenfix.com](https://www.jscreenfix.com/) : The JScreenFix pixel fixing algorithm has been applied to millions of screens and is the most effective software solution available for repairing defective pixels.
+* [https://job-ready.herokuapp.com](https://job-ready.herokuapp.com/) : AI-powered Cover Letter Generator 📄
+
 
 ## K :
 * [http://www.keybr.com](http://www.keybr.com/) : Simple and adaptive typing lessons will help you type faster and with fewer errors.
@@ -224,6 +234,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://localstack.cloud](https://localstack.cloud/) : Develop and test your cloud apps offline.
 * [https://learnxinyminutes.com](https://learnxinyminutes.com/) : Whirlwind tours of (several, hopefully many someday) popular and ought-to-be-more-popular programming languages, presented as valid, commented code and explained as they go.
 * [https://lunar.fyi](https://lunar.fyi/) : Intelligent adaptive brightness for your external display.
+* [https://learngitbranching.js.org](https://learngitbranching.js.org/) : The most visual and interactive way to learn Git on the web; you'll be challenged with exciting levels, given step-by-step demonstrations of powerful features, and maybe even have a bit of fun along the way. 
 
 ## M :
 * [https://www.mathway.com](https://www.mathway.com/) : Free math problem solver answers your algebra homework questions with step-by-step explanations.
@@ -299,6 +310,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://www.passwordmeter.com](http://www.passwordmeter.com/) : Assess the strength of your password strings.
 * [https://www.pretzel.rocks](https://www.pretzel.rocks/) : Stream-safe music for Livestreamers. Hours of Twitch, Mixer, YouTube and Facebook safe music, don't get DMCAed.
 * [https://postale.io](https://postale.io/) : Super intuitive freemium email service to painlessly create domain/business email addresses.
+* [https://pitchme.vercel.app](https://pitchme.vercel.app/) : Generate quality referral pitches and cover letters in less than 30 seconds using AI magic! 🪄
 
 ## Q :
 * [https://quickdraw.withgoogle.com](https://quickdraw.withgoogle.com/) : Can a neural network learn to recognize doodling? Help teach it by adding your drawings to the world’s largest doodling data set, shared publicly to help with machine learning research. :pencil2:
@@ -322,7 +334,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://rejected.us](https://rejected.us/) : Read and share your rejection stories.
 * [https://www.remove.bg](https://www.remove.bg/) : Remove.bg removes backgrounds from photos. Automatically, in only 5 seconds and for free. Try it!
 * [https://rxresu.me](https://rxresu.me/) : Make your own reactive resume! 
-* [https://respresso.io/](https://respresso.io/) : Let your whole team edit resource files (localizations, images, colors, etc.) with Respresso’s online editor to get them in a platform-specific format, automatically delivered to your source code. 👨‍💻
+* [https://respresso.io/](https://respresso.io/) : Let your whole team edit resource files (localizations, images, colors, etc.) with Respresso’s online editor to get them in a platform-specific format, automatically delivered to your source code 👨‍💻
+* [https://www.restorephotos.io](https://www.restorephotos.io/) : Have old and blurry face photos? Let AI restore them so those memories can live on.
 
 ## S :
 * [https://studio.stupeflix.com](https://studio.stupeflix.com/) : Make amazing videos in seconds. Just add photos, videos, music, and text.
@@ -357,10 +370,11 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://seoi.net/penint](http://seoi.net/penint/) : Draw anything and check what it converts itself into. :P
 * [http://sticker.exchange](http://sticker.exchange/) : The International Sticker Exchange Comminuty.
 * [http://www.staggeringbeauty.com](http://www.staggeringbeauty.com/) : Shake your mouse pointer vigorously on this website and have fun!
-* [https://ssd.eff.org](https://ssd.eff.org/) : Tips, tools & how-tos for safer online communications. A project by Electronic Frontier Foundation. 🔐
+* [https://ssd.eff.org](https://ssd.eff.org/) : Tips, tools & how-tos for safer online communications. A project by Electronic Frontier Foundation 🔐
 * [https://slackmojis.com](https://slackmojis.com/) : An *unofficial* directory of the best custom slack emojis.
 * [https://shutuptrackers.com](https://shutuptrackers.com/) : ShutUpTrackers is a socially motivated website that provides information for protecting your data security and privacy.
 * [https://www.submarinecablemap.com](https://www.submarinecablemap.com/) : The Submarine Cable Map is a free and regularly updated resource from TeleGeography about the map of submarine cables around the world.
+* [http://savethesounds.info](http://savethesounds.info/) : The Museum of Endangered Sounds. Click a thumbnail to take a listen down memory lane. 
 
 ## T :
 * [http://typatone.com](http://typatone.com/) : Type some random stuff and enjoy the music.
@@ -387,6 +401,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://theia-ide.org](https://theia-ide.org/) : Eclipse Theia is an extensible platform to develop multi-language Cloud & Desktop IDEs with state-of-the-art web technologies.
 * [https://tineye.com](https://tineye.com/) : Reverse Image Search. Search by image and find where that image appears online.
 * [https://theworstwebsiteinthe.world](https://theworstwebsiteinthe.world/) : Literally what the website link says. The Worst Website In The World! 🤣
+* [https://theresanaiforthat.com](https://theresanaiforthat.com/) : There's an AI for every task! 🤖
+
 
 ## U :
 * [https://unsplash.com](https://unsplash.com/) : Discover the latest free high resolution photos. :camera:
@@ -394,7 +410,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://www.urlvoid.com](http://www.urlvoid.com/) : Identify websites in malware incidents ,fraudulent and spamming activities.
 * [http://unplugthetv.com](http://unplugthetv.com/) : Randomly selects an educational video for you to watch.
 * [http://www.usefulscience.org](http://www.usefulscience.org/) : This website offers a collection of one-line summaries of research published in scientific journals on topics ranging from health to productivity, creativity.
-* [https://unlockmybox.com](https://unlockmybox.com/) : Find it hard to talk about your sexual desires? This website is a simple real time game to help you and a partner communicate in a fun and safe way. All you need to play is a browser on your phone, tablet or computer. No account needed. 👩‍❤️‍💋‍👨
+* [https://unlockmybox.com](https://unlockmybox.com/) : Find it hard to talk about your sexual desires? This website is a simple real time game to help you and a partner communicate in a fun and safe way. All you need to play is a browser on your phone, tablet or computer. No account needed 👩‍❤️‍💋‍👨
 
 ## V :
 * [https://vectormagic.com](https://vectormagic.com/) : Easily Convert Bitmaps To Vectors. Quickly get your artwork ready to print, embroider, cut, and more with the world's best full-color auto-tracer!
@@ -428,6 +444,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://webhook.site](https://webhook.site) : Webhook.site allows you to easily test webhooks and other types of HTTP requests.
 * [https://www.windy.com](https://www.windy.com/) : One of the best weather forecasting service in the world.
 * [https://whatisthisthing.vercel.app/](https://whatisthisthing.vercel.app/) : A site which has all the things from r/whatisthisthing with just the picture, and the answer/possible answer.
+* [https://www.wordclouds.com](https://www.wordclouds.com/) : Free online word cloud generator.
+* [https://world-power-plugs.com](https://world-power-plugs.com/) : Going on an internship, volunteering abroad or simply traveling for pleasure? Wherever you go, World Power Plugs makes sure you can power up. In seconds you'll know if you need a plug adapter or a power converter for any outlets used around the world 🌍
 
 ## Y : 
 * [http://www.youtube-mp3.org](http://www.youtube-mp3.org/) : Convert YouTube videos to MP3s. :cinema:

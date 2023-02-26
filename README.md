@@ -167,7 +167,6 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://gitstalk.netlify.com](https://gitstalk.netlify.com/) : Discover who's upto what on Github.
 * [https://gitexplorer.com](https://gitexplorer.com/) : Git Command Explorer. Find the right commands you need without digging through the web.
 * [https://gitstats.me](https://gitstats.me/) : Git-Stats. An open-source GitHub contribution analyzer
-* [https://gitstats.me](https://gitstats.me/) : Git-Stats. An open-source GitHub contribution analyzer
 
 ## H :
 * [http://www.1happybirthday.com](http://www.1happybirthday.com/) : Birthday songs for a Happy Birthday. :birthday:

@@ -130,7 +130,6 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://file-upload.com](http://file-upload.com/) : Free cloud storage for your data. :free:
 * [https://www.freeprivacypolicy.com](https://www.freeprivacypolicy.com/) : Create a free custom privacy policy for your website, blog or mobile app in just minutes! :free:
 * [https://freeformatter.com](https://freeformatter.com/) : Website to help developers by providing them with free online tools. These tools include several formatters, validators, code minifiers, string escapers, encoders and decoders, message digesters, web resources and more. :free:
-* [http://www.foodplusfood.com](http://www.foodplusfood.com/) : Food combination inspiration.
 * [https://forget.me](https://forget.me/) : Remove yourself from Google search results.
 * [https://www.freecycle.org](https://www.freecycle.org/) : A network of people giving away free stuff in their towns.
 * [https://www.followupthen.com](https://www.followupthen.com/) : The simplest way to schedule an email reminder.

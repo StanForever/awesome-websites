@@ -36,6 +36,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://algorithm-visualizer.org](https://algorithm-visualizer.org) : Algorithm Visualizer is an interactive online platform that visualizes algorithms from code. Learning an algorithm gets much easier with visualizing it.
 * [https://www.autoregex.xyz](https://www.autoregex.xyz/) : Regex is difficult to write and comprehend to the average human. This website uses artificial intelligence to automate this task by translating back and forth between English and RegEx.
 * [https://aitools.fyi](https://aitools.fyi) : Find the best AI tools to help you build your next awesome project faster and easier. This website has curated the best AI tools for you to use in your next project.
+* [https://amazingnewsletters.com](https://amazingnewsletters.com) : Find the best newsletters to subscribe to! Amazing Newsletters curates top content for your inbox. Dive in and discover.
 
 ## B :
 * [https://bundle.js.org](https://bundle.js.org) : A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, js, jsx and npm projects all online, while returning the final bundle file size.

@@ -12,6 +12,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.7cups.com](https://www.7cups.com/) : 7 Cups is a website which provides online emotional heath support service to people experiencing emotional distress by connecting them with trained listeners. The listener, trained in active listening, interacts with the person seeking help via an anonymous and confidential chat.
 * [https://www.16personalities.com](https://www.16personalities.com/) : Take this Personality Test and get a “freakishly accurate” description of who you are and why you do things the way you do.
 * [https://10minutemail.com](https://10minutemail.com/) : Beat spam with the best and free disposable email service.
+* [https://3dhouseplanner.com](https://3dhouseplanner.com/) : 3D House Planner is a floor planner web application that allows users to design houses and apartments. :free:
 
 ## A : 
 * [https://www.awwwards.com](https://www.awwwards.com/) : The awards that recognize the talent and effort of the best web designers, developers and agencies in the world.

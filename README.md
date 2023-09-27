@@ -52,6 +52,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://www.bartleby.com](http://www.bartleby.com/) : The preeminent internet publisher of literature, reference and verse providing students, researchers and the intellectually curious with unlimited access to books and information on the web, free of charge.
 * [http://www.boxoh.com](http://www.boxoh.com/) : Boxoh universal package tracking:  UPS, FedEx, USPS, and DHL with RSS and Maps.
 * [https://burnermail.io](https://burnermail.io/) : Keep your inbox protected with burner email addresses. Hide your personal email address, control who can send you emails, and generate new burners with one click.
+* [https://brokenbear.com](https://brokenbear.com/) : Vent to an AI Teddy Bear for free, online, and anonymously with no signing up.
+ 
 
 ## C :
 * [http://www.csgenerator.com](http://www.csgenerator.com/) : Complex Sentence Generator is a free content rewriter that can potentially rephrase, reword, paraphrase and/or rewrite sentences, paragraphs, articles, content, words and/or phrases into a more complex, unorthodox or convoluted alternative while delivering the same meaning. :free:

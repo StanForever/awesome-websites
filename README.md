@@ -66,7 +66,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://crontab-generator.org](https://crontab-generator.org/) : Generate crontab syntax. 
 * [https://clickclickclick.click](https://clickclickclick.click/) : Just "click" it to see what happens. :wink:
 * [https://codeclippet.com](https://codeclippet.com/) : Code Clippet allows you to stop storing code snippets within text files and start sharing them with others, around a community focused environment.
-* [https://camelcamelcamel.com](https://camelcamelcamel.com/) : This free Amazon price tracker monitors millions of products and alerts you when prices drop, helping you decide when to buy. 
+* [https://camelcamelcamel.com](https://camelcamelcamel.com/) : This free Amazon price tracker monitors millions of products and alerts you when prices drop, helping you decide when to buy.
+* [https://cobalt.tools/](https://cobalt.tools/) : Easily download almost every video you can find online.
 * [https://codecombat.com](https://codecombat.com/) : Play a game and learn to code in Python and Javascript.
 * [http://www.commercialtunage.com](http://www.commercialtunage.com/) : Find out which song was used in that one commercial.
 * [https://cloudconvert.com](https://cloudconvert.com/) : Convert anything to anything! 

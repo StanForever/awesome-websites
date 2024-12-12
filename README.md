@@ -38,6 +38,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.autoregex.xyz](https://www.autoregex.xyz/) : Regex is difficult to write and comprehend to the average human. This website uses artificial intelligence to automate this task by translating back and forth between English and RegEx.
 * [https://aitools.fyi](https://aitools.fyi) : Find the best AI tools to help you build your next awesome project faster and easier. This website has curated the best AI tools for you to use in your next project.
 * [https://amazingnewsletters.com](https://amazingnewsletters.com) : Find the best newsletters to subscribe to! Amazing Newsletters curates top content for your inbox. Dive in and discover.
+* [https://dinosaurpictures.org/ancient-earth#170](https://dinosaurpictures.org/ancient-earth#170) : Ancient Earth Globe 🌍 How did Earth look like __ years ago?
 
 ## B :
 * [https://bundle.js.org](https://bundle.js.org) : A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, js, jsx and npm projects all online, while returning the final bundle file size.
@@ -53,6 +54,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://www.boxoh.com](http://www.boxoh.com/) : Boxoh universal package tracking:  UPS, FedEx, USPS, and DHL with RSS and Maps.
 * [https://burnermail.io](https://burnermail.io/) : Keep your inbox protected with burner email addresses. Hide your personal email address, control who can send you emails, and generate new burners with one click.
 * [https://brokenbear.com](https://brokenbear.com/) : Vent to an AI Teddy Bear for free, online, and anonymously with no signing up.
+* [https://bypassai.ai](https://bypassai.ai/) : Make your AI text 100% undetectable with BypassAI - your trusted AI detection remover to create plagiarism-free, human-like text. 🤖
  
 
 ## C :
@@ -84,6 +86,9 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://chirpty.com](https://chirpty.com/) : Create your own Twitter interaction circle.
 * [https://api.chucknorris.io](https://api.chucknorris.io/) : Free JSON API for hand curated Chuck Norris facts.
 * [https://www.calligrapher.ai](https://www.calligrapher.ai/) : Realistic handwriting generator. Convert text to handwriting using an in-browser recurrent neural network. Choose from various print and cursive styles. Customize the outputs and download as SVG ✍🏻
+* [https://cupcakeipsum.com](https://cupcakeipsum.com/) : Tired of how boring Lorem Ipsum got? How about using auto-generated text that will actually make people love your project even more? Pretty sweet, right? Sugar-coated LOREM IPSUM generator. 🧁
+* [https://capitalizemytitle.com](https://capitalizemytitle.com/) : Capitalize My Title is an easy, smart title capitalization tool that uses title capitalization rules published by leading professional organizations to ensure your titles and headlines are capitalized correctly.
+* [https://cronrange.info](https://cronrange.info/) : Have you ever wondered when will your cron job be triggered, or how many times? Cron Range allows you to easily calculate up to 100 dates and times of your cron job executions.
 
 ## D : 
 * [http://downforeveryoneorjustme.com](http://downforeveryoneorjustme.com/) : Check if a website is down for everyone or just you.
@@ -109,6 +114,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://deadpixelbuddy.com](http://deadpixelbuddy.com/) : The tool that detects dead pixels on your screen.
 * [https://www.davidc.net/sites/default/subnets/subnets.html](https://www.davidc.net/sites/default/subnets/subnets.html) : Visual Subnet Calculator for those folks working in Computer Networking. 
 * [https://dualmonitorbackgrounds.com](https://dualmonitorbackgrounds.com/) : Welcome to the largest dedicated dual monitor backgrounds website on the internet. Dual monitor backgrounds (AKA dual screen wallpapers) are backgrounds that span two screens 🖥 🖥
+* [https://deriveit.org](https://deriveit.org/) : A simpler way to prepare for coding interviews. Learn a fundamental approach to solving coding problems, and finally know you're ready for your coding interviews.
 
 ## E : 
 * [https://explainshell.com](https://explainshell.com/) : Write down a command-line to see the help text that matches each argument. :shell:
@@ -119,7 +125,9 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.etymonline.com](https://www.etymonline.com/) : Gives you the history and derivation of any word. Check it out here.
 * [https://everytimezone.com](https://everytimezone.com/) : Never warp your brain with timezone math again.
 * [https://egghead.io](https://egghead.io/) : egghead is a group of working web development professionals and open-source contributors that provide you with concise, information dense video courses on the best tools in the industry.
-* [https://nickmakes.website/slack-emoji-converter](https://nickmakes.website/slack-emoji-converter/) : Emoji ASCII Art Converter for Slack or anything really
+* [https://nickmakes.website/slack-emoji-converter](https://nickmakes.website/slack-emoji-converter/) : Emoji ASCII Art Converter for Slack or anything really.
+* [https://endoflife.date](https://endoflife.date/) : End-of-life (EOL) and support information is often hard to track, or very badly presented. endoflife.date documents EOL dates and support lifecycles for various products.
+* [https://excalidraw.com](https://excalidraw.com/) : Excalidraw is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
 
 ## F :
 * [http://www.foxebook.net](http://www.foxebook.net/) : Amazing Free eBook Download Site. Newest Free eBook Share. Free Download PDF, EPUB, MOBI eBooks. :books:
@@ -151,7 +159,9 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://frontendchecklist.io](https://frontendchecklist.io) : The Front-End Checklist is an exhaustive list of all elements you need to have / to test before launching your website / HTML page to production.
 * [https://www.factoftheday1.com](https://www.factoftheday1.com/) : A fact every business day about the tech industry, business leadership, and thought-provoking ideas.
 * [https://www.feeonlyindia.com](https://www.feeonlyindia.com/) : An association of financial planners who do not sell any products or earn commissions, and who work purely in the client's best interest.
-* [https://thefundoo.com/Tools](https://thefundoo.com/Tools) : Suite of tools useful for Share Market, Mutual Funds investors. 
+* [https://thefundoo.com/Tools](https://thefundoo.com/Tools) : Suite of tools useful for Share Market, Mutual Funds investors.
+* [https://www.fitgpt.xyz](https://www.fitgpt.xyz/) : Meet FitGPT. Your AI Fitness Coach! Say goodbye to stale fitness plans, with AI powered workouts, meal plans, and progress tracking, and more ... 💪🏻
+* [https://fishbowl-game.com](https://fishbowl-game.com/) : Fishbowl is a virtual version of a fun (and mostly hilarious) guessing game, designed for any group of all ages! 🐟
 
 
 ## G :
@@ -160,6 +170,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://gethuman.com](https://gethuman.com/) : Do you hate it when you call an 1-800 number and are forced to talk to that stupid machine? This website shows you how to get a human on the phone as fast as possible.
 * [http://ghostsingles.com](http://ghostsingles.com/) : Dating site for ghosts. :ghost:
 * [http://goqr.me](http://goqr.me/) : Online QR generator.
+* [https://guthib.com](https://guthib.com/) : Is it a typo?
 * [http://getintopc.com](http://getintopc.com/) : Download any desired software for free. :free:
 * [http://gifprint.com](http://gifprint.com/) : Turn animated gifs into a physical flipbook.
 * [http://gohighbrow.com](http://gohighbrow.com/) : Learn Something New Every Day. Get smarter with 5-minute lessons delivered to your inbox every morning.
@@ -172,7 +183,10 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://gitcoin.co](https://gitcoin.co/) : Gitcoin is the easiest way to leverage the open source community to incentivize or monetize work.
 * [https://gitstalk.netlify.com](https://gitstalk.netlify.com/) : Discover who's upto what on Github.
 * [https://gitexplorer.com](https://gitexplorer.com/) : Git Command Explorer. Find the right commands you need without digging through the web.
-* [https://gitstats.me](https://gitstats.me/) : Git-Stats. An open-source GitHub contribution analyzer
+* [https://gitstats.me](https://gitstats.me/) : Git-Stats. An open-source GitHub contribution analyzer.
+* [https://generatepotter.com](https://generatepotter.com/) : Enter a prompt like "@harry as a cat" to generate an image. 🪄
+* [https://writing.galaxyzoo.org](https://writing.galaxyzoo.org/) : Ever wanted to see your name in lights? Well, lights don't get much bigger than this! Create your own message in real galaxies!
+* [https://grep.app](https://grep.app/) : Effortlessly search for code, files, and paths across GitHub repositories. 🕵️
 
 ## H :
 * [http://www.1happybirthday.com](http://www.1happybirthday.com/) : Birthday songs for a Happy Birthday. :birthday:
@@ -187,6 +201,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://homestyler.com](https://homestyler.com/) : Design your dream home in 3D.
 * [https://htmlmail.pro](https://htmlmail.pro/) : Email services like Gmail and Outlook support rich HTML emails but they do not offer an option to compose email messages directly using HTML and CSS markup. That's where HTML Mail fits in.
 * [https://howdns.works](https://howdns.works/) : A fun and colorful explanation of how DNS works.
+* [https://hiring.cafe](https://hiring.cafe/) : Job search network.
 
 ## I :
 * [https://www.ifixit.com](https://www.ifixit.com/) : The free repair guide for everything, written by everyone. :hammer:
@@ -208,6 +223,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://ipinfo.io](https://ipinfo.io/) : With IPinfo, you can pinpoint your users’ locations, customize their experiences, prevent fraud, ensure compliance, and so much more. 🕵🏻‍♂️
 * [https://imisstheoffice.eu](https://imisstheoffice.eu/) : An office noise generator providing you with the soothing tones of modern office life to help you focus while working from home.
 * [https://ifconfig.co](https://ifconfig.co/) : A simple service for looking up your IP address.
+* [https://istiobyexample.dev](https://istiobyexample.dev/) : Learn Istio by examples.
+* [https://www.ipranges.cloud](https://www.ipranges.cloud/) : Daily updated IP address data and stats of all main public cloud providers like AWS, Azure, Google Cloud, Cloudflare, DigitalOcean, Fastly, Oracle Cloud, and more.
 
 ## J :
 * [http://jsbeautifier.org](http://jsbeautifier.org/) : Beautify, unpack or deobfuscate JavaScript and HTML, make JSON/JSONP readable, etc. :dizzy:
@@ -226,6 +243,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://www.keyboardtester.com](http://www.keyboardtester.com/) : Test your keyboard’s functionality.
 * [http://kleki.com](http://kleki.com/) : Create paintings and sketches with a wide variety of brushes.
 * [https://k8syaml.com](https://k8syaml.com/) : Kubernetes YAML generator.
+* [https://kissan.ai](https://kissan.ai/) : Advanced multilingual AI platform which provides personalized, voice-based assistance for all agricultural needs, empowering farmers, agribusinesses, governments, and nonprofit organizations worldwide.
+* [https://www.kiddle.co](https://www.kiddle.co/) : Safe visual search engine for kids.
 
 ## L :
 * [https://www.lucidchart.com](https://www.lucidchart.com/) : Flowchart maker and online diagram software.
@@ -261,6 +280,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://maildrop.cc](https://maildrop.cc/) : Use Maildrop when you don't want to give out your real address & save your inbox from spam.
 * [https://www.mytextarea.com](https://www.mytextarea.com/) : A simple online text editor.
 * [https://mycvdesigner.com](https://www.mycvdesigner.com/) : The most affordable resume writing service that builds excellent quality resumes for worldwide job seekers. :page_facing_up: :bar_chart:
+* [https://makeameme.org](https://makeameme.org/) : Make better memes.
+* [https://mlu-explain.github.io](https://mlu-explain.github.io/) : Machine Learning University (MLU) is an education initiative from Amazon designed to teach core machine learning theory and practical application with visual explanations.
 
 ## N :
 * [https://neave.com](https://neave.com/) : A collection of interactive tools, apps, toys and art.
@@ -277,7 +298,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://netflixroulette.net](http://netflixroulette.net/) : Find something random to watch on Netflix.
 * [http://notes.io](http://notes.io/) : The easiest way to write short text notes in the browser.
 * [https://nickmakes.website](https://nickmakes.website/) : NYC-based creative web developer named Nick Ellsworth. Here's some stuff that he created which you may find fun or weird.
-* [https://nohello.net](https://nohello.net/) : You SHOULD definitely go through this website before you text anyone if you're the person who just says hi/hello to initiate a conversation over chatting. 
+* [https://nohello.net](https://nohello.net/) : You SHOULD definitely go through this website before you text anyone if you're the person who just says hi/hello to initiate a conversation over chatting.
+* [https://dalton-nrs.manchester.ac.uk](https://dalton-nrs.manchester.ac.uk/) : Take a tour of Virtual nuclear reactor. 
 
 ## O :
 * [http://oldcomputers.net](http://oldcomputers.net/) : The museum of old, rare, vintage, antique computers. View all 150 old computers all at the same time to appreciate how diverse and interesting they are. :computer:
@@ -290,6 +312,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.onlineocr.net](https://www.onlineocr.net/) : Recognize text from scanned PDFs
 * [https://os.directory](https://os.directory) : Online Operating System.
 * [https://onlinetools.com](https://onlinetools.com) : Online ToolsGet things done fast. Revolutionize your workflow with Online Tools—the Ultimate Toolkit for getting things done quickly! Dive into thousands of easy-to-use utilities for editing images, text, lists, and data, all without leaving your browser.
+* [https://www.onthisday.com](https://www.onthisday.com/) : With over 234,000 entries On This Day is the world's largest, most accurate and popular site for on this day in history.
 
 ## P : 
 * [http://pointerpointer.com](http://pointerpointer.com/) : It is on there and it's really cool.
@@ -317,9 +340,11 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.pretzel.rocks](https://www.pretzel.rocks/) : Stream-safe music for Livestreamers. Hours of Twitch, Mixer, YouTube and Facebook safe music, don't get DMCAed.
 * [https://postale.io](https://postale.io/) : Super intuitive freemium email service to painlessly create domain/business email addresses.
 * [https://pitchme.vercel.app](https://pitchme.vercel.app/) : Generate quality referral pitches and cover letters in less than 30 seconds using AI magic! 🪄
+* [https://partystuff.in](https://partystuff.in/) : tambola, paper games, props brand about party stuff for Indian Parties. 🥳
 
 ## Q :
 * [https://quickdraw.withgoogle.com](https://quickdraw.withgoogle.com/) : Can a neural network learn to recognize doodling? Help teach it by adding your drawings to the world’s largest doodling data set, shared publicly to help with machine learning research. :pencil2:
+* [https://quickref.me](https://quickref.me/) : Cheatsheets and quick references contributed by open source angels.
 
 ## R : 
 * [http://rainymood.com](http://rainymood.com/) : Listen to rain and thunderstorms online. :umbrella:
@@ -342,6 +367,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://rxresu.me](https://rxresu.me/) : Make your own reactive resume! 
 * [https://respresso.io/](https://respresso.io/) : Let your whole team edit resource files (localizations, images, colors, etc.) with Respresso’s online editor to get them in a platform-specific format, automatically delivered to your source code 👨‍💻
 * [https://www.restorephotos.io](https://www.restorephotos.io/) : Have old and blurry face photos? Let AI restore them so those memories can live on.
+* [https://www.roomgpt.io](https://www.roomgpt.io/) : Your personal AI interior designer. Transform any room with just one photo.
 
 ## S :
 * [https://studio.stupeflix.com](https://studio.stupeflix.com/) : Make amazing videos in seconds. Just add photos, videos, music, and text.
@@ -380,7 +406,9 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://slackmojis.com](https://slackmojis.com/) : An *unofficial* directory of the best custom slack emojis.
 * [https://shutuptrackers.com](https://shutuptrackers.com/) : ShutUpTrackers is a socially motivated website that provides information for protecting your data security and privacy.
 * [https://www.submarinecablemap.com](https://www.submarinecablemap.com/) : The Submarine Cable Map is a free and regularly updated resource from TeleGeography about the map of submarine cables around the world.
-* [http://savethesounds.info](http://savethesounds.info/) : The Museum of Endangered Sounds. Click a thumbnail to take a listen down memory lane. 
+* [http://savethesounds.info](http://savethesounds.info/) : The Museum of Endangered Sounds. Click a thumbnail to take a listen down memory lane.
+* [https://sadservers.com](https://sadservers.com/) : Troubleshoot and Make Sad Servers Happy! Like LeetCode for Linux. Practice for your next SRE/DevOps interview. Train and prove your debugging skills. Get a full remote Linux server with a problem and fix it!
+* [https://sunflight.org](https://sunflight.org/) : SunFlight is an app that shows you the path of the sun for your flight. You may use this app to help plan where to sit on their flight, based on the location of the sun. 🌞 
 
 ## T :
 * [http://typatone.com](http://typatone.com/) : Type some random stuff and enjoy the music.

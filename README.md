@@ -115,6 +115,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.davidc.net/sites/default/subnets/subnets.html](https://www.davidc.net/sites/default/subnets/subnets.html) : Visual Subnet Calculator for those folks working in Computer Networking. 
 * [https://dualmonitorbackgrounds.com](https://dualmonitorbackgrounds.com/) : Welcome to the largest dedicated dual monitor backgrounds website on the internet. Dual monitor backgrounds (AKA dual screen wallpapers) are backgrounds that span two screens 🖥 🖥
 * [https://deriveit.org](https://deriveit.org/) : A simpler way to prepare for coding interviews. Learn a fundamental approach to solving coding problems, and finally know you're ready for your coding interviews.
+* [https://doclibra.com](https://doclibra.com) : Online platform for searching and downloading PDF documents on various topics, including unique ones and those not available on Google.
 
 ## E : 
 * [https://explainshell.com](https://explainshell.com/) : Write down a command-line to see the help text that matches each argument. :shell:

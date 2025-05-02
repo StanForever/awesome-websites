@@ -45,6 +45,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://builtwith.com](https://builtwith.com/) : Find out what websites are built with. You can find the technology stack of any website.
 * [http://bugmenot.com](http://bugmenot.com/) : Enter a website below to see if the bugmenot community has shared any logins for it.
 * [https://bubbl.us](https://bubbl.us/) : A free mind mapping tool. :free:
+* [https://cloudairy.com/](https://cloudairy.com/) : AI  mind mapping tool.
 * [https://burner.bonanza.com](https://burner.bonanza.com/) : Background Burner does a surprisingly good job of removing background images from photos.
 * [http://blahtherapy.com](http://blahtherapy.com/) : Vent your problems and secrets to a total stranger.
 * [https://betterexplained.com](https://betterexplained.com/) : Explains tough math concepts in a better and intuitive way.

@@ -485,6 +485,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://www.youtube-mp3.org](http://www.youtube-mp3.org/) : Convert YouTube videos to MP3s. :cinema:
 * [http://you.regettingold.com](http://you.regettingold.com/) : Website which shows interesting stats about your age.
 * [http://www.yamllint.com](http://www.yamllint.com/) : Paste in your YAML and click "Go" - it'll tell you if it's valid or not, and give you a nice clean UTF-8 version of it.
+* [http://www.yamllint.com](http://www.yamllint.com/) : Paste in your YAML and click "Go" - it'll tell you if it's valid or not, and give you a nice clean UTF-8 version of it.
 * [http://youtube.com/leanback](http://youtube.com/leanback) : Watch YouTube channels in TV mode.
 
 ## Z : 

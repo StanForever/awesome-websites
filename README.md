@@ -282,6 +282,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://mycvdesigner.com](https://www.mycvdesigner.com/) : The most affordable resume writing service that builds excellent quality resumes for worldwide job seekers. :page_facing_up: :bar_chart:
 * [https://makeameme.org](https://makeameme.org/) : Make better memes.
 * [https://mlu-explain.github.io](https://mlu-explain.github.io/) : Machine Learning University (MLU) is an education initiative from Amazon designed to teach core machine learning theory and practical application with visual explanations.
+* [https://www.mytimecardcalculator.com/](https://www.mytimecardcalculator.com/) : easily calculator work hours
 
 ## N :
 * [https://neave.com](https://neave.com/) : A collection of interactive tools, apps, toys and art.

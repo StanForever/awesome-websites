@@ -341,6 +341,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://postale.io](https://postale.io/) : Super intuitive freemium email service to painlessly create domain/business email addresses.
 * [https://pitchme.vercel.app](https://pitchme.vercel.app/) : Generate quality referral pitches and cover letters in less than 30 seconds using AI magic! 🪄
 * [https://partystuff.in](https://partystuff.in/) : tambola, paper games, props brand about party stuff for Indian Parties. 🥳
+* [https://www.pickyourtech.com](https://www.pickyourtech.com/) : Catalog of open-source projects with categories and open-source SaaS alternatives.
 
 ## Q :
 * [https://quickdraw.withgoogle.com](https://quickdraw.withgoogle.com/) : Can a neural network learn to recognize doodling? Help teach it by adding your drawings to the world’s largest doodling data set, shared publicly to help with machine learning research. :pencil2:

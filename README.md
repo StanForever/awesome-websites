@@ -292,6 +292,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://noexcuselist.com](http://noexcuselist.com/) : The best place on the web to learn anything, free. :free:
 * [https://noahaust2.github.io/strategist-dashboard/tools/aura/](https://noahaust2.github.io/strategist-dashboard/tools/aura/) : Aura Points Calculator — find your aura type and score through 12 real-life scenarios with a downloadable share card. :free:
 * [https://noahaust2.github.io/strategist-dashboard/tools/online/](https://noahaust2.github.io/strategist-dashboard/tools/online/) : How Chronically Online Are You? Personality quiz measuring internet habits across 5 categories with radar chart and shareable results. :free:
+* [https://noahaust2.github.io/strategist-dashboard/tools/brain-rot/](https://noahaust2.github.io/strategist-dashboard/tools/brain-rot/) : Brain Rot Diagnostic Report — Take a clinical assessment of your brain rot level across 6 dimensions with downloadable medical-style diagnostic report. :free:
 * [https://earth.nullschool.net](https://earth.nullschool.net/) : Wind map of the Earth. :earth_asia:
 * [http://map.norsecorp.com](http://map.norsecorp.com/) : Watch cyber attacks happening all over the world live.
 * [https://namechk.com](https://namechk.com/) : If you have many different online accounts, here you can see every website where your username has been used.
@@ -493,7 +494,6 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://zoomquilt.org](http://zoomquilt.org/) : Visit this website anytime you're bored. It'll leave you amazed.
 * [http://www.zamzar.com](http://www.zamzar.com/) : Have you ever wanted to convert files without the need to download software ? It's free online file converter. :repeat:
 * [http://zoom.it](http://zoom.it/) : ZoomHub lets you share & view your high-resolution images seamlessly and blazingly fast, no matter whether you are on a desktop computer, tablet, or mobile phone.
-
 
 
 

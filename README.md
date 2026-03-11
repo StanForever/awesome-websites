@@ -162,7 +162,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://thefundoo.com/Tools](https://thefundoo.com/Tools) : Suite of tools useful for Share Market, Mutual Funds investors.
 * [https://www.fitgpt.xyz](https://www.fitgpt.xyz/) : Meet FitGPT. Your AI Fitness Coach! Say goodbye to stale fitness plans, with AI powered workouts, meal plans, and progress tracking, and more ... 💪🏻
 * [https://fishbowl-game.com](https://fishbowl-game.com/) : Fishbowl is a virtual version of a fun (and mostly hilarious) guessing game, designed for any group of all ages! 🐟
-
+* [https://fontgen.cool](https://fontgen.cool/) : A fancy font generator that converts text into styles like bold, monospace, cursive, and many others using Unicode symbols, which you can copy and paste.
 
 ## G :
 * [http://gizoogle.net](http://gizoogle.net/) : Translate your words into Snoop Dogg style gangsta.

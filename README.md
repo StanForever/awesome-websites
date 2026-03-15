@@ -483,10 +483,9 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://web.dev](https://web.dev/) : After you've launched your site, come back to web.dev and measure how well it supports your users. If there are areas where it can improve, you'll get immediate steps to increase your metrics.
 * [https://webhook.site](https://webhook.site) : Webhook.site allows you to easily test webhooks and other types of HTTP requests.
 * [https://www.windy.com](https://www.windy.com/) : One of the best weather forecasting service in the world.
-* [https://whatisthisthing.vercel.app/](https://whatisthisthing.vercel.app/) : A site which has all the things from r/whatisthisthing with just the picture, and the answer/possible answer.
 * [https://www.wordclouds.com](https://www.wordclouds.com/) : Free online word cloud generator.
 * [https://world-power-plugs.com](https://world-power-plugs.com/) : Going on an internship, volunteering abroad or simply traveling for pleasure? Wherever you go, World Power Plugs makes sure you can power up. In seconds you'll know if you need a plug adapter or a power converter for any outlets used around the world 🌍
-* [https://watermarkremoverio.org/](https://watermarkremoverio.org/):Watermark Remover - Remove Watermarks from Images with AI
+* [https://watermarkremoverio.org/](https://watermarkremoverio.org/): Watermark Remover - Remove Watermarks from Images with AI
 
 ## Y : 
 * [http://www.youtube-mp3.org](http://www.youtube-mp3.org/) : Convert YouTube videos to MP3s. :cinema:

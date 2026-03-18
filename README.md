@@ -348,6 +348,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://partystuff.in](https://partystuff.in/) : tambola, paper games, props brand about party stuff for Indian Parties. 🥳
 * [https://www.pickyourtech.com](https://www.pickyourtech.com/) : Catalog of open-source projects with categories and open-source SaaS alternatives.
 * [https://pageguard.org](https://pageguard.org) : Free website health scanner that checks any site for SEO issues, accessibility (WCAG/ADA), performance, and best practices. No signup required. :free:
+* [https://www.pixelateimage.co/](https://www.pixelateimage.co/) : Transform any photo into a retro 8 bit masterpiece or securely obscure sensitive details.
 
 ## Q :
 * [https://quickdraw.withgoogle.com](https://quickdraw.withgoogle.com/) : Can a neural network learn to recognize doodling? Help teach it by adding your drawings to the world's largest doodling data set, shared publicly to help with machine learning research. :pencil2:

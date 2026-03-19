@@ -318,6 +318,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://os.directory](https://os.directory) : Online Operating System.
 * [https://onlinetools.com](https://onlinetools.com) : Online ToolsGet things done fast. Revolutionize your workflow with Online Tools—the Ultimate Toolkit for getting things done quickly! Dive into thousands of easy-to-use utilities for editing images, text, lists, and data, all without leaving your browser.
 * [https://www.onthisday.com](https://www.onthisday.com/) : With over 234,000 entries On This Day is the world's largest, most accurate and popular site for on this day in history.
+* [https://onlinenotepad101.org/](https://onlinenotepad101.org/): Online Notepad – Free Online Text Editor & Notes Sharing
 
 ## P : 
 * [http://pointerpointer.com](http://pointerpointer.com/) : It is on there and it's really cool.
@@ -416,7 +417,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.submarinecablemap.com](https://www.submarinecablemap.com/) : The Submarine Cable Map is a free and regularly updated resource from TeleGeography about the map of submarine cables around the world.
 * [http://savethesounds.info](http://savethesounds.info/) : The Museum of Endangered Sounds. Click a thumbnail to take a listen down memory lane.
 * [https://sadservers.com](https://sadservers.com/) : Troubleshoot and Make Sad Servers Happy! Like LeetCode for Linux. Practice for your next SRE/DevOps interview. Train and prove your debugging skills. Get a full remote Linux server with a problem and fix it!
-* [https://sunflight.org](https://sunflight.org/) : SunFlight is an app that shows you the path of the sun for your flight. You may use this app to help plan where to sit on their flight, based on the location of the sun. 🌞 
+* [https://sunflight.org](https://sunflight.org/) : SunFlight is an app that shows you the path of the sun for your flight. You may use this app to help plan where to sit on their flight, based on the location of the sun. 🌞
+* [https://share-text.org/](https://share-text.org/): #1 Share Text Online With Link and QR Code, Create, Paste, Edit, and share text online live quickly with secure links and QR codes. Free, no Login and anonymous sharing.
 
 ## T :
 * [http://typatone.com](http://typatone.com/) : Type some random stuff and enjoy the music.

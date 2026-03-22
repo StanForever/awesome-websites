@@ -246,6 +246,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://k8syaml.com](https://k8syaml.com/) : Kubernetes YAML generator.
 * [https://kissan.ai](https://kissan.ai/) : Advanced multilingual AI platform which provides personalized, voice-based assistance for all agricultural needs, empowering farmers, agribusinesses, governments, and nonprofit organizations worldwide.
 * [https://www.kiddle.co](https://www.kiddle.co/) : Safe visual search engine for kids.
+* [https://keeprule.com](https://keeprule.com/) : Curated investment principles from Warren Buffett, Charlie Munger, and other legendary investors with interactive decision scenarios. :moneybag:
 
 ## L :
 * [https://www.lucidchart.com](https://www.lucidchart.com/) : Flowchart maker and online diagram software.

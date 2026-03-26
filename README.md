@@ -357,6 +357,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://quickref.me](https://quickref.me/) : Cheatsheets and quick references contributed by open source angels.
 
 ## R : 
+* [https://relatedrepos.com](https://relatedrepos.com/) : Discover related open source projects. Find alternatives and other similar repositories. Updated daily.
 * [http://rainymood.com](http://rainymood.com/) : Listen to rain and thunderstorms online. :umbrella:
 * [https://roadtrippers.com](https://roadtrippers.com/) : Plan your next road trip.
 * [http://radio.garden](http://radio.garden/) : This is an amazing site. Whichever spot you click on the globe. It will play the local radio station. Simply mind blowing. :radio:

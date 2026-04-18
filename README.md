@@ -450,6 +450,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://theworstwebsiteinthe.world](https://theworstwebsiteinthe.world/) : Literally what the website link says. The Worst Website In The World! 🤣
 * [https://theresanaiforthat.com](https://theresanaiforthat.com/) : There's an AI for every task! 🤖
 * [https://www.timetodecimalcalculator.com/](https://www.timetodecimalcalculator.com/) : Free time to decimal calculator
+* [https://toolpry.com](https://toolpry.com) - 15+ free online developer tools in one place. Includes regex tester, UUID generator, markdown preview, color converter, and more. Privacy-first, client-side only, no ad tracking.
 
 
 ## U :

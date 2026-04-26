@@ -242,6 +242,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.kimovil.com](https://www.kimovil.com/) : Cheap smartphones comparison. :iphone: :iphone:
 * [https://www.kill-the-newsletter.com](https://www.kill-the-newsletter.com/) : Convert email newsletters into Atom feeds. :newspaper:
 * [http://www.keyboardtester.com](http://www.keyboardtester.com/) : Test your keyboard's functionality.
+* https://keyboardtester.click : Free browser-based hardware diagnostic suite — keyboard, mouse, screen, audio, webcam testing in 90+ tools, no login. :keyboard:
 * [http://kleki.com](http://kleki.com/) : Create paintings and sketches with a wide variety of brushes.
 * [https://k8syaml.com](https://k8syaml.com/) : Kubernetes YAML generator.
 * [https://kissan.ai](https://kissan.ai/) : Advanced multilingual AI platform which provides personalized, voice-based assistance for all agricultural needs, empowering farmers, agribusinesses, governments, and nonprofit organizations worldwide.

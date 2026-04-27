@@ -128,6 +128,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://nickmakes.website/slack-emoji-converter](https://nickmakes.website/slack-emoji-converter/) : Emoji ASCII Art Converter for Slack or anything really.
 * [https://endoflife.date](https://endoflife.date/) : End-of-life (EOL) and support information is often hard to track, or very badly presented. endoflife.date documents EOL dates and support lifecycles for various products.
 * [https://excalidraw.com](https://excalidraw.com/) : Excalidraw is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
+* [https://eontools.com](https://eontools.com/) : Collection of 3000+ simple, fast, and free tools and calculators across 30+ categories for everyday tasks. Runs locally in your browser with no sign ups and no data uploads.
 
 ## F :
 * [http://www.foxebook.net](http://www.foxebook.net/) : Amazing Free eBook Download Site. Newest Free eBook Share. Free Download PDF, EPUB, MOBI eBooks. :books:

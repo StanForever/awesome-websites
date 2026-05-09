@@ -67,6 +67,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://cidr.xyz](http://cidr.xyz/) : An interactive IP address and CIDR range visualizer.
 * [https://crontab-generator.org](https://crontab-generator.org/) : Generate crontab syntax. 
 * [https://clickclickclick.click](https://clickclickclick.click/) : Just "click" it to see what happens. :wink:
+* [https://closehue.com](https://closehue.com) : A daily color guessing game. Each day, five colors are shown and you guess what they represent, scored on how close you get. No signup required.
 * [https://codeclippet.com](https://codeclippet.com/) : Code Clippet allows you to stop storing code snippets within text files and start sharing them with others, around a community focused environment.
 * [https://camelcamelcamel.com](https://camelcamelcamel.com/) : This free Amazon price tracker monitors millions of products and alerts you when prices drop, helping you decide when to buy.
 * [https://cobalt.tools/](https://cobalt.tools/) : Easily download almost every video you can find online.
@@ -111,7 +112,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://darkmodelist.com](https://darkmodelist.com/) : A list of 92 apps that support Dark Mode.
 * [https://dockerswarm.rocks](https://dockerswarm.rocks/) : Docker Swarm mode rocks! Ideas, tools and recipes. Get a production-ready, distributed, HTTPS served, cluster in minutes, not weeks.
 * [https://www.dbdesigner.net](https://www.dbdesigner.net/) : Design your database schema without writing SQL.
-* [http://deathdate.info](http://deathdate.info/s/death) : Please fill out this form, don't be afraid to share your data - it's necessary only for your Death Date calculations, the only thing you should be concerned about is the time you have left... 
+* [http://deathdate.info](http://deathdate.info/s/death) : Please fill out this form, don't be afraid to share your data - it's necessary only for your Death Date calculations, the only thing you should be concerned about is the time you have left...
+* [https://dashcalculator.com](https://dashcalculator.com) : A set of carefully-designed, accurate free online calculators for finance, health, math, engineering, and more. Built for speed and clarity.
 * [http://deadpixelbuddy.com](http://deadpixelbuddy.com/) : The tool that detects dead pixels on your screen.
 * [https://www.davidc.net/sites/default/subnets/subnets.html](https://www.davidc.net/sites/default/subnets/subnets.html) : Visual Subnet Calculator for those folks working in Computer Networking. 
 * [https://dualmonitorbackgrounds.com](https://dualmonitorbackgrounds.com/) : Welcome to the largest dedicated dual monitor backgrounds website on the internet. Dual monitor backgrounds (AKA dual screen wallpapers) are backgrounds that span two screens 🖥 🖥
@@ -175,6 +177,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://guthib.com](https://guthib.com/) : Is it a typo?
 * [http://getintopc.com](http://getintopc.com/) : Download any desired software for free. :free:
 * [http://gifprint.com](http://gifprint.com/) : Turn animated gifs into a physical flipbook.
+* [https://glowpedia.io](https://glowpedia.io) : Glowpedia is a free skincare product search engine and ingredient database. Search thousands of products, filter by ingredients, ratings, brands, and price. No signup required.
 * [http://gohighbrow.com](http://gohighbrow.com/) : Learn Something New Every Day. Get smarter with 5-minute lessons delivered to your inbox every morning.
 * [https://goproheroes.com](https://goproheroes.com/) : The best GoPro videos on the web.
 * [https://goalkicker.com](https://goalkicker.com/) : FREE programming books. :free:
@@ -495,6 +498,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://webhook.site](https://webhook.site) : Webhook.site allows you to easily test webhooks and other types of HTTP requests.
 * [https://www.windy.com](https://www.windy.com/) : One of the best weather forecasting service in the world.
 * [https://www.wordclouds.com](https://www.wordclouds.com/) : Free online word cloud generator.
+* [https://wordplayforever.com](https://wordplayforever.com) : An unlimited Wordle game with no daily limit and no waiting for tomorrow. Play as many rounds as you want for free with no account needed.
 * [https://world-power-plugs.com](https://world-power-plugs.com/) : Going on an internship, volunteering abroad or simply traveling for pleasure? Wherever you go, World Power Plugs makes sure you can power up. In seconds you'll know if you need a plug adapter or a power converter for any outlets used around the world 🌍
 * [https://watermarkremoverio.org/](https://watermarkremoverio.org/): Watermark Remover - Remove Watermarks from Images with AI
 

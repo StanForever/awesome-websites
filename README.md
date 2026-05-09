@@ -89,6 +89,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://cupcakeipsum.com](https://cupcakeipsum.com/) : Tired of how boring Lorem Ipsum got? How about using auto-generated text that will actually make people love your project even more? Pretty sweet, right? Sugar-coated LOREM IPSUM generator. 🧁
 * [https://capitalizemytitle.com](https://capitalizemytitle.com/) : Capitalize My Title is an easy, smart title capitalization tool that uses title capitalization rules published by leading professional organizations to ensure your titles and headlines are capitalized correctly.
 * [https://cronrange.info](https://cronrange.info/) : Have you ever wondered when will your cron job be triggered, or how many times? Cron Range allows you to easily calculate up to 100 dates and times of your cron job executions.
+* [https://corvi.careers/](https://corvi.careers/): corvi.careers helps you discover remote and onsite job opportunities with better search and browsing tools including a MCP server for Claude/Codex/AI assistants.
 
 ## D : 
 * [http://downforeveryoneorjustme.com](http://downforeveryoneorjustme.com/) : Check if a website is down for everyone or just you.

@@ -358,6 +358,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://pageguard.org](https://pageguard.org) : Free website health scanner that checks any site for SEO issues, accessibility (WCAG/ADA), performance, and best practices. No signup required. :free:
 * [https://www.pixelateimage.co/](https://www.pixelateimage.co/) : Transform any photo into a retro 8 bit masterpiece or securely obscure sensitive details.
 * [https://puzzlegenio.com](https://puzzlegenio.com/) : Free online puzzle generator for creating printable jigsaw puzzles, crosswords, word searches, and sudoku. Supports 7 languages.
+* [https://parish.cv](https://parish.cv/) : Portfolio of Parish Khan, Senior Software Developer specializing in React, TypeScript, and frontend architecture. Built as an interactive code-editor-inspired interface.
 
 ## Q :
 * [https://quickdraw.withgoogle.com](https://quickdraw.withgoogle.com/) : Can a neural network learn to recognize doodling? Help teach it by adding your drawings to the world's largest doodling data set, shared publicly to help with machine learning research. :pencil2:

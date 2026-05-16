@@ -456,6 +456,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://theworstwebsiteinthe.world](https://theworstwebsiteinthe.world/) : Literally what the website link says. The Worst Website In The World! 🤣
 * [https://theresanaiforthat.com](https://theresanaiforthat.com/) : There's an AI for every task! 🤖
 * [https://www.timetodecimalcalculator.com/](https://www.timetodecimalcalculator.com/) : Free time to decimal calculator
+* [https://tinytools-smoky.vercel.app](https://tinytools-smoky.vercel.app/) : Free single-purpose web utilities, all browser-based, no signup. Includes favicon generator, OG image generator, color palette generator, SEO meta tag generator, AI background remover (runs locally), domain name generator, AI cost calculator and more. Open source.
 
 
 ## U :

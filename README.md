@@ -231,6 +231,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://istiobyexample.dev](https://istiobyexample.dev/) : Learn Istio by examples.
 * [https://www.ipranges.cloud](https://www.ipranges.cloud/) : Daily updated IP address data and stats of all main public cloud providers like AWS, Azure, Google Cloud, Cloudflare, DigitalOcean, Fastly, Oracle Cloud, and more.
 * [Invitation Template](https://rainier-ps.github.io/Invitation-Template/) – A free, open-source, no-code web-based event invitation template.
+* [https://idphotosnap.com](https://idphotosnap.com/) : Free browser-only passport and visa photo maker for 100+ countries. Crops photos to official government specifications, removes the background, and runs entirely in the browser - no upload, no signup, no watermark.
 
 ## J :
 * [http://jsbeautifier.org](http://jsbeautifier.org/) : Beautify, unpack or deobfuscate JavaScript and HTML, make JSON/JSONP readable, etc. :dizzy:

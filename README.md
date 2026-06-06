@@ -94,6 +94,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 
 ## D : 
 * [http://downforeveryoneorjustme.com](http://downforeveryoneorjustme.com/) : Check if a website is down for everyone or just you.
+* [https://discoverwebtools.com](https://discoverwebtools.com) : 130+ free, browser-based developer and SEO tools — JSON, Base64, JWT, hashing, regex and image conversion. Everything runs client-side, so nothing you paste is uploaded. No signup.
 * [https://www.debugbear.com/test/website-speed](https://www.debugbear.com/test/website-speed) : Enter a URL to test and optmize page speed.
 * [http://www.degraeve.com/color-palette](http://www.degraeve.com/color-palette) : Create color palettes from images. Simply put a URL of a photo and voila!
 * [http://downloadtimecalculator.com](http://downloadtimecalculator.com/) : A simple calculator with which you can calculate download time for a file depending on download speed. How long time it will take depends on file size, your own download speed and the server's upload speed. In these calculations it is assumed that your download speed is the bottleneck. :arrow_down:

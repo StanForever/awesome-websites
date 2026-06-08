@@ -274,6 +274,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.mathway.com](https://www.mathway.com/) : Free math problem solver answers your algebra homework questions with step-by-step explanations.
 * [http://megavn.com](http://megavn.com/) : Download YouTube video, subtitles, channel, playlist for free.
 * [http://mixlr.com](http://mixlr.com/) : Broadcasting live audio made simple.
+* [https://mp3to.cc](https://mp3to.cc/) : Free, privacy-first browser-based audio and media toolkit for converting MP3, WAV, FLAC, AAC and video-to-audio files with no upload required. :musical_note:
 * [http://make-everything-ok.com](http://make-everything-ok.com/) : If you are the type of person, who make a mess out of anything given to him, then this site may be helpful to come out of that psychological dilemma.
 * [http://www.mapcrunch.com](http://www.mapcrunch.com/) : The ultimate random travel site.
 * [http://my90stv.com](http://my90stv.com/) : Welcome back to the 1990's! :tv:

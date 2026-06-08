@@ -91,6 +91,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://capitalizemytitle.com](https://capitalizemytitle.com/) : Capitalize My Title is an easy, smart title capitalization tool that uses title capitalization rules published by leading professional organizations to ensure your titles and headlines are capitalized correctly.
 * [https://cronrange.info](https://cronrange.info/) : Have you ever wondered when will your cron job be triggered, or how many times? Cron Range allows you to easily calculate up to 100 dates and times of your cron job executions.
 * [https://corvi.careers/](https://corvi.careers/): corvi.careers helps you discover remote and onsite job opportunities with better search and browsing tools including a MCP server for Claude/Codex/AI assistants.
+* [https://cv.cm](https://cv.cm/) : Free online clipboard / pastebin alternative — paste text, images, audio, video or files and get an ultra-short shareable link. No signup, with Markdown, code highlighting (200+ languages), auto-translation and cross-device sync. :free:
 
 ## D : 
 * [http://downforeveryoneorjustme.com](http://downforeveryoneorjustme.com/) : Check if a website is down for everyone or just you.

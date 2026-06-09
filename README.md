@@ -55,6 +55,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://burnermail.io](https://burnermail.io/) : Keep your inbox protected with burner email addresses. Hide your personal email address, control who can send you emails, and generate new burners with one click.
 * [https://brokenbear.com](https://brokenbear.com/) : Vent to an AI Teddy Bear for free, online, and anonymously with no signing up.
 * [https://bypassai.ai](https://bypassai.ai/) : Make your AI text 100% undetectable with BypassAI - your trusted AI detection remover to create plagiarism-free, human-like text. 🤖
+* [https://www.bananaprompts.xyz](https://www.bananaprompts.xyz) : Banana Prompts is a free community platform where creators share and discover AI-generated art prompts for Google Gemini image models and other image tools. 🍌
+* [https://bengaluru.rent](https://bengaluru.rent) : bengaluru.rent is a free, anonymous, crowdsourced map that lets Bangalore renters share real rental prices and connect directly with landlords or flatmates without broker fees.
  
 
 ## C :
@@ -92,6 +94,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://cronrange.info](https://cronrange.info/) : Have you ever wondered when will your cron job be triggered, or how many times? Cron Range allows you to easily calculate up to 100 dates and times of your cron job executions.
 * [https://corvi.careers/](https://corvi.careers/): corvi.careers helps you discover remote and onsite job opportunities with better search and browsing tools including a MCP server for Claude/Codex/AI assistants.
 * [https://cv.cm](https://cv.cm/) : Free online clipboard / pastebin alternative — paste text, images, audio, video or files and get an ultra-short shareable link. No signup, with Markdown, code highlighting (200+ languages), auto-translation and cross-device sync. :free:
+* [https://compareproteinprices.com](https://compareproteinprices.com) : An unbiased comparison tool that ranks over 700 protein products across India, the US, and the UK based strictly on their calculated price per gram of protein to help consumers find the best value deals.
+* [https://www.car-pdi.app](https://www.car-pdi.app) : A digital and printable Pre-Delivery Inspection (PDI) checklist to help car buyers thoroughly inspect their new vehicle before accepting delivery, ensuring they verify critical details like VIN numbers and document any defects.
 
 ## D : 
 * [http://downforeveryoneorjustme.com](http://downforeveryoneorjustme.com/) : Check if a website is down for everyone or just you.
@@ -120,6 +124,10 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.davidc.net/sites/default/subnets/subnets.html](https://www.davidc.net/sites/default/subnets/subnets.html) : Visual Subnet Calculator for those folks working in Computer Networking. 
 * [https://dualmonitorbackgrounds.com](https://dualmonitorbackgrounds.com/) : Welcome to the largest dedicated dual monitor backgrounds website on the internet. Dual monitor backgrounds (AKA dual screen wallpapers) are backgrounds that span two screens 🖥 🖥
 * [https://deriveit.org](https://deriveit.org/) : A simpler way to prepare for coding interviews. Learn a fundamental approach to solving coding problems, and finally know you're ready for your coding interviews.
+* [https://drpran.com](https://drpran.com) : A corporate social responsibility initiative by Wozart Technologies that provides an anonymous, accessible, and accurate multi-disciplinary medical consultation service through an AI assistant named Dr. Pran. 🩺
+* [https://domain.digitalplat.org](https://domain.digitalplat.org) : A nonprofit stewarding free, public-benefit namespaces so everyone can build a trusted home on the internet.
+* [https://dos.zone](https://dos.zone) : Enjoy classic games completely free and without ads on dos.zone!
+* [https://dev.events](https://dev.events) : dev.events is the #1 tech conference listing. Coded at night under caffeine, ad-free, curated by tech community.
 
 ## E : 
 * [https://explainshell.com](https://explainshell.com/) : Write down a command-line to see the help text that matches each argument. :shell:
@@ -134,6 +142,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://endoflife.date](https://endoflife.date/) : End-of-life (EOL) and support information is often hard to track, or very badly presented. endoflife.date documents EOL dates and support lifecycles for various products.
 * [https://excalidraw.com](https://excalidraw.com/) : Excalidraw is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
 * [https://eontools.com](https://eontools.com/) : Collection of 3000+ simple, fast, and free tools and calculators across 30+ categories for everyday tasks. Runs locally in your browser with no sign ups and no data uploads.
+* [https://ferrarirules-creator.github.io/ev-ice-calculator](https://ferrarirules-creator.github.io/ev-ice-calculator) : Compare lifetime ownership costs and savings between Electrice and ICE (Internal Combustion Engine) vehicles.
 
 ## F :
 * [http://www.foxebook.net](http://www.foxebook.net/) : Amazing Free eBook Download Site. Newest Free eBook Share. Free Download PDF, EPUB, MOBI eBooks. :books:
@@ -168,6 +177,11 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://thefundoo.com/Tools](https://thefundoo.com/Tools) : Suite of tools useful for Share Market, Mutual Funds investors.
 * [https://www.fitgpt.xyz](https://www.fitgpt.xyz/) : Meet FitGPT. Your AI Fitness Coach! Say goodbye to stale fitness plans, with AI powered workouts, meal plans, and progress tracking, and more ... 💪🏻
 * [https://fishbowl-game.com](https://fishbowl-game.com/) : Fishbowl is a virtual version of a fun (and mostly hilarious) guessing game, designed for any group of all ages! 🐟
+* [https://fakemy.run](https://fakemy.run) : FakeMyRun lets you draw custom, realistic running routes. Run anywhere, anytime, in any shape. Generate GPX files in one click. 🏃🏻
+* [https://finright.in](https://finright.in) : Finright is an Indian startup that simplifies EPF (Employees' Provident Fund) withdrawals by identifying and resolving issues like KYC mismatches, employer errors, and dormant accounts to help users recover their stuck provident funds.
+* [https://finrates.co.in](https://finrates.co.in) : This website offers a suite of financial calculators and comparison tools designed to help users analyze loans, plan investments like SIPs and government schemes, and optimize their financial decisions through detailed projections and interactive charts.
+* [https://fireplanner.in](https://fireplanner.in) : FIRE Planner is a comprehensive retirement planning calculator that helps you analyze your Financial Independence, Retire Early (FIRE) strategy using historical market data.
+* [https://www.freeflickfootball.com](https://www.freeflickfootball.com) :  A browser-based fooseball or street soccer game where you control a player to flick the ball against an AI opponent. ⚽
 
 
 ## G :
@@ -208,7 +222,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://homestyler.com](https://homestyler.com/) : Design your dream home in 3D.
 * [https://htmlmail.pro](https://htmlmail.pro/) : Email services like Gmail and Outlook support rich HTML emails but they do not offer an option to compose email messages directly using HTML and CSS markup. That's where HTML Mail fits in.
 * [https://howdns.works](https://howdns.works/) : A fun and colorful explanation of how DNS works.
-* [https://hiring.cafe](https://hiring.cafe/) : Job search network.
+* [https://hiring.cafe](https://hiring.cafe) : HiringCafe is building a 100x better job search engine: fast, comprehensive, honest, and useful for real people making real career decisions.
 
 ## I :
 * [https://www.ifixit.com](https://www.ifixit.com/) : The free repair guide for everything, written by everyone. :hammer:
@@ -234,6 +248,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.ipranges.cloud](https://www.ipranges.cloud/) : Daily updated IP address data and stats of all main public cloud providers like AWS, Azure, Google Cloud, Cloudflare, DigitalOcean, Fastly, Oracle Cloud, and more.
 * [Invitation Template](https://rainier-ps.github.io/Invitation-Template/) – A free, open-source, no-code web-based event invitation template.
 * [https://idphotosnap.com](https://idphotosnap.com/) : Free browser-only passport and visa photo maker for 100+ countries. Crops photos to official government specifications, removes the background, and runs entirely in the browser - no upload, no signup, no watermark.
+* [https://ip.me](https://ip.me) : IP.ME is a free service developed and maintained by Proton. Lookups are powered by dnspython, a DNS toolkit for Python.
 
 ## J :
 * [http://jsbeautifier.org](http://jsbeautifier.org/) : Beautify, unpack or deobfuscate JavaScript and HTML, make JSON/JSONP readable, etc. :dizzy:
@@ -256,6 +271,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://kissan.ai](https://kissan.ai/) : Advanced multilingual AI platform which provides personalized, voice-based assistance for all agricultural needs, empowering farmers, agribusinesses, governments, and nonprofit organizations worldwide.
 * [https://www.kiddle.co](https://www.kiddle.co/) : Safe visual search engine for kids.
 * [https://keeprule.com](https://keeprule.com/) : Curated investment principles from Warren Buffett, Charlie Munger, and other legendary investors with interactive decision scenarios. :moneybag:
+* [https://kustodian.life](https://kustodian.life) : Kustodian helps you recover and fix issues across EPF, shares, Banks, Real Estate and more. PF stuck. Claim rejected. Multiple UAN. Ownership unclear.
+* [https://www.kiddoworksheets.com](https://www.kiddoworksheets.com) : Kiddo Worksheets has a lot of free educational resources. Get free printable worksheets for Preschool, Kindergarten & Grades from 1 to 5 curriculum.
 
 ## L :
 * [https://www.lucidchart.com](https://www.lucidchart.com/) : Flowchart maker and online diagram software.
@@ -295,6 +312,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://makeameme.org](https://makeameme.org/) : Make better memes.
 * [https://mlu-explain.github.io](https://mlu-explain.github.io/) : Machine Learning University (MLU) is an education initiative from Amazon designed to teach core machine learning theory and practical application with visual explanations.
 * [https://www.mytimecardcalculator.com/](https://www.mytimecardcalculator.com/) : easily calculator work hours
+* [https://mindtrip.ai)(https://mindtrip.ai) : A travel planning platform that helps users discover and book attractions, restaurants, hotels, and guided tours while offering local insights and trip inspiration.
+* [https://mumdiaries.1ocalhost.fun](https://mumdiaries.1ocalhost.fun) : Local community portal called "MumDiaries" that allows residents to view electoral wards on a map and submit garbage reports, although the current display shows zero active reports.
 
 ## N :
 * [https://neave.com](https://neave.com/) : A collection of interactive tools, apps, toys and art.
@@ -362,10 +381,13 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://pageguard.org](https://pageguard.org) : Free website health scanner that checks any site for SEO issues, accessibility (WCAG/ADA), performance, and best practices. No signup required. :free:
 * [https://www.pixelateimage.co/](https://www.pixelateimage.co/) : Transform any photo into a retro 8 bit masterpiece or securely obscure sensitive details.
 * [https://puzzlegenio.com](https://puzzlegenio.com/) : Free online puzzle generator for creating printable jigsaw puzzles, crosswords, word searches, and sudoku. Supports 7 languages.
+* [https://pong-wars.koenvangilst.nl](https://pong-wars.koenvangilst.nl) : It's the eternal battle between day and night, good and bad.
+* [https://pmresume.io](https://pmresume.io) : ProductResume is an AI-powered tool designed to help Product Managers and aspiring PMs build interview-ready resumes by scoring them against hiring manager criteria, rewriting weak bullet points for impact, and generating personalized interview prep materials.
 
 ## Q :
 * [https://quickdraw.withgoogle.com](https://quickdraw.withgoogle.com/) : Can a neural network learn to recognize doodling? Help teach it by adding your drawings to the world's largest doodling data set, shared publicly to help with machine learning research. :pencil2:
 * [https://quickref.me](https://quickref.me/) : Cheatsheets and quick references contributed by open source angels.
+* [https://quenq.com](https://quenq.com) : Project Quenq is an interactive museum of internet culture. Our library features fully functional emulators, preserved games, and rare digital artifacts, all restored to run perfectly in your browser.
 
 ## R : 
 * [https://relatedrepos.com](https://relatedrepos.com/) : Discover related open source projects. Find alternatives and other similar repositories. Updated daily.
@@ -390,6 +412,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://respresso.io/](https://respresso.io/) : Let your whole team edit resource files (localizations, images, colors, etc.) with Respresso's online editor to get them in a platform-specific format, automatically delivered to your source code 👨‍💻
 * [https://www.restorephotos.io](https://www.restorephotos.io/) : Have old and blurry face photos? Let AI restore them so those memories can live on.
 * [https://www.roomgpt.io](https://www.roomgpt.io/) : Your personal AI interior designer. Transform any room with just one photo.
+* [https://www.rentvsbuyindia.com](https://www.rentvsbuyindia.com) : Rent vs Buy Calculator for India that helps users make informed housing decisions by comparing the long-term financial costs and benefits of renting versus buying a home based on customizable parameters like loan rates, maintenance costs, and property appreciation.
 
 ## S :
 * [https://studio.stupeflix.com](https://studio.stupeflix.com/) : Make amazing videos in seconds. Just add photos, videos, music, and text.
@@ -432,6 +455,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://sadservers.com](https://sadservers.com/) : Troubleshoot and Make Sad Servers Happy! Like LeetCode for Linux. Practice for your next SRE/DevOps interview. Train and prove your debugging skills. Get a full remote Linux server with a problem and fix it!
 * [https://sunflight.org](https://sunflight.org/) : SunFlight is an app that shows you the path of the sun for your flight. You may use this app to help plan where to sit on their flight, based on the location of the sun. 🌞
 * [https://share-text.org/](https://share-text.org/): #1 Share Text Online With Link and QR Code, Create, Paste, Edit, and share text online live quickly with secure links and QR codes. Free, no Login and anonymous sharing.
+* [https://sreuniversity.in](https://sreuniversity.in) : This website provides a comprehensive guide to Site Reliability Engineering (SRE), covering its definition, core responsibilities, historical context, a detailed skill roadmap, and recommended learning resources for aspiring engineers.
+* [https://soccon.in](https://soccon.in) : From visitor management to finance tracking — SocietyConnect is the all-in-one platform for modern housing communities. No more spreadsheets, no more chaos.
 
 ## T :
 * [http://typatone.com](http://typatone.com/) : Type some random stuff and enjoy the music.
@@ -461,6 +486,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://theresanaiforthat.com](https://theresanaiforthat.com/) : There's an AI for every task! 🤖
 * [https://www.timetodecimalcalculator.com/](https://www.timetodecimalcalculator.com/) : Free time to decimal calculator
 * [https://tinytools-smoky.vercel.app](https://tinytools-smoky.vercel.app/) : Free single-purpose web utilities, all browser-based, no signup. Includes favicon generator, OG image generator, color palette generator, SEO meta tag generator, AI background remover (runs locally), domain name generator, AI cost calculator and more. Open source.
+* [https://tinyfingers.net](https://tinyfingers.net) : TinyFingers is the official fullscreen website where babies and toddlers can safely smash the keyboards and see playful animations.
 
 
 ## U :

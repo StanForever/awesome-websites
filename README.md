@@ -234,6 +234,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://incompetech.com](http://incompetech.com/) : Huge collection of royalty free music for your projects. :free:
 * [http://internet-map.net](http://internet-map.net/) : A map of the Internet!
 * [http://www.iamawesome.com](http://www.iamawesome.com/) : Prepare to be mind blown.
+* [https://iambored.site](https://iambored.site/) : An interactive web platform designed to help users break out of boredom by teleporting them to a random, curated website.
 * [http://www.internetlivestats.com](http://www.internetlivestats.com/) : Live statistics of Internet usage and social media.
 * [https://iplogger.org](https://iplogger.org/) : IP Logger URL shortener web service helps to track data on your website traffic, get information about clicks on your short URLs shared via you social media channels or published on your website, lookup ip address, check ip location and check any URL for redirects and safety. :mag:
 * [https://isthisyour.pw](https://isthisyour.pw/) : Has your password leaked? Check here. 

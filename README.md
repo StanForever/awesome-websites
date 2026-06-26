@@ -254,6 +254,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 
 ## J :
 * [http://jsbeautifier.org](http://jsbeautifier.org/) : Beautify, unpack or deobfuscate JavaScript and HTML, make JSON/JSONP readable, etc. :dizzy:
+* [https://jsq3000.com](https://jsq3000.com/) : Free China-localized online calculators for mortgage, income tax, salary, auto purchase cost, compound interest, BMI, body fat, and more. Includes formulas, sources, and update dates. :free:
 * [https://virusscan.jotti.org](https://virusscan.jotti.org/) : Scan any suspicious file or email attachment for viruses.
 * [https://www.join.me](https://www.join.me/) : Share you screen with anyone over the web.
 * [https://jsonlint.com](https://jsonlint.com) : JSONLint is a validator and reformatter for JSON, a lightweight data-interchange format.
@@ -545,7 +546,6 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://zoomquilt.org](http://zoomquilt.org/) : Visit this website anytime you're bored. It'll leave you amazed.
 * [http://www.zamzar.com](http://www.zamzar.com/) : Have you ever wanted to convert files without the need to download software ? It's free online file converter. :repeat:
 * [http://zoom.it](http://zoom.it/) : ZoomHub lets you share & view your high-resolution images seamlessly and blazingly fast, no matter whether you are on a desktop computer, tablet, or mobile phone.
-
 
 
 

@@ -97,6 +97,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://cv.cm](https://cv.cm/) : Free online clipboard / pastebin alternative — paste text, images, audio, video or files and get an ultra-short shareable link. No signup, with Markdown, code highlighting (200+ languages), auto-translation and cross-device sync. :free:
 * [https://compareproteinprices.com](https://compareproteinprices.com) : An unbiased comparison tool that ranks over 700 protein products across India, the US, and the UK based strictly on their calculated price per gram of protein to help consumers find the best value deals.
 * [https://www.car-pdi.app](https://www.car-pdi.app) : A digital and printable Pre-Delivery Inspection (PDI) checklist to help car buyers thoroughly inspect their new vehicle before accepting delivery, ensuring they verify critical details like VIN numbers and document any defects.
+* [https://crzy.site](https://crzy.site/) : A growing collection of absolutely pointless single-page websites. Each one dumber than the last.
 
 ## D : 
 * [http://downforeveryoneorjustme.com](http://downforeveryoneorjustme.com/) : Check if a website is down for everyone or just you.

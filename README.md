@@ -257,6 +257,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://jsbeautifier.org](http://jsbeautifier.org/) : Beautify, unpack or deobfuscate JavaScript and HTML, make JSON/JSONP readable, etc. :dizzy:
 * [https://jsq3000.com](https://jsq3000.com/) : Free China-localized online calculators for mortgage, income tax, salary, auto purchase cost, compound interest, BMI, body fat, and more. Includes formulas, sources, and update dates. :free:
 * [https://virusscan.jotti.org](https://virusscan.jotti.org/) : Scan any suspicious file or email attachment for viruses.
+* [https://jottools.com](https://jottools.com/) : 130+ free browser-based tools (PDF, image, text, color, calculators, developer utilities) that run entirely in your browser with no signup and nothing uploaded. :free:
 * [https://www.join.me](https://www.join.me/) : Share you screen with anyone over the web.
 * [https://jsonlint.com](https://jsonlint.com) : JSONLint is a validator and reformatter for JSON, a lightweight data-interchange format.
 * [http://jsonresume.io](http://jsonresume.io/) : You can upload your JSON resume according to the spec and this website will render it all pretty for you.

@@ -16,6 +16,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 
 ## A : 
 * [https://www.awwwards.com](https://www.awwwards.com/) : The awards that recognize the talent and effort of the best web designers, developers and agencies in the world.
+* [https://acalcia.com](https://acalcia.com/) : A free, no-signup suite of 41 in-browser money & tax calculators for US freelancers, online sellers, and creators (self-employment & quarterly tax, marketplace/payment fees, freelance rates, pricing/margin, and a PDF invoice generator).
 * [http://www.allitebooks.com](http://www.allitebooks.com/) : Free IT eBooks Download. :books:
 * [https://www.accountkiller.com](https://www.accountkiller.com/) : Super simple instructions to delete just about any online account or profile. :x:
 * [https://ahmia.fi](https://ahmia.fi/) : Ahmia searches hidden services on the Tor network. To access these hidden services, you need the TOR browser bundle.

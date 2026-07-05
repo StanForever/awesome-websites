@@ -514,6 +514,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 
 ## W :
 * [http://weavesilk.com](http://weavesilk.com/) : Totally mind blowing. Create dreamy works of art with your mouse. Have fun! :curly_loop:
+* [https://www.whatistheday.com](https://www.whatistheday.com/) : Enter any date — past, future, or even BC — and instantly see its day of the week, holidays, famous birthdays, historical events, and conversions across 10+ calendar systems (Hebrew, Islamic, Chinese, Maya and more). :calendar:
 * [https://www.woorank.com](https://www.woorank.com/) : Free Website Review Tool & SEO Checker. Enter your URL for a free instant website review and SEO audit for any site.
 * [http://weirdorconfusing.com](http://weirdorconfusing.com/) : Go to this site to buy weird and confusing thing. Things can go really weird 😉
 * [http://www.windows93.net](http://www.windows93.net/) : Use old Windows on your browser and live your past again.

@@ -352,6 +352,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://www.oldversion.com](http://www.oldversion.com/) : Get old versions of software.
 * [https://www.onlineocr.net](https://www.onlineocr.net/) : Recognize text from scanned PDFs
 * [https://os.directory](https://os.directory) : Online Operating System.
+* [https://opensourceprojects.cc](https://opensourceprojects.cc/) : A searchable directory to discover open source projects and open source alternatives to proprietary software, organized by category.
 * [https://onlinetools.com](https://onlinetools.com) : Online ToolsGet things done fast. Revolutionize your workflow with Online Tools—the Ultimate Toolkit for getting things done quickly! Dive into thousands of easy-to-use utilities for editing images, text, lists, and data, all without leaving your browser.
 * [https://www.onthisday.com](https://www.onthisday.com/) : With over 234,000 entries On This Day is the world's largest, most accurate and popular site for on this day in history.
 * [https://onlinenotepad101.org/](https://onlinenotepad101.org/): Online Notepad – Free Online Text Editor & Notes Sharing

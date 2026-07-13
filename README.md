@@ -97,6 +97,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://corvi.careers/](https://corvi.careers/): corvi.careers helps you discover remote and onsite job opportunities with better search and browsing tools including a MCP server for Claude/Codex/AI assistants.
 * [https://cv.cm](https://cv.cm/) : Free online clipboard / pastebin alternative — paste text, images, audio, video or files and get an ultra-short shareable link. No signup, with Markdown, code highlighting (200+ languages), auto-translation and cross-device sync. :free:
 * [https://compareproteinprices.com](https://compareproteinprices.com) : An unbiased comparison tool that ranks over 700 protein products across India, the US, and the UK based strictly on their calculated price per gram of protein to help consumers find the best value deals.
+* [https://concreteestimatorhub.com/](https://concreteestimatorhub.com/) : Free concrete calculators and reference guides for volume, bag counts, slabs, footings, post holes, shed bases, ready-mix comparisons, and material cost planning. :free:
 * [https://www.car-pdi.app](https://www.car-pdi.app) : A digital and printable Pre-Delivery Inspection (PDI) checklist to help car buyers thoroughly inspect their new vehicle before accepting delivery, ensuring they verify critical details like VIN numbers and document any defects.
 * [https://crzy.site](https://crzy.site/) : A growing collection of absolutely pointless single-page websites. Each one dumber than the last.
 

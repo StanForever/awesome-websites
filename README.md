@@ -114,6 +114,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://diagramy.com](https://diagramy.com/) : Diagramy is the easiest way to create and share interactive diagrams.
 * [http://www.didthanoskill.me](http://www.didthanoskill.me/) : Did Thanos kill you? Check it out here.
 * [https://devhints.io](https://devhints.io/) : A modest collection of cheatsheets for almost everything.
+* [https://devme.me](https://devme.me/) : DevMeme is a searchable gallery of thousands of programming and software-engineering memes. Instead of scrolling a feed forever, full-text search lets you type the concept (merge conflicts, on-call, LGTM, race conditions…) and jump straight to the joke — a fun bookmark for any developer desk. :computer:
 * [https://www.deadmansswitch.net](https://www.deadmansswitch.net/) : Have emails sent when you die.
 * [https://dnschecker.org](https://dnschecker.org/) : DNS Checker provides free dns lookup service for checking domain name server records against a randomly selected list of DNS servers in different corners of the world. Do a quick look up for any domain name and check DNS data collected from all location for confirming that website is completely propagated or not worldwide.
 * [https://www.diffchecker.com](https://www.diffchecker.com/) : Diffchecker is a diff tool to compare text differences between two text files. Enter the contents of two files and click Find Difference.

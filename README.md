@@ -255,6 +255,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [Invitation Template](https://rainier-ps.github.io/Invitation-Template/) – A free, open-source, no-code web-based event invitation template.
 * [https://idphotosnap.com](https://idphotosnap.com/) : Free browser-only passport and visa photo maker for 100+ countries. Crops photos to official government specifications, removes the background, and runs entirely in the browser - no upload, no signup, no watermark.
 * [https://ip.me](https://ip.me) : IP.ME is a free service developed and maintained by Proton. Lookups are powered by dnspython, a DNS toolkit for Python.
+* [https://indepai.app/tools/coast-fire-calculator](https://indepai.app/tools/coast-fire-calculator) : Free Coast FIRE calculator that shows how much you need invested today to reach financial independence, with cost-of-living data across 11,800+ cities so you can see where your money buys an earlier retirement. No signup. :free:
 
 ## J :
 * [http://jsbeautifier.org](http://jsbeautifier.org/) : Beautify, unpack or deobfuscate JavaScript and HTML, make JSON/JSONP readable, etc. :dizzy:

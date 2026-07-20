@@ -59,6 +59,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://bypassai.ai](https://bypassai.ai/) : Make your AI text 100% undetectable with BypassAI - your trusted AI detection remover to create plagiarism-free, human-like text. 🤖
 * [https://www.bananaprompts.xyz](https://www.bananaprompts.xyz) : Banana Prompts is a free community platform where creators share and discover AI-generated art prompts for Google Gemini image models and other image tools. 🍌
 * [https://bengaluru.rent](https://bengaluru.rent) : bengaluru.rent is a free, anonymous, crowdsourced map that lets Bangalore renters share real rental prices and connect directly with landlords or flatmates without broker fees.
+* [Bird Identifier by Picture](https://birdfinder.app/) : Bird Identifier by Picture Online Free——AI Bird Identification
  
 
 ## C :
@@ -497,6 +498,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://tinytools-smoky.vercel.app](https://tinytools-smoky.vercel.app/) : Free single-purpose web utilities, all browser-based, no signup. Includes favicon generator, OG image generator, color palette generator, SEO meta tag generator, AI background remover (runs locally), domain name generator, AI cost calculator and more. Open source.
 * [https://tinyfingers.net](https://tinyfingers.net) : TinyFingers is the official fullscreen website where babies and toddlers can safely smash the keyboards and see playful animations.
 * [https://toolio.pongvn.com](https://toolio.pongvn.com/) : 195 browser tools in one place — PDF, image, converters, calculators and developer utilities. Most of them run client-side, so your files never leave the browser. No signup. :free:
+* [https://treeidentifier.org/](https://treeidentifier.org/): Free Tree Identifier Online - Tree Identification By Picture
 
 
 ## U :

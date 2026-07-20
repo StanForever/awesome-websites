@@ -468,6 +468,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://soccon.in](https://soccon.in) : From visitor management to finance tracking — SocietyConnect is the all-in-one platform for modern housing communities. No more spreadsheets, no more chaos.
 
 ## T :
+* [https://tinytools-smoky.vercel.app](https://tinytools-smoky.vercel.app/) : Free browser-based web utilities — no signup needed. Includes OG image generator, SEO meta tag generator, favicon generator, AI background remover (runs locally), color palette generator, domain name generator, AI robots.txt generator, and more. Open source. :free:
 * [http://typatone.com](http://typatone.com/) : Type some random stuff and enjoy the music.
 * [http://www.theuselessweb.com](http://www.theuselessweb.com/) : This website takes you to another brilliant and useless website every time you click. Great place to kill the time.
 * [http://tedib.com](http://tedib.com/) : For best homework help and training.

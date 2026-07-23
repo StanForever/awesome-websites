@@ -13,6 +13,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.16personalities.com](https://www.16personalities.com/) : Take this Personality Test and get a "freakishly accurate" description of who you are and why you do things the way you do.
 * [https://10minutemail.com](https://10minutemail.com/) : Beat spam with the best and free disposable email service.
 * [https://3dhouseplanner.com](https://3dhouseplanner.com/) : 3D House Planner is a floor planner web application that allows users to design houses and apartments. :free:
+* [https://t.8ma.co](https://t.8ma.co/) : Transfer large files between computers and phones in a browser with no signup or installation. Share by link, QR code, or pickup code. :free:
 
 ## A : 
 * [https://www.awwwards.com](https://www.awwwards.com/) : The awards that recognize the talent and effort of the best web designers, developers and agencies in the world.

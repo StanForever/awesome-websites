@@ -134,6 +134,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://domain.digitalplat.org](https://domain.digitalplat.org) : A nonprofit stewarding free, public-benefit namespaces so everyone can build a trusted home on the internet.
 * [https://dos.zone](https://dos.zone) : Enjoy classic games completely free and without ads on dos.zone!
 * [https://dev.events](https://dev.events) : dev.events is the #1 tech conference listing. Coded at night under caffeine, ad-free, curated by tech community.
+* [https://dvdscreensavermaker.com](https://dvdscreensavermaker.com/) : Recreates the classic bouncing DVD logo screensaver in your browser — bounce your own image or neon text, and export it as a GIF, video, or self-contained offline HTML loop. :free:
 
 ## E : 
 * [https://explainshell.com](https://explainshell.com/) : Write down a command-line to see the help text that matches each argument. :shell:

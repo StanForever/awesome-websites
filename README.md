@@ -345,6 +345,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://nickmakes.website](https://nickmakes.website/) : NYC-based creative web developer named Nick Ellsworth. Here's some stuff that he created which you may find fun or weird.
 * [https://nohello.net](https://nohello.net/) : You SHOULD definitely go through this website before you text anyone if you're the person who just says hi/hello to initiate a conversation over chatting.
 * [https://dalton-nrs.manchester.ac.uk](https://dalton-nrs.manchester.ac.uk/) : Take a tour of Virtual nuclear reactor. 
+* [https://nutilz.com/file-size-converter](https://nutilz.com/file-size-converter) : Free browser-based file size converter — convert between bytes, KB, MB, GB, TB instantly, no upload or signup required. :free:
 
 ## O :
 * [http://oldcomputers.net](http://oldcomputers.net/) : The museum of old, rare, vintage, antique computers. View all 150 old computers all at the same time to appreciate how diverse and interesting they are. :computer:

@@ -198,6 +198,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://gethuman.com](https://gethuman.com/) : Do you hate it when you call an 1-800 number and are forced to talk to that stupid machine? This website shows you how to get a human on the phone as fast as possible.
 * [http://ghostsingles.com](http://ghostsingles.com/) : Dating site for ghosts. :ghost:
 * [http://goqr.me](http://goqr.me/) : Online QR generator.
+* [https://trygrokai.asia/](https://trygrokai.asia/) : GPTGeminiGrok.AI is a browser workspace for GPT, Gemini, Grok, Claude, and AI image workflows.
 * [https://guthib.com](https://guthib.com/) : Is it a typo?
 * [http://getintopc.com](http://getintopc.com/) : Download any desired software for free. :free:
 * [http://gifprint.com](http://gifprint.com/) : Turn animated gifs into a physical flipbook.

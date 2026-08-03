@@ -369,6 +369,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://patatap.com](http://patatap.com/) : Just type some random letters on your keyboard and enjoy the music.
 * [https://panopticlick.eff.org](https://panopticlick.eff.org/) : Panopticlick will analyze how well your browser and add-ons protect you against online tracking techniques.
 * [https://privnote.com](https://privnote.com/) : Send private note that will self destruct after being read by target person. Perfect way.
+* [https://pickerspin.co](https://pickerspin.co) : Free spin-the-wheel and random name picker with no login required — also includes a dice roller, bingo caller, and team generator. Handy for classrooms and quick group decisions.
 * [http://www.pointlesssites.com](http://www.pointlesssites.com/) : Collection of pointless sites.
 * [http://projectsinnetworking.com](http://projectsinnetworking.com/) : Check out this website for some cool projects in networking.
 * [http://pdf2doc.com](http://pdf2doc.com/) : This free online PDF to DOC converter allows you to save a PDF file as an editable document in Microsoft Word DOC format, ensuring better quality than many other converters. :free:

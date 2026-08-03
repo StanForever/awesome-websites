@@ -504,6 +504,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://tinyfingers.net](https://tinyfingers.net) : TinyFingers is the official fullscreen website where babies and toddlers can safely smash the keyboards and see playful animations.
 * [https://toolio.pongvn.com](https://toolio.pongvn.com/) : 195 browser tools in one place — PDF, image, converters, calculators and developer utilities. Most of them run client-side, so your files never leave the browser. No signup. :free:
 * [https://treeidentifier.org/](https://treeidentifier.org/): Free Tree Identifier Online - Tree Identification By Picture
+* [mytoolsbench](https://mytoolsbench.com):ToolBench is a free set of browser-based image tools — converter, compressor, resizer, cropper and watermark tool. Everything runs client-side via the Canvas API, so files are never uploaded to a server. No sign-up, no file size limits.
 
 
 ## U :

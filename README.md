@@ -138,6 +138,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://dvdscreensavermaker.com](https://dvdscreensavermaker.com/) : Recreates the classic bouncing DVD logo screensaver in your browser — bounce your own image or neon text, and export it as a GIF, video, or self-contained offline HTML loop. :free:
 
 ## E : 
+* [https://elm.chat](https://elm.chat/) : Create an account-free, disposable encrypted chat room with single-use invites and explicit destruction. Open source and early-stage; not independently audited. :free:
 * [https://explainshell.com](https://explainshell.com/) : Write down a command-line to see the help text that matches each argument. :shell:
 * [http://ecomputernotes.com](http://ecomputernotes.com/) : For learning many cool stuff related to computers like networking, web development, programming etc.
 * [https://www.ecosia.org](https://www.ecosia.org/) : Search engine which plants a tree with the revenue from ads... Sounds good to our environment. :seedling:
@@ -562,6 +563,5 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://zoomquilt.org](http://zoomquilt.org/) : Visit this website anytime you're bored. It'll leave you amazed.
 * [http://www.zamzar.com](http://www.zamzar.com/) : Have you ever wanted to convert files without the need to download software ? It's free online file converter. :repeat:
 * [http://zoom.it](http://zoom.it/) : ZoomHub lets you share & view your high-resolution images seamlessly and blazingly fast, no matter whether you are on a desktop computer, tablet, or mobile phone.
-
 
 

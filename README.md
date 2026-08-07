@@ -309,6 +309,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://megavn.com](http://megavn.com/) : Download YouTube video, subtitles, channel, playlist for free.
 * [http://mixlr.com](http://mixlr.com/) : Broadcasting live audio made simple.
 * [https://mp3to.cc](https://mp3to.cc/) : Free, privacy-first browser-based audio and media toolkit for converting MP3, WAV, FLAC, AAC and video-to-audio files with no upload required. :musical_note:
+* [https://monkeyeatingmango.com](https://monkeyeatingmango.com/) : Free AI travel planner that builds a day-by-day itinerary with a food guide and daily budgets from 8 tap questions. :free:
 * [http://make-everything-ok.com](http://make-everything-ok.com/) : If you are the type of person, who make a mess out of anything given to him, then this site may be helpful to come out of that psychological dilemma.
 * [http://www.mapcrunch.com](http://www.mapcrunch.com/) : The ultimate random travel site.
 * [http://my90stv.com](http://my90stv.com/) : Welcome back to the 1990's! :tv:

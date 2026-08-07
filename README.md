@@ -234,6 +234,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://htmlmail.pro](https://htmlmail.pro/) : Email services like Gmail and Outlook support rich HTML emails but they do not offer an option to compose email messages directly using HTML and CSS markup. That's where HTML Mail fits in.
 * [https://howdns.works](https://howdns.works/) : A fun and colorful explanation of how DNS works.
 * [https://hiring.cafe](https://hiring.cafe) : HiringCafe is building a 100x better job search engine: fast, comprehensive, honest, and useful for real people making real career decisions.
+* [https://hearthcalc.com](https://hearthcalc.com/) : Free, no-signup calculators for everyday pet and sleep questions — dog chocolate toxicity, dog age, dog food portions, sleep cycles, caffeine cutoff — each showing the published source (Merck Veterinary Manual, ASPCA, AKC/AVMA, Sleep Foundation, NIH) behind its numbers. :free:
 
 ## I :
 * [https://www.ifixit.com](https://www.ifixit.com/) : The free repair guide for everything, written by everyone. :hammer:

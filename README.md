@@ -288,6 +288,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.kiddle.co](https://www.kiddle.co/) : Safe visual search engine for kids.
 * [https://keeprule.com](https://keeprule.com/) : Curated investment principles from Warren Buffett, Charlie Munger, and other legendary investors with interactive decision scenarios. :moneybag:
 * [https://kustodian.life](https://kustodian.life) : Kustodian helps you recover and fix issues across EPF, shares, Banks, Real Estate and more. PF stuck. Claim rejected. Multiple UAN. Ownership unclear.
+* [https://korelyy.com](https://korelyy.com) : Privacy-first collection of 100+ free online tools (image, PDF, unit, JSON, generators) that runs entirely in your browser with no signup. Six languages supported. :free:
 * [https://www.kiddoworksheets.com](https://www.kiddoworksheets.com) : Kiddo Worksheets has a lot of free educational resources. Get free printable worksheets for Preschool, Kindergarten & Grades from 1 to 5 curriculum.
 
 ## L :

@@ -399,6 +399,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://partystuff.in](https://partystuff.in/) : tambola, paper games, props brand about party stuff for Indian Parties. 🥳
 * [https://www.pickyourtech.com](https://www.pickyourtech.com/) : Catalog of open-source projects with categories and open-source SaaS alternatives.
 * [https://pageguard.org](https://pageguard.org) : Free website health scanner that checks any site for SEO issues, accessibility (WCAG/ADA), performance, and best practices. No signup required. :free:
+* [https://peelaway.io/tools](https://peelaway.io/tools?utm_source=awesome_websites&utm_medium=referral&utm_campaign=pve-030&utm_content=peelaway_tools) : 50 free browser-based image tools for resizing, compressing, converting, inspecting, creating PDFs, and fitting social media canvases. Source images stay on-device and no signup is required. :free:
 * [https://www.pixelateimage.co/](https://www.pixelateimage.co/) : Transform any photo into a retro 8 bit masterpiece or securely obscure sensitive details.
 * [https://puzzlegenio.com](https://puzzlegenio.com/) : Free online puzzle generator for creating printable jigsaw puzzles, crosswords, word searches, and sudoku. Supports 7 languages.
 * [https://pong-wars.koenvangilst.nl](https://pong-wars.koenvangilst.nl) : It's the eternal battle between day and night, good and bad.
@@ -568,5 +569,4 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://zoomquilt.org](http://zoomquilt.org/) : Visit this website anytime you're bored. It'll leave you amazed.
 * [http://www.zamzar.com](http://www.zamzar.com/) : Have you ever wanted to convert files without the need to download software ? It's free online file converter. :repeat:
 * [http://zoom.it](http://zoom.it/) : ZoomHub lets you share & view your high-resolution images seamlessly and blazingly fast, no matter whether you are on a desktop computer, tablet, or mobile phone.
-
 

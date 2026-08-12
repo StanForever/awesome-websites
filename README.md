@@ -329,6 +329,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://mycvdesigner.com](https://www.mycvdesigner.com/) : The most affordable resume writing service that builds excellent quality resumes for worldwide job seekers. :page_facing_up: :bar_chart:
 * [https://makeameme.org](https://makeameme.org/) : Make better memes.
 * [https://mlu-explain.github.io](https://mlu-explain.github.io/) : Machine Learning University (MLU) is an education initiative from Amazon designed to teach core machine learning theory and practical application with visual explanations.
+* [https://mydentify.com/tools/ai-model-cost-calculator](https://mydentify.com/tools/ai-model-cost-calculator) : Free browser calculator for comparing monthly AI model API costs using request volume, token counts, cached input, and current public pricing. :free:
 * [https://www.mytimecardcalculator.com/](https://www.mytimecardcalculator.com/) : easily calculator work hours
 * [https://mindtrip.ai)(https://mindtrip.ai) : A travel planning platform that helps users discover and book attractions, restaurants, hotels, and guided tours while offering local insights and trip inspiration.
 * [https://mumdiaries.1ocalhost.fun](https://mumdiaries.1ocalhost.fun) : Local community portal called "MumDiaries" that allows residents to view electoral wards on a map and submit garbage reports, although the current display shows zero active reports.
@@ -568,5 +569,4 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://zoomquilt.org](http://zoomquilt.org/) : Visit this website anytime you're bored. It'll leave you amazed.
 * [http://www.zamzar.com](http://www.zamzar.com/) : Have you ever wanted to convert files without the need to download software ? It's free online file converter. :repeat:
 * [http://zoom.it](http://zoom.it/) : ZoomHub lets you share & view your high-resolution images seamlessly and blazingly fast, no matter whether you are on a desktop computer, tablet, or mobile phone.
-
 

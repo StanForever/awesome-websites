@@ -114,6 +114,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://www.drawastickman.com](http://www.drawastickman.com/) : Draw a stickman and then take it on an adventurous trip. This cool website is actually a time machine that will transport you straight to your childhood.
 * [https://www.draw.io](https://www.draw.io/) : Make network diagrams for free and you can export them as XML, png, jpeg, etc. :free:
 * [https://www.drumeo.com](https://www.drumeo.com/) : Learn anything on the drums with the world's best teachers.
+* [https://dressmeai.com](https://dressmeai.com/) : AI virtual try-on that shows how clothes look on your body from a photo and garment image, with realistic results priced per try-on and no subscription required.
 * [https://devlids.com](https://devlids.com/) : Devlids is a gallary of laptop-lids which are decorated with laptop stickers.
 * [https://diagramy.com](https://diagramy.com/) : Diagramy is the easiest way to create and share interactive diagrams.
 * [http://www.didthanoskill.me](http://www.didthanoskill.me/) : Did Thanos kill you? Check it out here.

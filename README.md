@@ -104,6 +104,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://concreteestimatorhub.com/](https://concreteestimatorhub.com/) : Free concrete calculators and reference guides for volume, bag counts, slabs, footings, post holes, shed bases, ready-mix comparisons, and material cost planning. :free:
 * [https://www.car-pdi.app](https://www.car-pdi.app) : A digital and printable Pre-Delivery Inspection (PDI) checklist to help car buyers thoroughly inspect their new vehicle before accepting delivery, ensuring they verify critical details like VIN numbers and document any defects.
 * [https://crzy.site](https://crzy.site/) : A growing collection of absolutely pointless single-page websites. Each one dumber than the last.
+* [https://codextheme.tools](https://codextheme.tools/) : Free browser theme builder for OpenAI Codex with live preview and CSS token export. :free:
 
 ## D : 
 * [http://downforeveryoneorjustme.com](http://downforeveryoneorjustme.com/) : Check if a website is down for everyone or just you.
@@ -154,6 +155,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://excalidraw.com](https://excalidraw.com/) : Excalidraw is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
 * [https://eontools.com](https://eontools.com/) : Collection of 3000+ simple, fast, and free tools and calculators across 30+ categories for everyday tasks. Runs locally in your browser with no sign ups and no data uploads.
 * [https://ferrarirules-creator.github.io/ev-ice-calculator](https://ferrarirules-creator.github.io/ev-ice-calculator) : Compare lifetime ownership costs and savings between Electrice and ICE (Internal Combustion Engine) vehicles.
+* [https://embroiderypricingcalculator.com](https://embroiderypricingcalculator.com/) : Free embroidery job pricing calculator for stitches, fabric, and labor. :free:
 
 ## F :
 * [http://www.foxebook.net](http://www.foxebook.net/) : Amazing Free eBook Download Site. Newest Free eBook Share. Free Download PDF, EPUB, MOBI eBooks. :books:
@@ -264,6 +266,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://idphotosnap.com](https://idphotosnap.com/) : Free browser-only passport and visa photo maker for 100+ countries. Crops photos to official government specifications, removes the background, and runs entirely in the browser - no upload, no signup, no watermark.
 * [https://ip.me](https://ip.me) : IP.ME is a free service developed and maintained by Proton. Lookups are powered by dnspython, a DNS toolkit for Python.
 * [https://indepai.app/tools/coast-fire-calculator](https://indepai.app/tools/coast-fire-calculator) : Free Coast FIRE calculator that shows how much you need invested today to reach financial independence, with cost-of-living data across 11,800+ cities so you can see where your money buys an earlier retirement. No signup. :free:
+* [https://imagetocrochetpattern.com](https://imagetocrochetpattern.com/) : Free tool that converts images into crochet patterns in the browser. :free:
 
 ## J :
 * [http://jsbeautifier.org](http://jsbeautifier.org/) : Beautify, unpack or deobfuscate JavaScript and HTML, make JSON/JSONP readable, etc. :dizzy:
@@ -305,6 +308,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://learnxinyminutes.com](https://learnxinyminutes.com/) : Whirlwind tours of (several, hopefully many someday) popular and ought-to-be-more-popular programming languages, presented as valid, commented code and explained as they go.
 * [https://lunar.fyi](https://lunar.fyi/) : Intelligent adaptive brightness for your external display.
 * [https://learngitbranching.js.org](https://learngitbranching.js.org/) : The most visual and interactive way to learn Git on the web; you'll be challenged with exciting levels, given step-by-step demonstrations of powerful features, and maybe even have a bit of fun along the way. 
+* [https://lawnmowingcalculator.com](https://lawnmowingcalculator.com/) : Free lawn mowing cost calculator by area, rate, and extras. :free:
 
 ## M :
 * [https://www.mathway.com](https://www.mathway.com/) : Free math problem solver answers your algebra homework questions with step-by-step explanations.
@@ -405,6 +409,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://puzzlegenio.com](https://puzzlegenio.com/) : Free online puzzle generator for creating printable jigsaw puzzles, crosswords, word searches, and sudoku. Supports 7 languages.
 * [https://pong-wars.koenvangilst.nl](https://pong-wars.koenvangilst.nl) : It's the eternal battle between day and night, good and bad.
 * [https://pmresume.io](https://pmresume.io) : ProductResume is an AI-powered tool designed to help Product Managers and aspiring PMs build interview-ready resumes by scoring them against hiring manager criteria, rewriting weak bullet points for impact, and generating personalized interview prep materials.
+* [https://pressurewasherfix.com](https://pressurewasherfix.com/) : Free troubleshooting guides for common pressure washer problems. :free:
 
 ## Q :
 * [https://quickdraw.withgoogle.com](https://quickdraw.withgoogle.com/) : Can a neural network learn to recognize doodling? Help teach it by adding your drawings to the world's largest doodling data set, shared publicly to help with machine learning research. :pencil2:
@@ -480,6 +485,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://share-text.org/](https://share-text.org/): #1 Share Text Online With Link and QR Code, Create, Paste, Edit, and share text online live quickly with secure links and QR codes. Free, no Login and anonymous sharing.
 * [https://sreuniversity.in](https://sreuniversity.in) : This website provides a comprehensive guide to Site Reliability Engineering (SRE), covering its definition, core responsibilities, historical context, a detailed skill roadmap, and recommended learning resources for aspiring engineers.
 * [https://soccon.in](https://soccon.in) : From visitor management to finance tracking — SocietyConnect is the all-in-one platform for modern housing communities. No more spreadsheets, no more chaos.
+* [https://skycotl.tools](https://skycotl.tools/) : Free guides and calculators for Sky: Children of the Light. :free:
 
 ## T :
 * [http://typatone.com](http://typatone.com/) : Type some random stuff and enjoy the music.
@@ -559,6 +565,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://wordplayforever.com](https://wordplayforever.com) : An unlimited Wordle game with no daily limit and no waiting for tomorrow. Play as many rounds as you want for free with no account needed.
 * [https://world-power-plugs.com](https://world-power-plugs.com/) : Going on an internship, volunteering abroad or simply traveling for pleasure? Wherever you go, World Power Plugs makes sure you can power up. In seconds you'll know if you need a plug adapter or a power converter for any outlets used around the world 🌍
 * [https://watermarkremoverio.org/](https://watermarkremoverio.org/): Watermark Remover - Remove Watermarks from Images with AI
+* [https://wattscalc.com](https://wattscalc.com/) : Free wattage and electricity cost calculator for appliances and devices. :free:
 
 ## Y : 
 * [http://www.youtube-mp3.org](http://www.youtube-mp3.org/) : Convert YouTube videos to MP3s. :cinema:

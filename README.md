@@ -480,6 +480,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://share-text.org/](https://share-text.org/): #1 Share Text Online With Link and QR Code, Create, Paste, Edit, and share text online live quickly with secure links and QR codes. Free, no Login and anonymous sharing.
 * [https://sreuniversity.in](https://sreuniversity.in) : This website provides a comprehensive guide to Site Reliability Engineering (SRE), covering its definition, core responsibilities, historical context, a detailed skill roadmap, and recommended learning resources for aspiring engineers.
 * [https://soccon.in](https://soccon.in) : From visitor management to finance tracking — SocietyConnect is the all-in-one platform for modern housing communities. No more spreadsheets, no more chaos.
+* [https://sheetrender.com/tools](https://sheetrender.com/tools) : Free browser-based PDF tools to merge and split PDFs, extract pages, and split mail merge PDFs into named files. Files stay on your device, with no upload or account.
 
 ## T :
 * [http://typatone.com](http://typatone.com/) : Type some random stuff and enjoy the music.

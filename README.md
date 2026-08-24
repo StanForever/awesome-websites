@@ -114,6 +114,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://www.drawastickman.com](http://www.drawastickman.com/) : Draw a stickman and then take it on an adventurous trip. This cool website is actually a time machine that will transport you straight to your childhood.
 * [https://www.draw.io](https://www.draw.io/) : Make network diagrams for free and you can export them as XML, png, jpeg, etc. :free:
 * [https://www.drumeo.com](https://www.drumeo.com/) : Learn anything on the drums with the world's best teachers.
+* [https://dressmeai.com](https://dressmeai.com/) : AI virtual try-on that shows how clothes look on your body from a photo and garment image, with realistic results priced per try-on and no subscription required.
 * [https://devlids.com](https://devlids.com/) : Devlids is a gallary of laptop-lids which are decorated with laptop stickers.
 * [https://diagramy.com](https://diagramy.com/) : Diagramy is the easiest way to create and share interactive diagrams.
 * [http://www.didthanoskill.me](http://www.didthanoskill.me/) : Did Thanos kill you? Check it out here.
@@ -481,6 +482,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://sreuniversity.in](https://sreuniversity.in) : This website provides a comprehensive guide to Site Reliability Engineering (SRE), covering its definition, core responsibilities, historical context, a detailed skill roadmap, and recommended learning resources for aspiring engineers.
 * [https://soccon.in](https://soccon.in) : From visitor management to finance tracking — SocietyConnect is the all-in-one platform for modern housing communities. No more spreadsheets, no more chaos.
 * [https://serverbuddy.net](https://serverbuddy.net/) : Search Minecraft servers and view live status, player-count history, uptime, MOTD, and version changes. :free:
+* [https://solvebar.com](https://solvebar.com) : SolveBar is a free toolbox of 85+ browser-based tools — invoice generator, PDF builder, JSON formatter, crypto calculators and more. No signup, nothing uploaded to a server. :free:
 
 ## T :
 * [http://typatone.com](http://typatone.com/) : Type some random stuff and enjoy the music.

@@ -175,7 +175,6 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.flightradar24.com](https://www.flightradar24.com/) : Flightradar24 is a global flight tracking service that provides you with real-time information about thousands of aircraft around the world. :airplane:
 * [http://file-upload.com](http://file-upload.com/) : Free cloud storage for your data. :free:
 * [https://www.freeprivacypolicy.com](https://www.freeprivacypolicy.com/) : Create a free custom privacy policy for your website, blog or mobile app in just minutes! :free:
-* [https://freeformatter.com](https://freeformatter.com/) : Website to help developers by providing them with free online tools. These tools include several formatters, validators, code minifiers, string escapers, encoders and decoders, message digesters, web resources and more. :free:
 * [https://forget.me](https://forget.me/) : Remove yourself from Google search results.
 * [https://www.freecycle.org](https://www.freecycle.org/) : A network of people giving away free stuff in their towns.
 * [https://www.followupthen.com](https://www.followupthen.com/) : The simplest way to schedule an email reminder.
@@ -277,7 +276,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://jsonresume.io](http://jsonresume.io/) : You can upload your JSON resume according to the spec and this website will render it all pretty for you.
 * [https://www.jscreenfix.com](https://www.jscreenfix.com/) : The JScreenFix pixel fixing algorithm has been applied to millions of screens and is the most effective software solution available for repairing defective pixels.
 * [https://job-ready.herokuapp.com](https://job-ready.herokuapp.com/) : AI-powered Cover Letter Generator 📄
-
+* [https://jsoning.com/](https://jsoning.com/) : Free online JSON tools. These tools include a formatter, validator, converter, JSONPath tester, Mock API, and more.
 
 ## K :
 * [http://www.keybr.com](http://www.keybr.com/) : Simple and adaptive typing lessons will help you type faster and with fewer errors.

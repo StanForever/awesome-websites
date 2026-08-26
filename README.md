@@ -15,6 +15,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://3dhouseplanner.com](https://3dhouseplanner.com/) : 3D House Planner is a floor planner web application that allows users to design houses and apartments. :free:
 
 ## A : 
+* [https://abox.tools](https://abox.tools/) : 35 small file tools - compress an image to an exact size, merge or redact a PDF, crop a video, trim audio, read a QR code - that run entirely in your browser, so nothing you open is uploaded anywhere. :free:
 * [https://www.awwwards.com](https://www.awwwards.com/) : The awards that recognize the talent and effort of the best web designers, developers and agencies in the world.
 * [https://acalcia.com](https://acalcia.com/) : A free, no-signup suite of 41 in-browser money & tax calculators for US freelancers, online sellers, and creators (self-employment & quarterly tax, marketplace/payment fees, freelance rates, pricing/margin, and a PDF invoice generator).
 * [http://www.allitebooks.com](http://www.allitebooks.com/) : Free IT eBooks Download. :books:

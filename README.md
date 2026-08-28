@@ -293,6 +293,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://kustodian.life](https://kustodian.life) : Kustodian helps you recover and fix issues across EPF, shares, Banks, Real Estate and more. PF stuck. Claim rejected. Multiple UAN. Ownership unclear.
 * [https://korelyy.com](https://korelyy.com) : Privacy-first collection of 100+ free online tools (image, PDF, unit, JSON, generators) that runs entirely in your browser with no signup. Six languages supported. :free:
 * [https://www.kiddoworksheets.com](https://www.kiddoworksheets.com) : Kiddo Worksheets has a lot of free educational resources. Get free printable worksheets for Preschool, Kindergarten & Grades from 1 to 5 curriculum.
+* [https://kapella-hub.github.io/appstore/timegrapher-repeatability-calculator.html](https://kapella-hub.github.io/appstore/timegrapher-repeatability-calculator.html) : Free browser-local calculator for checking whether two mechanical-watch timegrapher rate readings agree using both fits' uncertainty; no signup or data upload. :free:
 
 ## L :
 * [https://www.lucidchart.com](https://www.lucidchart.com/) : Flowchart maker and online diagram software.

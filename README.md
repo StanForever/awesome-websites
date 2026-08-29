@@ -338,6 +338,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://mumdiaries.1ocalhost.fun](https://mumdiaries.1ocalhost.fun) : Local community portal called "MumDiaries" that allows residents to view electoral wards on a map and submit garbage reports, although the current display shows zero active reports.
 
 ## N :
+* [https://nutilz.com](https://nutilz.com/) : 23 free browser-based developer tools and utilities: regex tester, JSON formatter, unit converter, calculators, and more. No sign-up required. :free:
 * [https://neave.com](https://neave.com/) : A collection of interactive tools, apps, toys and art.
 * [https://njal.la](https://njal.la/) : Finally, a privacy aware domain registration service! Njalla protects you from ferocious domain predators.
 * [https://novoresume.com](https://novoresume.com/) : The Professional Résumé Builder you deserve. :page_facing_up:
@@ -357,6 +358,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://nickmakes.website](https://nickmakes.website/) : NYC-based creative web developer named Nick Ellsworth. Here's some stuff that he created which you may find fun or weird.
 * [https://nohello.net](https://nohello.net/) : You SHOULD definitely go through this website before you text anyone if you're the person who just says hi/hello to initiate a conversation over chatting.
 * [https://dalton-nrs.manchester.ac.uk](https://dalton-nrs.manchester.ac.uk/) : Take a tour of Virtual nuclear reactor. 
+* [https://nutilz.com/file-size-converter](https://nutilz.com/file-size-converter) : Free browser-based file size converter — convert between bytes, KB, MB, GB, TB instantly, no upload or signup required. :free:
 
 ## O :
 * [http://oldcomputers.net](http://oldcomputers.net/) : The museum of old, rare, vintage, antique computers. View all 150 old computers all at the same time to appreciate how diverse and interesting they are. :computer:

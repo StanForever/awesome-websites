@@ -334,6 +334,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://makeameme.org](https://makeameme.org/) : Make better memes.
 * [https://mlu-explain.github.io](https://mlu-explain.github.io/) : Machine Learning University (MLU) is an education initiative from Amazon designed to teach core machine learning theory and practical application with visual explanations.
 * [https://mydentify.com/tools/](https://mydentify.com/tools/) : A directory of free browser tools for AI discovery, technical SEO, model costs, and content checks. :free:
+* [ModelBenchmark](https://modelbenchmark.io) - Specs, prices, benchmarks and lifecycle for 2,000+ AI models.
 * [https://www.mytimecardcalculator.com/](https://www.mytimecardcalculator.com/) : easily calculator work hours
 * [https://mindtrip.ai)(https://mindtrip.ai) : A travel planning platform that helps users discover and book attractions, restaurants, hotels, and guided tours while offering local insights and trip inspiration.
 * [https://mumdiaries.1ocalhost.fun](https://mumdiaries.1ocalhost.fun) : Local community portal called "MumDiaries" that allows residents to view electoral wards on a map and submit garbage reports, although the current display shows zero active reports.

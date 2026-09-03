@@ -500,7 +500,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://televisor.com](http://televisor.com/) : Enter a show you like and it will recommend new shows to watch and where to find them.
 * [http://twitternamegenerator.com](http://twitternamegenerator.com/) : Free Online Tool to Generate Pretty Nicknames for Twitter. :free:
 * [http://titlecase.com](http://titlecase.com/) : Text conversion solutions. 
-* [https://www.timeanddate.com](https://www.timeanddate.com/) : Date to date calculator. 
+* [https://www.timeanddate.com](https://www.timeanddate.com/) : Date to date calculator.
+* [https://www.tidycalcs.com](https://www.tidycalcs.com/) : Free, no-signup calculators for mortgages, loans, debt payoff, retirement, and more. :free:
 * [https://tunein.com](https://tunein.com/) : Listen to over 100,000 real radio stations.
 * [https://www.topcv.me](https://www.topcv.me/) : Create a professional Resume/CV in minutes. The simplest way to have impressive Resume without Photoshop, AI technique.
 * [https://www.typing.com](https://www.typing.com/) : Master touch-typing with these practice sessions.

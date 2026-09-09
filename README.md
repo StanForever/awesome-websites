@@ -144,6 +144,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://dvdscreensavermaker.com](https://dvdscreensavermaker.com/) : Recreates the classic bouncing DVD logo screensaver in your browser — bounce your own image or neon text, and export it as a GIF, video, or self-contained offline HTML loop. :free:
 
 ## E : 
+* [https://extinctatlas.com](https://extinctatlas.com/) : Explore extinct animals with an interactive dinosaur timeline, size comparisons, and a deep-time walkway planner for turning geological time into a measured classroom activity. :free:
 * [https://elm.chat](https://elm.chat/) : Create an account-free, disposable encrypted chat room with single-use invites and explicit destruction. Open source and early-stage; not independently audited. :free:
 * [https://explainshell.com](https://explainshell.com/) : Write down a command-line to see the help text that matches each argument. :shell:
 * [http://ecomputernotes.com](http://ecomputernotes.com/) : For learning many cool stuff related to computers like networking, web development, programming etc.

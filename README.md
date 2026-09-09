@@ -420,6 +420,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://quenq.com](https://quenq.com) : Project Quenq is an interactive museum of internet culture. Our library features fully functional emulators, preserved games, and rare digital artifacts, all restored to run perfectly in your browser.
 
 ## R : 
+* [https://refentra.com](https://refentra.com) : Free image tools for resizing, compression, format conversion, photo metadata editing and removal, and combining images into PDF. Image processing stays in your browser; no signup required. :free:
 * [https://relatedrepos.com](https://relatedrepos.com/) : Discover related open source projects. Find alternatives and other similar repositories. Updated daily.
 * [http://rainymood.com](http://rainymood.com/) : Listen to rain and thunderstorms online. :umbrella:
 * [https://roadtrippers.com](https://roadtrippers.com/) : Plan your next road trip.

@@ -410,6 +410,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://puzzlegenio.com](https://puzzlegenio.com/) : Free online puzzle generator for creating printable jigsaw puzzles, crosswords, word searches, and sudoku. Supports 7 languages.
 * [https://pong-wars.koenvangilst.nl](https://pong-wars.koenvangilst.nl) : It's the eternal battle between day and night, good and bad.
 * [https://pmresume.io](https://pmresume.io) : ProductResume is an AI-powered tool designed to help Product Managers and aspiring PMs build interview-ready resumes by scoring them against hiring manager criteria, rewriting weak bullet points for impact, and generating personalized interview prep materials.
+* [https://plexto.tools](https://plexto.tools/) : 251 free online tools spanning developer, image, AI, text, math, security, SEO, PDF, and finance utilities, plus live crypto/stock/commodity trackers. No signup required. :free:
 
 ## Q :
 * [https://quickdraw.withgoogle.com](https://quickdraw.withgoogle.com/) : Can a neural network learn to recognize doodling? Help teach it by adding your drawings to the world's largest doodling data set, shared publicly to help with machine learning research. :pencil2:

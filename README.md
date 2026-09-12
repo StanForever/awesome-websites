@@ -161,6 +161,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://ferrarirules-creator.github.io/ev-ice-calculator](https://ferrarirules-creator.github.io/ev-ice-calculator) : Compare lifetime ownership costs and savings between Electrice and ICE (Internal Combustion Engine) vehicles.
 
 ## F :
+* [https://filewhisk.com](https://filewhisk.com/) : Free browser-based image tools — compress, resize, crop, convert and watermark images. Everything runs client-side, nothing is uploaded. :free:
 * [http://www.foxebook.net](http://www.foxebook.net/) : Amazing Free eBook Download Site. Newest Free eBook Share. Free Download PDF, EPUB, MOBI eBooks. :books:
 * [http://www.fallingfalling.com](http://www.fallingfalling.com/) : Mind you, you'll fall for it!
 * [http://ffffidget.com](http://ffffidget.com/) : Someone made a fidget spinner simulation so you can waste your day away. :stuck_out_tongue_winking_eye:

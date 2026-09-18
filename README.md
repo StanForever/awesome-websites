@@ -492,6 +492,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://soccon.in](https://soccon.in) : From visitor management to finance tracking — SocietyConnect is the all-in-one platform for modern housing communities. No more spreadsheets, no more chaos.
 * [https://serverbuddy.net](https://serverbuddy.net/) : Search Minecraft servers and view live status, player-count history, uptime, MOTD, and version changes. :free:
 * [https://solvebar.com](https://solvebar.com) : SolveBar is a free toolbox of 85+ browser-based tools — invoice generator, PDF builder, JSON formatter, crypto calculators and more. No signup, nothing uploaded to a server. :free:
+* [https://searchd.ai/report](https://searchd.ai/report) : Get a free, manually produced AI visibility report using 20 buyer questions across five answer engines. :free:
 * [https://studyarena.com](https://studyarena.com) : Compare three AI responses to a study question for free, then vote and reveal the models.
 
 ## T :

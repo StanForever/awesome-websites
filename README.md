@@ -500,6 +500,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://searchd.ai/report](https://searchd.ai/report) : Get a free, manually produced AI visibility report using 20 buyer questions across five answer engines. :free:
 * [https://studyarena.com](https://studyarena.com) : Compare three AI responses to a study question for free, then vote and reveal the models.
 * [https://store.xiu.ai/en/ai-ip/](https://store.xiu.ai/en/ai-ip/) : XiuStore AI IP Check compares the exit IPs seen by ChatGPT, Claude, Grok, Perplexity, and Cloudflare, with a separate WebRTC check. Free to use without signing in. :free:
+* [https://www.shortshort.io](https://www.shortshort.io/) : Turns one long video you own (talk, podcast, course) into vertical 9:16 shorts with word-by-word captions. Free plan with 60 credits (1 credit = 1 minute of source video), no card required.
 
 ## T :
 * [http://typatone.com](http://typatone.com/) : Type some random stuff and enjoy the music.

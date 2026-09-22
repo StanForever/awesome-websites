@@ -415,6 +415,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://pageguard.org](https://pageguard.org) : Free website health scanner that checks any site for SEO issues, accessibility (WCAG/ADA), performance, and best practices. No signup required. :free:
 * [https://www.pixelateimage.co/](https://www.pixelateimage.co/) : Transform any photo into a retro 8 bit masterpiece or securely obscure sensitive details.
 * [https://puzzlegenio.com](https://puzzlegenio.com/) : Free online puzzle generator for creating printable jigsaw puzzles, crosswords, word searches, and sudoku. Supports 7 languages.
+* [https://puritytest.io](https://puritytest.io/) : Free online purity test and quiz-style entertainment — answer questions and get a score. No signup required. :free:
 * [https://pong-wars.koenvangilst.nl](https://pong-wars.koenvangilst.nl) : It's the eternal battle between day and night, good and bad.
 * [https://pmresume.io](https://pmresume.io) : ProductResume is an AI-powered tool designed to help Product Managers and aspiring PMs build interview-ready resumes by scoring them against hiring manager criteria, rewriting weak bullet points for impact, and generating personalized interview prep materials.
 * [https://plexto.tools](https://plexto.tools/) : 251 free online tools spanning developer, image, AI, text, math, security, SEO, PDF, and finance utilities, plus live crypto/stock/commodity trackers. No signup required. :free:

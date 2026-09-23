@@ -151,6 +151,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://elm.chat](https://elm.chat/) : Create an account-free, disposable encrypted chat room with single-use invites and explicit destruction. Open source and early-stage; not independently audited. :free:
 * [https://explainshell.com](https://explainshell.com/) : Write down a command-line to see the help text that matches each argument. :shell:
 * [http://ecomputernotes.com](http://ecomputernotes.com/) : For learning many cool stuff related to computers like networking, web development, programming etc.
+* [https://englishspeakingapp.com/english-speaking-practice](https://englishspeakingapp.com/english-speaking-practice) : Live AI English speaking practice for interviews, meetings, and everyday conversations, with a free 30-second speaking test.
 * [https://www.ecosia.org](https://www.ecosia.org/) : Search engine which plants a tree with the revenue from ads... Sounds good to our environment. :seedling:
 * [http://www.essaytyper.com](http://www.essaytyper.com/) : The finals are right around the corner and you need to finish your essay? You're in luck!
 * [https://www.easycron.com](https://www.easycron.com/) : EasyCron is a task scheduler which provides services of calling specified URLs at specified time or by time interval. :watch:

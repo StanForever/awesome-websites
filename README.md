@@ -73,6 +73,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://corrupt-a-file.net](https://corrupt-a-file.net/) : Can't finish your assignment before deadline? This will corrupt your assignment files so that you can ask for extra time.
 * [https://www.calligraphr.com](https://www.calligraphr.com/) : Transform your handwriting or calligraphy into a font! Creating your own font has never been easier. With your own font you can create genuine personal designs and calligraphic artwork.
 * [https://www.canva.com](https://www.canva.com/) : Amazingly Simple Graphic Design Software.
+* [https://coloringfun.io](https://coloringfun.io/) : Free online coloring pages for kids — browse printable pages, color by number/code, and create shared coloring activities. No signup required. :free:
 * [http://cidr.xyz](http://cidr.xyz/) : An interactive IP address and CIDR range visualizer.
 * [https://crontab-generator.org](https://crontab-generator.org/) : Generate crontab syntax. 
 * [https://clickclickclick.click](https://clickclickclick.click/) : Just "click" it to see what happens. :wink:

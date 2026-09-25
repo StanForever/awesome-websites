@@ -286,6 +286,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://job-ready.herokuapp.com](https://job-ready.herokuapp.com/) : AI-powered Cover Letter Generator 📄
 * [https://jsoning.com/](https://jsoning.com/) : Free online JSON tools. These tools include a formatter, validator, converter, JSONPath tester, Mock API, and more.
 
+* [https://drawbly.com](https://drawbly.com/) : Draw quick diagrams with freehand arrows and editable text in the browser. Drafts stay local; free PNG exports include a Drawbly credit. :free:
 ## K :
 * [http://www.keybr.com](http://www.keybr.com/) : Simple and adaptive typing lessons will help you type faster and with fewer errors.
 * [https://www.kimovil.com](https://www.kimovil.com/) : Cheap smartphones comparison. :iphone: :iphone:

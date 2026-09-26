@@ -230,6 +230,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://grep.app](https://grep.app/) : Effortlessly search for code, files, and paths across GitHub repositories. 🕵️
 
 * [https://gptimage2.asia](https://gptimage2.asia/) : GPT Image 2 is an AI image generator and editor for marketing visuals.
+* [https://getsnapkin.app](https://getsnapkin.app/) : Snapkin is a calorie tracker you use by photographing your plate. No scale, no barcode, no database to search.
 ## H :
 * [http://www.1happybirthday.com](http://www.1happybirthday.com/) : Birthday songs for a Happy Birthday. :birthday:
 * [http://htmlreference.io](http://htmlreference.io/) : A free guide to all HTML elements and attributes. :free:

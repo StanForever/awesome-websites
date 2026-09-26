@@ -119,6 +119,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://downloadtimecalculator.com](http://downloadtimecalculator.com/) : A simple calculator with which you can calculate download time for a file depending on download speed. How long time it will take depends on file size, your own download speed and the server's upload speed. In these calculations it is assumed that your download speed is the bottleneck. :arrow_down:
 * [http://www.drawastickman.com](http://www.drawastickman.com/) : Draw a stickman and then take it on an adventurous trip. This cool website is actually a time machine that will transport you straight to your childhood.
 * [https://www.draw.io](https://www.draw.io/) : Make network diagrams for free and you can export them as XML, png, jpeg, etc. :free:
+* [https://drawbly.com](https://drawbly.com/) : Draw quick diagrams with freehand arrows and editable text in the browser. Drafts stay local; free PNG exports include a Drawbly credit. :free:
 * [https://www.drumeo.com](https://www.drumeo.com/) : Learn anything on the drums with the world's best teachers.
 * [https://dressmeai.com](https://dressmeai.com/) : AI virtual try-on that shows how clothes look on your body from a photo and garment image, with realistic results priced per try-on and no subscription required.
 * [https://devlids.com](https://devlids.com/) : Devlids is a gallary of laptop-lids which are decorated with laptop stickers.

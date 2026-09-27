@@ -348,6 +348,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://mumdiaries.1ocalhost.fun](https://mumdiaries.1ocalhost.fun) : Local community portal called "MumDiaries" that allows residents to view electoral wards on a map and submit garbage reports, although the current display shows zero active reports.
 
 ## N :
+* [https://neverpest.com/invasive-pest-tracker](https://neverpest.com/invasive-pest-tracker/) : A searchable worldwide log of invasive pest detections, spread, quarantines and eradications, filterable by event type, country and year, with each row linked to a report or the official notice. :bug:
 * [https://nutilz.com](https://nutilz.com/) : 23 free browser-based developer tools and utilities: regex tester, JSON formatter, unit converter, calculators, and more. No sign-up required. :free:
 * [https://neave.com](https://neave.com/) : A collection of interactive tools, apps, toys and art.
 * [https://njal.la](https://njal.la/) : Finally, a privacy aware domain registration service! Njalla protects you from ferocious domain predators.

@@ -432,6 +432,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 
 ## R : 
 * [https://refentra.com](https://refentra.com) : Free image tools for resizing, compression, format conversion, photo metadata editing and removal, and combining images into PDF. Image processing stays in your browser; no signup required. :free:
+* [https://reactionmetric.com](https://reactionmetric.com/) : Free no-signup browser reaction-time benchmark with five-trial sessions, median/average/best/consistency results, local history, and clear device/browser/input measurement context. :free:
 * [https://relatedrepos.com](https://relatedrepos.com/) : Discover related open source projects. Find alternatives and other similar repositories. Updated daily.
 * [http://rainymood.com](http://rainymood.com/) : Listen to rain and thunderstorms online. :umbrella:
 * [https://roadtrippers.com](https://roadtrippers.com/) : Plan your next road trip.

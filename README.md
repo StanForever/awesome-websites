@@ -229,6 +229,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://generatepotter.com](https://generatepotter.com/) : Enter a prompt like "@harry as a cat" to generate an image. 🪄
 * [https://writing.galaxyzoo.org](https://writing.galaxyzoo.org/) : Ever wanted to see your name in lights? Well, lights don't get much bigger than this! Create your own message in real galaxies!
 * [https://grep.app](https://grep.app/) : Effortlessly search for code, files, and paths across GitHub repositories. 🕵️
+* [https://www.geographyquizarcade.com](https://www.geographyquizarcade.com/) : Flag, capital and map quiz games with a daily challenge, printable worksheets and a classroom host mode where students join with a code. No signup. :free:
 
 * [https://gptimage2.asia](https://gptimage2.asia/) : GPT Image 2 is an AI image generator and editor for marketing visuals.
 ## H :

@@ -508,6 +508,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://searchd.ai/report](https://searchd.ai/report) : Get a free, manually produced AI visibility report using 20 buyer questions across five answer engines. :free:
 * [https://studyarena.com](https://studyarena.com) : Compare three AI responses to a study question for free, then vote and reveal the models.
 * [https://store.xiu.ai/en/ai-ip/](https://store.xiu.ai/en/ai-ip/) : XiuStore AI IP Check compares the exit IPs seen by ChatGPT, Claude, Grok, Perplexity, and Cloudflare, with a separate WebRTC check. Free to use without signing in. :free:
+* [https://subskills.xyz](https://subskills.xyz/) : Free sports technique videos from YouTube, TikTok and Instagram, sorted by sport, sub-skill and level.
 
 ## T :
 * [http://typatone.com](http://typatone.com/) : Type some random stuff and enjoy the music.

@@ -433,6 +433,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://quenq.com](https://quenq.com) : Project Quenq is an interactive museum of internet culture. Our library features fully functional emulators, preserved games, and rare digital artifacts, all restored to run perfectly in your browser.
 
 ## R : 
+* [https://remove-audio.com/tools](https://remove-audio.com/tools) : 30+ free video and audio tools that run in your browser, such as removing background music or vocals with AI, compressing a video and converting to MP4, MP3 or GIF. By default files stay on your device, with no signup and no watermark; an optional Cloud mode with an account takes bigger files. :free:
 * [https://refentra.com](https://refentra.com) : Free image tools for resizing, compression, format conversion, photo metadata editing and removal, and combining images into PDF. Image processing stays in your browser; no signup required. :free:
 * [https://reactionmetric.com](https://reactionmetric.com/) : Free no-signup browser reaction-time benchmark with five-trial sessions, median/average/best/consistency results, local history, and clear device/browser/input measurement context. :free:
 * [https://relatedrepos.com](https://relatedrepos.com/) : Discover related open source projects. Find alternatives and other similar repositories. Updated daily.

@@ -65,6 +65,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.bananaprompts.xyz](https://www.bananaprompts.xyz) : Banana Prompts is a free community platform where creators share and discover AI-generated art prompts for Google Gemini image models and other image tools. 🍌
 * [https://bengaluru.rent](https://bengaluru.rent) : bengaluru.rent is a free, anonymous, crowdsourced map that lets Bangalore renters share real rental prices and connect directly with landlords or flatmates without broker fees.
 * [Bird Identifier by Picture](https://birdfinder.app/) : Bird Identifier by Picture Online Free——AI Bird Identification
+* [https://brennanbuilds.dev/tools/site-check](https://brennanbuilds.dev/tools/site-check) : Free link preview and accessibility checker. Type a web address to see the card iMessage and Slack draw for it, what is wrong with it, and five accessibility checks with plain-English fixes. No signup. :free:
  
 
 ## C :
@@ -204,6 +205,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://fireplanner.in](https://fireplanner.in) : FIRE Planner is a comprehensive retirement planning calculator that helps you analyze your Financial Independence, Retire Early (FIRE) strategy using historical market data.
 * [https://www.freeflickfootball.com](https://www.freeflickfootball.com) :  A browser-based fooseball or street soccer game where you control a player to flick the ball against an AI opponent. ⚽
 * [https://fitmentnorth.com](https://fitmentnorth.com/) : Free wheel offset and tyre size calculator. Compare two setups and see poke, inner clearance and speedo error in millimetres. :free:
+* [https://fantasyonautopilot.com/start-or-sit](https://fantasyonautopilot.com/start-or-sit) : Paste a fantasy football roster from ESPN, Yahoo or Sleeper and get this week's ranked lineup, with byes and injuries flagged. No signup. :free:
 
 
 ## G :
@@ -233,6 +235,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.geographyquizarcade.com](https://www.geographyquizarcade.com/) : Flag, capital and map quiz games with a daily challenge, printable worksheets and a classroom host mode where students join with a code. No signup. :free:
 
 * [https://gptimage2.asia](https://gptimage2.asia/) : GPT Image 2 is an AI image generator and editor for marketing visuals.
+* [https://golftoolbox.app/courses](https://golftoolbox.app/courses) : Golf course finder with 7,000+ course pages. Filter by state and green fee; each course lists nearby courses and a tee time or course website link. :free:
 ## H :
 * [http://www.1happybirthday.com](http://www.1happybirthday.com/) : Birthday songs for a Happy Birthday. :birthday:
 * [http://htmlreference.io](http://htmlreference.io/) : A free guide to all HTML elements and attributes. :free:

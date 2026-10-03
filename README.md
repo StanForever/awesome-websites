@@ -233,6 +233,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.geographyquizarcade.com](https://www.geographyquizarcade.com/) : Flag, capital and map quiz games with a daily challenge, printable worksheets and a classroom host mode where students join with a code. No signup. :free:
 
 * [https://gptimage2.asia](https://gptimage2.asia/) : GPT Image 2 is an AI image generator and editor for marketing visuals.
+* [https://getaskai.com](https://getaskai.com/) : Ask an AI anything without creating an account. On current topics it searches the web and numbers its sources, and you can snap a photo or drop in a PDF to ask about it. Ad-supported, no paid plan. :free:
 ## H :
 * [http://www.1happybirthday.com](http://www.1happybirthday.com/) : Birthday songs for a Happy Birthday. :birthday:
 * [http://htmlreference.io](http://htmlreference.io/) : A free guide to all HTML elements and attributes. :free:

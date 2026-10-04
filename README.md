@@ -107,6 +107,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://concreteestimatorhub.com/](https://concreteestimatorhub.com/) : Free concrete calculators and reference guides for volume, bag counts, slabs, footings, post holes, shed bases, ready-mix comparisons, and material cost planning. :free:
 * [https://www.car-pdi.app](https://www.car-pdi.app) : A digital and printable Pre-Delivery Inspection (PDI) checklist to help car buyers thoroughly inspect their new vehicle before accepting delivery, ensuring they verify critical details like VIN numbers and document any defects.
 * [https://crzy.site](https://crzy.site/) : A growing collection of absolutely pointless single-page websites. Each one dumber than the last.
+* [https://cursive-text-generator.net](https://cursive-text-generator.net/) : Turn any text into Unicode cursive and script letters you can copy and paste into bios, posts, usernames and messages. No signup required. :free:
 * [https://www.calculatorcampus.com/](https://www.calculatorcampus.com/) : Free online calculators with clear formulas, worked examples, and named sources. :free:
 * [https://chriswijnia.com/lab/emoji](https://chriswijnia.com/lab/emoji) : 1 Million Emojis, a shared 1,000 × 1,000 emoji canvas: pick an emoji and drag, watch everyone else's strokes arrive live, and an AI model called Jev answers each stroke with emoji of its own. No ads, no sign-up. :free:
 

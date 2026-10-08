@@ -320,6 +320,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://learngitbranching.js.org](https://learngitbranching.js.org/) : The most visual and interactive way to learn Git on the web; you'll be challenged with exciting levels, given step-by-step demonstrations of powerful features, and maybe even have a bit of fun along the way. 
 
 * [https://leettranslator.com](https://leettranslator.com/) : Free online leet speak (1337) translator — convert text to leet and back, with light, classic and extreme modes. 100% local processing.
+* [https://loretypes.com](https://loretypes.com/) : Six free self-discovery quizzes (aura color, archetype, D&D-style moral alignment, color season, spirit animal, fictional past life). No signup, complete results free, shareable result links. :free:
 
 ## M :
 * [https://www.mathway.com](https://www.mathway.com/) : Free math problem solver answers your algebra homework questions with step-by-step explanations.

@@ -47,6 +47,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://alltoolsverse.com](https://alltoolsverse.com/) : 1,000+ free browser tools for development, files, images, text, data conversion, calculations and everyday tasks. No signup required. :free:
 * [https://aisotools.com](https://aisotools.com/) : A directory of 1,200+ AI tools across 21 categories with search, side-by-side comparison and an AI-search visibility monitor. Listing a tool is free. :free:
 
+* [https://aiskyla.com](https://aiskyla.com/) : AIskyla Gifting creates free animated eCards, love letters and virtual gifts with messages, photos and music, shared by browser link without signup. Uploaded photos and music expire after 15 days. :free:
+
 ## B :
 * [https://bundle.js.org](https://bundle.js.org) : A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, js, jsx and npm projects all online, while returning the final bundle file size.
 * [https://builtwith.com](https://builtwith.com/) : Find out what websites are built with. You can find the technology stack of any website.

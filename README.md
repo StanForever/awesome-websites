@@ -48,6 +48,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://aisotools.com](https://aisotools.com/) : A directory of 1,200+ AI tools across 21 categories with search, side-by-side comparison and an AI-search visibility monitor. Listing a tool is free. :free:
 
 ## B :
+* [https://babyvideo.ai](https://babyvideo.ai/) : Create playful future-baby portraits from one or two parent photos, plus baby-themed photo-to-video clips. Account and credits required, with limited daily-check-in credits; entertainment only, not medical or genetic prediction.
 * [https://bundle.js.org](https://bundle.js.org) : A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, js, jsx and npm projects all online, while returning the final bundle file size.
 * [https://builtwith.com](https://builtwith.com/) : Find out what websites are built with. You can find the technology stack of any website.
 * [http://bugmenot.com](http://bugmenot.com/) : Enter a website below to see if the bugmenot community has shared any logins for it.

@@ -324,6 +324,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 ## M :
 * [https://www.mathway.com](https://www.mathway.com/) : Free math problem solver answers your algebra homework questions with step-by-step explanations.
 * [http://megavn.com](http://megavn.com/) : Download YouTube video, subtitles, channel, playlist for free.
+* [https://minigolfspots.com](https://minigolfspots.com/) : Free directory for finding US mini golf courses and comparing course details, with independent guides and no signup required. :free:
 * [http://mixlr.com](http://mixlr.com/) : Broadcasting live audio made simple.
 * [https://mp3to.cc](https://mp3to.cc/) : Free, privacy-first browser-based audio and media toolkit for converting MP3, WAV, FLAC, AAC and video-to-audio files with no upload required. :musical_note:
 * [https://monkeyeatingmango.com](https://monkeyeatingmango.com/) : Free AI travel planner that builds a day-by-day itinerary with a food guide and daily budgets from 8 tap questions. :free:

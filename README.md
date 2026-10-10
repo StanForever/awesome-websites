@@ -110,6 +110,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.calculatorcampus.com/](https://www.calculatorcampus.com/) : Free online calculators with clear formulas, worked examples, and named sources. :free:
 * [https://chriswijnia.com/lab/emoji](https://chriswijnia.com/lab/emoji) : 1 Million Emojis, a shared 1,000 × 1,000 emoji canvas: pick an emoji and drag, watch everyone else's strokes arrive live, and an AI model called Jev answers each stroke with emoji of its own. No ads, no sign-up. :free:
 
+* [https://cheatsheetmaker.space](https://cheatsheetmaker.space/) : Sheetmint is a free browser-based cheatsheet maker: import PDFs, review and edit extracted notes, arrange sections, and export every page as PDF. Local import, editing and export need no account; AI and cloud sharing are optional. :free:
+
 ## D : 
 * [https://drag-task.web.app](https://drag-task.web.app/) : A free browser-based to-do list laid out as a scrollable calendar; click a day to add a task and drag it to another date to reschedule. :free:
 * [https://devicemetrik.com](https://devicemetrik.com) : 31 free browser-based checks for display, input, controller, audio, and camera behavior. Runs locally with clear browser-observed measurement limits. :free:

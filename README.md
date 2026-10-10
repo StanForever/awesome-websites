@@ -147,6 +147,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://dos.zone](https://dos.zone) : Enjoy classic games completely free and without ads on dos.zone!
 * [https://dev.events](https://dev.events) : dev.events is the #1 tech conference listing. Coded at night under caffeine, ad-free, curated by tech community.
 * [https://dvdscreensavermaker.com](https://dvdscreensavermaker.com/) : Recreates the classic bouncing DVD logo screensaver in your browser — bounce your own image or neon text, and export it as a GIF, video, or self-contained offline HTML loop. :free:
+* [https://drible.co](https://drible.co/) : 53 free tools for PDFs, images, text and code: merge, sign and edit PDFs (with redaction that really removes the text), resize photos to an exact KB size for exam forms, convert iPhone HEIC photos. 48 of the 53 run in your browser, so the file is not uploaded. No signup. :free:
 
 ## E : 
 * [https://extinctatlas.com](https://extinctatlas.com/) : Explore extinct animals with an interactive dinosaur timeline, size comparisons, and a deep-time walkway planner for turning geological time into a measured classroom activity. :free:

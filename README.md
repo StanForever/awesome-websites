@@ -591,6 +591,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://world-power-plugs.com](https://world-power-plugs.com/) : Going on an internship, volunteering abroad or simply traveling for pleasure? Wherever you go, World Power Plugs makes sure you can power up. In seconds you'll know if you need a plug adapter or a power converter for any outlets used around the world 🌍
 * [https://workroomcalc.co.uk](https://workroomcalc.co.uk/) : Free in-browser Roman blind calculator. Estimate finished size, fabric and lining cuts, rods, rings and cord. No signup.
 * [https://watermarkremoverio.org/](https://watermarkremoverio.org/): Watermark Remover - Remove Watermarks from Images with AI
+* [https://wowcoloring.com](https://wowcoloring.com/) : Free printable coloring pages for kids and adults. 2,000+ PDF sheets across 50+ themes like animals, mandalas and holidays, no sign-up needed. :free:
 
 ## Y : 
 * [http://www.youtube-mp3.org](http://www.youtube-mp3.org/) : Convert YouTube videos to MP3s. :cinema:

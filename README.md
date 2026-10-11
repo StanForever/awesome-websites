@@ -110,6 +110,9 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.calculatorcampus.com/](https://www.calculatorcampus.com/) : Free online calculators with clear formulas, worked examples, and named sources. :free:
 * [https://chriswijnia.com/lab/emoji](https://chriswijnia.com/lab/emoji) : 1 Million Emojis, a shared 1,000 × 1,000 emoji canvas: pick an emoji and drag, watch everyone else's strokes arrive live, and an AI model called Jev answers each stroke with emoji of its own. No ads, no sign-up. :free:
 
+* [https://cheatsheetmaker.space](https://cheatsheetmaker.space/) : Sheetmint is a free browser-based cheatsheet maker: import PDFs, review and edit extracted notes, arrange sections, and export every page as PDF. Local import, editing and export need no account; AI and cloud sharing are optional. :free:
+* [https://codexanywhere.app](https://codexanywhere.app) : Free local reader for Codex JSONL and ChatGPT/Claude JSON exports: search, source-preserving JSON backups, optional password encryption, Markdown and offline HTML/PDF reading. No account or conversation uploads; automatic cloud backup and session sync remain in development. :free:
+
 ## D : 
 * [https://drag-task.web.app](https://drag-task.web.app/) : A free browser-based to-do list laid out as a scrollable calendar; click a day to add a task and drag it to another date to reschedule. :free:
 * [https://devicemetrik.com](https://devicemetrik.com) : 31 free browser-based checks for display, input, controller, audio, and camera behavior. Runs locally with clear browser-observed measurement limits. :free:
@@ -511,6 +514,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://subskills.xyz](https://subskills.xyz/) : Free sports technique videos from YouTube, TikTok and Instagram, sorted by sport, sub-skill and level.
 
 ## T :
+* [https://threshinggame.space](https://threshinggame.space/) : Wingbound is an original five-choice dragon rider fan quiz with transparent scoring, replay and spoiler-free archetype results. Free without an account; independent of Dragonkind. :free:
 * [http://typatone.com](http://typatone.com/) : Type some random stuff and enjoy the music.
 * [http://www.theuselessweb.com](http://www.theuselessweb.com/) : This website takes you to another brilliant and useless website every time you click. Great place to kill the time.
 * [http://tedib.com](http://tedib.com/) : For best homework help and training.

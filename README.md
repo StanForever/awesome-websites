@@ -524,6 +524,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://titlecase.com](http://titlecase.com/) : Text conversion solutions. 
 * [https://www.timeanddate.com](https://www.timeanddate.com/) : Date to date calculator.
 * [https://www.tidycalcs.com](https://www.tidycalcs.com/) : Free, no-signup calculators for mortgages, loans, debt payoff, retirement, and more. :free:
+* [Tanzhang Surplus Calculator](https://tanzhang-market-kit.hypebeast2k17.chatgpt.site/en.html) : Estimates one market event's operating surplus in CNY from refund-adjusted receipts, sold-item costs, losses, and event expenses. Free Chinese/English interfaces, no account required. :free:
 * [https://tunein.com](https://tunein.com/) : Listen to over 100,000 real radio stations.
 * [https://www.topcv.me](https://www.topcv.me/) : Create a professional Resume/CV in minutes. The simplest way to have impressive Resume without Photoshop, AI technique.
 * [https://www.typing.com](https://www.typing.com/) : Master touch-typing with these practice sessions.

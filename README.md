@@ -65,6 +65,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.bananaprompts.xyz](https://www.bananaprompts.xyz) : Banana Prompts is a free community platform where creators share and discover AI-generated art prompts for Google Gemini image models and other image tools. 🍌
 * [https://bengaluru.rent](https://bengaluru.rent) : bengaluru.rent is a free, anonymous, crowdsourced map that lets Bangalore renters share real rental prices and connect directly with landlords or flatmates without broker fees.
 * [Bird Identifier by Picture](https://birdfinder.app/) : Bird Identifier by Picture Online Free——AI Bird Identification
+* [https://bestmcserverlist.net/tools](https://bestmcserverlist.net/tools) : Free browser tools for Minecraft server owners: MOTD generator with live preview, 64x64 server icon maker, chest-menu GUI maker for DeluxeMenus and a rank prefix generator. No signup. :free:
  
 
 ## C :

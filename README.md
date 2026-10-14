@@ -114,6 +114,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://drag-task.web.app](https://drag-task.web.app/) : A free browser-based to-do list laid out as a scrollable calendar; click a day to add a task and drag it to another date to reschedule. :free:
 * [https://devicemetrik.com](https://devicemetrik.com) : 31 free browser-based checks for display, input, controller, audio, and camera behavior. Runs locally with clear browser-observed measurement limits. :free:
 * [http://downforeveryoneorjustme.com](http://downforeveryoneorjustme.com/) : Check if a website is down for everyone or just you.
+* [https://discoveralone.com](https://discoveralone.com/) : Free interactive map of over a million places across Ireland and Britain, with original heritage-record links and Explorer Tom's playful stories and tips on selected places. :free:
 * [https://discoverwebtools.com](https://discoverwebtools.com) : 130+ free, browser-based developer and SEO tools — JSON, Base64, JWT, hashing, regex and image conversion. Everything runs client-side, so nothing you paste is uploaded. No signup.
 * [https://www.debugbear.com/test/website-speed](https://www.debugbear.com/test/website-speed) : Enter a URL to test and optmize page speed.
 * [http://www.degraeve.com/color-palette](http://www.degraeve.com/color-palette) : Create color palettes from images. Simply put a URL of a photo and voila!

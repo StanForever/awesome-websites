@@ -109,6 +109,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://crzy.site](https://crzy.site/) : A growing collection of absolutely pointless single-page websites. Each one dumber than the last.
 * [https://www.calculatorcampus.com/](https://www.calculatorcampus.com/) : Free online calculators with clear formulas, worked examples, and named sources. :free:
 * [https://chriswijnia.com/lab/emoji](https://chriswijnia.com/lab/emoji) : 1 Million Emojis, a shared 1,000 × 1,000 emoji canvas: pick an emoji and drag, watch everyone else's strokes arrive live, and an AI model called Jev answers each stroke with emoji of its own. No ads, no sign-up. :free:
+* [https://curlshot.com](https://curlshot.com/) : Paste any web address and get a screenshot of the whole page, as seen on a computer, phone or tablet, saved as an image or a PDF, with ads and cookie pop-ups hidden. No sign-up needed to try it. :free:
 
 ## D : 
 * [https://drag-task.web.app](https://drag-task.web.app/) : A free browser-based to-do list laid out as a scrollable calendar; click a day to add a task and drag it to another date to reschedule. :free:

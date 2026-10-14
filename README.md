@@ -204,6 +204,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://fireplanner.in](https://fireplanner.in) : FIRE Planner is a comprehensive retirement planning calculator that helps you analyze your Financial Independence, Retire Early (FIRE) strategy using historical market data.
 * [https://www.freeflickfootball.com](https://www.freeflickfootball.com) :  A browser-based fooseball or street soccer game where you control a player to flick the ball against an AI opponent. ⚽
 * [https://fitmentnorth.com](https://fitmentnorth.com/) : Free wheel offset and tyre size calculator. Compare two setups and see poke, inner clearance and speedo error in millimetres. :free:
+* [https://fpsgauge.com](https://fpsgauge.com/) : See how many FPS a PC game gets on your graphics card, from published benchmarks with a link to every source, plus a calibrated estimate where nobody has measured it. :free:
 
 
 ## G :
@@ -426,7 +427,6 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://pmresume.io](https://pmresume.io) : ProductResume is an AI-powered tool designed to help Product Managers and aspiring PMs build interview-ready resumes by scoring them against hiring manager criteria, rewriting weak bullet points for impact, and generating personalized interview prep materials.
 * [https://plexto.tools](https://plexto.tools/) : 251 free online tools spanning developer, image, AI, text, math, security, SEO, PDF, and finance utilities, plus live crypto/stock/commodity trackers. No signup required. :free:
 * [https://pdfnorth.com](https://pdfnorth.com/) : 16 free PDF tools (merge, split, compress, sign, remove metadata) that run in your browser, so files are never uploaded. :free:
-* [https://pcgamebenchmarks.com](https://pcgamebenchmarks.com/) : Check how many FPS a PC game will get on your GPU and CPU, with system requirements for thousands of games. :free:
 
 ## Q :
 * [https://quickdraw.withgoogle.com](https://quickdraw.withgoogle.com/) : Can a neural network learn to recognize doodling? Help teach it by adding your drawings to the world's largest doodling data set, shared publicly to help with machine learning research. :pencil2:

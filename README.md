@@ -204,6 +204,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://fireplanner.in](https://fireplanner.in) : FIRE Planner is a comprehensive retirement planning calculator that helps you analyze your Financial Independence, Retire Early (FIRE) strategy using historical market data.
 * [https://www.freeflickfootball.com](https://www.freeflickfootball.com) :  A browser-based fooseball or street soccer game where you control a player to flick the ball against an AI opponent. ⚽
 * [https://fitmentnorth.com](https://fitmentnorth.com/) : Free wheel offset and tyre size calculator. Compare two setups and see poke, inner clearance and speedo error in millimetres. :free:
+* [https://fpsgauge.com](https://fpsgauge.com/) : See how many FPS a PC game gets on your graphics card, from published benchmarks with a link to every source, plus a calibrated estimate where nobody has measured it. :free:
 
 
 ## G :

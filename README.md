@@ -349,6 +349,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.mytimecardcalculator.com/](https://www.mytimecardcalculator.com/) : easily calculator work hours
 * [https://mindtrip.ai)(https://mindtrip.ai) : A travel planning platform that helps users discover and book attractions, restaurants, hotels, and guided tours while offering local insights and trip inspiration.
 * [https://mumdiaries.1ocalhost.fun](https://mumdiaries.1ocalhost.fun) : Local community portal called "MumDiaries" that allows residents to view electoral wards on a map and submit garbage reports, although the current display shows zero active reports.
+* [https://matchmytype.org](https://matchmytype.org/) : Pick any two MBTI types to see love, work and friendship compatibility scores, with a detailed write-up for each of the 136 pairings. Available in English, Japanese, Korean and Chinese. :heart:
 
 ## N :
 * [https://nutilz.com](https://nutilz.com/) : 23 free browser-based developer tools and utilities: regex tester, JSON formatter, unit converter, calculators, and more. No sign-up required. :free:

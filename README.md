@@ -47,6 +47,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://alltoolsverse.com](https://alltoolsverse.com/) : 1,000+ free browser tools for development, files, images, text, data conversion, calculations and everyday tasks. No signup required. :free:
 * [https://aisotools.com](https://aisotools.com/) : A directory of 1,200+ AI tools across 21 categories with search, side-by-side comparison and an AI-search visibility monitor. Listing a tool is free. :free:
 * [https://ajun-industry.packscena.com](https://ajun-industry.packscena.com/) : Chinese-language industry-chain reference library with illustrated explainers and company relationships.
+* [https://ailab.packscena.com](https://ailab.packscena.com/) : Chinese browser utility hub with basic image compression and local text tools; advanced compression requires sign-in and points.
 
 ## B :
 * [https://bundle.js.org](https://bundle.js.org) : A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, js, jsx and npm projects all online, while returning the final bundle file size.
@@ -148,6 +149,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://dos.zone](https://dos.zone) : Enjoy classic games completely free and without ads on dos.zone!
 * [https://dev.events](https://dev.events) : dev.events is the #1 tech conference listing. Coded at night under caffeine, ad-free, curated by tech community.
 * [https://dvdscreensavermaker.com](https://dvdscreensavermaker.com/) : Recreates the classic bouncing DVD logo screensaver in your browser — bounce your own image or neon text, and export it as a GIF, video, or self-contained offline HTML loop. :free:
+* [https://dishvivid.com](https://dishvivid.com/) : Food-photo editor with local manual lighting, color and crop adjustments; optional AI edits require sign-in and an available allowance.
 
 ## E : 
 * [https://extinctatlas.com](https://extinctatlas.com/) : Explore extinct animals with an interactive dinosaur timeline, size comparisons, and a deep-time walkway planner for turning geological time into a measured classroom activity. :free:

@@ -322,6 +322,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://leettranslator.com](https://leettranslator.com/) : Free online leet speak (1337) translator — convert text to leet and back, with light, classic and extreme modes. 100% local processing.
 
 ## M :
+* [AI 만화 번역기](https://www.mangatranslate.com/ko/ai-manga-translator/) : AI 만화 번역기는 Ficory LLC의 기업급 만화 리더입니다. 개인 사용자는 만화 페이지를 일괄 번역하고 번역 설정을 맞춤 조정합니다. 스튜디오는 완전한 온라인 Photoshop 스타일 편집기로 번역문과 페이지를 편집합니다. 사용자는 API를 개인 작업 흐름에 연동합니다. 제품은 지원하는 모든 번역 언어를 제공합니다. Freemium 요금제에는 제한된 무료 크레딧과 유료 옵션이 있습니다.
 * [https://www.mathway.com](https://www.mathway.com/) : Free math problem solver answers your algebra homework questions with step-by-step explanations.
 * [http://megavn.com](http://megavn.com/) : Download YouTube video, subtitles, channel, playlist for free.
 * [http://mixlr.com](http://mixlr.com/) : Broadcasting live audio made simple.

@@ -277,6 +277,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://ip.me](https://ip.me) : IP.ME is a free service developed and maintained by Proton. Lookups are powered by dnspython, a DNS toolkit for Python.
 * [https://indepai.app/tools/coast-fire-calculator](https://indepai.app/tools/coast-fire-calculator) : Free Coast FIRE calculator that shows how much you need invested today to reach financial independence, with cost-of-living data across 11,800+ cities so you can see where your money buys an earlier retirement. No signup. :free:
 * [https://iwha.at](https://iwha.at/) : Send this when someone asks you something you'd only answer by pasting it into an AI chat yourself. I would have asked AI too, so ask it yourself.
+* [https://www.imagineyourbook.com](https://www.imagineyourbook.com/) : AI book-writing tool that plans and drafts full manuscripts, rewrites chapters, writes in your own voice, keeps series consistent with a story bible, suggests covers and titles, and exports to EPUB, Word and Markdown. Free trial, so you can create a full first book at no cost. :books:
 
 ## J :
 * [http://jsbeautifier.org](http://jsbeautifier.org/) : Beautify, unpack or deobfuscate JavaScript and HTML, make JSON/JSONP readable, etc. :dizzy:

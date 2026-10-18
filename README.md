@@ -511,6 +511,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://subskills.xyz](https://subskills.xyz/) : Free sports technique videos from YouTube, TikTok and Instagram, sorted by sport, sub-skill and level.
 
 ## T :
+* [https://toolknit.com](https://toolknit.com/) : Free web utilities for PDFs, images, audio, video and text, with no account required. Includes local PDF-to-image conversion and image editing. :free:
 * [http://typatone.com](http://typatone.com/) : Type some random stuff and enjoy the music.
 * [http://www.theuselessweb.com](http://www.theuselessweb.com/) : This website takes you to another brilliant and useless website every time you click. Great place to kill the time.
 * [http://tedib.com](http://tedib.com/) : For best homework help and training.

@@ -561,6 +561,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://www.vocalfish.co](http://www.vocalfish.co/) : You submit a URL to this website and it'll give an audio file back of an actual human reading it.
 * [https://www.virustotal.com](https://www.virustotal.com/) : Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community. 🕵🏼
 * [https://www.visualcv.com](https://www.visualcv.com/) : The #1 resume & CV builder, trusted by 3 million people to land their dream job.
+* [https://vocalseparator.com](https://vocalseparator.com/) : Separate uploaded audio into vocals and instrumentals or four stems, download WAV tracks and practice with loop, tempo and pitch controls. Anonymous free use is limited to 5 jobs per browser per day, 10 minutes and 100 MB per file; optional paid credits are available.
 
 ## W :
 * [http://weavesilk.com](http://weavesilk.com/) : Totally mind blowing. Create dreamy works of art with your mouse. Have fun! :curly_loop:

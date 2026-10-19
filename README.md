@@ -557,6 +557,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://vectormagic.com](https://vectormagic.com/) : Easily Convert Bitmaps To Vectors. Quickly get your artwork ready to print, embroider, cut, and more with the world's best full-color auto-tracer!
 * [https://validator.w3.org/checklink](https://validator.w3.org/checklink) : Check links and anchors in Web pages or full Web sites.
 * [https://vubey.yt](https://vubey.yt/) : An online site that converts online videos to audio files, simply by pasting the URL.
+* [video2mp4 Local Video to MP4](https://video2mp4.com/convert-video-to-mp4/) : Remux compatible MOV, WebM, MKV, AVI, or MP4 files to an MP4 container in the browser. The selected file is not uploaded, and no account is required. Incompatible codecs are not re-encoded.
 * [https://validate.puppet.com](https://validate.puppet.com/) : Paste Puppet code into the textbox and check it for validity. :white_check_mark:
 * [http://www.vocalfish.co](http://www.vocalfish.co/) : You submit a URL to this website and it'll give an audio file back of an actual human reading it.
 * [https://www.virustotal.com](https://www.virustotal.com/) : Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community. 🕵🏼

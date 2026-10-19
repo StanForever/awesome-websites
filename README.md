@@ -248,6 +248,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://howdns.works](https://howdns.works/) : A fun and colorful explanation of how DNS works.
 * [https://hiring.cafe](https://hiring.cafe) : HiringCafe is building a 100x better job search engine: fast, comprehensive, honest, and useful for real people making real career decisions.
 * [https://hearthcalc.com](https://hearthcalc.com/) : Free, no-signup calculators for everyday pet and sleep questions — dog chocolate toxicity, dog age, dog food portions, sleep cycles, caffeine cutoff — each showing the published source (Merck Veterinary Manual, ASPCA, AKC/AVMA, Sleep Foundation, NIH) behind its numbers. :free:
+* [https://helmpages.com](https://helmpages.com/) : Helmpages builds and updates small-business websites: send a message, see the change, and approve it before it goes live.
 
 ## I :
 * [https://www.ifixit.com](https://www.ifixit.com/) : The free repair guide for everything, written by everyone. :hammer:

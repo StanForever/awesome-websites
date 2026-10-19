@@ -460,6 +460,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.rentvsbuyindia.com](https://www.rentvsbuyindia.com) : Rent vs Buy Calculator for India that helps users make informed housing decisions by comparing the long-term financial costs and benefits of renting versus buying a home based on customizable parameters like loan rates, maintenance costs, and property appreciation.
 * [https://www.replacedbai.com](https://www.replacedbai.com) : Free AI replacement risk score (0-100) for 1,016 occupations, combining O*NET task and skill data with Frey & Osborne automation probabilities. Every job page also links a career-transition guide and pivot plan. :robot:
 
+* [https://roofcostdata.com/roof-replacement-cost-calculator](https://roofcostdata.com/roof-replacement-cost-calculator) : Free U.S. roof replacement cost calculator with location, roof size, pitch, material, tear-off, and decking inputs, plus an itemized planning range. :free:
+
 ## S :
 * [https://studio.stupeflix.com](https://studio.stupeflix.com/) : Make amazing videos in seconds. Just add photos, videos, music, and text.
 * [https://send-anywhere.com](https://send-anywhere.com/) : Send whatever you want, wherever you want. :arrow_up:

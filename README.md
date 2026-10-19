@@ -13,6 +13,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.16personalities.com](https://www.16personalities.com/) : Take this Personality Test and get a "freakishly accurate" description of who you are and why you do things the way you do.
 * [https://10minutemail.com](https://10minutemail.com/) : Beat spam with the best and free disposable email service.
 * [https://3dhouseplanner.com](https://3dhouseplanner.com/) : 3D House Planner is a floor planner web application that allows users to design houses and apartments. :free:
+* [https://12axes.site](https://12axes.site/) : A political ideology test that scores you on twelve separate axes, from federalism to technology, instead of a single left-right line, then names your closest of 38 ideologies. No signup, in English, Spanish and Portuguese. :free:
 
 ## A : 
 * [https://airdrift.stream](https://airdrift.stream/) : Listen to over 59,000 live radio stations from 241 countries, browsable by country and genre or shuffled at random. No signup, works on mobile, installable as an app. :radio:

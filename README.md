@@ -509,6 +509,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://studyarena.com](https://studyarena.com) : Compare three AI responses to a study question for free, then vote and reveal the models.
 * [https://store.xiu.ai/en/ai-ip/](https://store.xiu.ai/en/ai-ip/) : XiuStore AI IP Check compares the exit IPs seen by ChatGPT, Claude, Grok, Perplexity, and Cloudflare, with a separate WebRTC check. Free to use without signing in. :free:
 * [https://subskills.xyz](https://subskills.xyz/) : Free sports technique videos from YouTube, TikTok and Instagram, sorted by sport, sub-skill and level.
+* [https://www.steamdownload.cn](https://www.steamdownload.cn/) : Free game discovery site with 9,000+ PC, Switch and mobile games and an AI recommender: describe what you feel like playing and it picks real games from the library with a short reason. No sign-up.
 
 ## T :
 * [http://typatone.com](http://typatone.com/) : Type some random stuff and enjoy the music.

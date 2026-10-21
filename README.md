@@ -46,6 +46,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://alltools.dev](https://alltools.dev/) : 500+ free online calculators, converters and generators that run entirely in your browser. No signup needed. :free:
 * [https://alltoolsverse.com](https://alltoolsverse.com/) : 1,000+ free browser tools for development, files, images, text, data conversion, calculations and everyday tasks. No signup required. :free:
 * [https://aisotools.com](https://aisotools.com/) : A directory of 1,200+ AI tools across 21 categories with search, side-by-side comparison and an AI-search visibility monitor. Listing a tool is free. :free:
+* [https://asciitable.co](https://asciitable.co/) : Complete ASCII table with decimal, hex, octal, binary, HTML entity and escape codes for every character, plus Windows-1252, Latin-1 and code page 437. Search any character and copy any value in one click. :free:
 
 ## B :
 * [https://bundle.js.org](https://bundle.js.org) : A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, js, jsx and npm projects all online, while returning the final bundle file size.

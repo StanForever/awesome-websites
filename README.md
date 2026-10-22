@@ -15,6 +15,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://3dhouseplanner.com](https://3dhouseplanner.com/) : 3D House Planner is a floor planner web application that allows users to design houses and apartments. :free:
 
 ## A : 
+* [https://a2oliteneon.xyz/guides/photo-guide](https://a2oliteneon.xyz/guides/photo-guide) : NEON DUO photo-preparation guide for a two-person dance-video concept: separate adult photo inputs, framing and role checks. Free public reading; real AI generation and purchases are not open. Operator-affiliated project; AI-assisted contribution.
 * [https://airdrift.stream](https://airdrift.stream/) : Listen to over 59,000 live radio stations from 241 countries, browsable by country and genre or shuffled at random. No signup, works on mobile, installable as an app. :radio:
 * [https://abox.tools](https://abox.tools/) : 35 small file tools - compress an image to an exact size, merge or redact a PDF, crop a video, trim audio, read a QR code - that run entirely in your browser, so nothing you open is uploaded anywhere. :free:
 * [https://www.awwwards.com](https://www.awwwards.com/) : The awards that recognize the talent and effort of the best web designers, developers and agencies in the world.

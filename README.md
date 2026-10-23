@@ -373,6 +373,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://dalton-nrs.manchester.ac.uk](https://dalton-nrs.manchester.ac.uk/) : Take a tour of Virtual nuclear reactor. 
 * [https://nutilz.com/file-size-converter](https://nutilz.com/file-size-converter) : Free browser-based file size converter — convert between bytes, KB, MB, GB, TB instantly, no upload or signup required. :free:
 * [https://naratake.com/en/tools](https://naratake.com/en/tools) : 43 free tools for local business owners — food cost, labor cost and tip pooling calculators, a menu engineering matrix, Google review link and QR code generators, printable hours signs, table tents and price lists, and website checklists for restaurants, salons, plumbers and contractors. Everything runs in your browser: nothing is uploaded and there is no account to create. :free:
+* [https://nameawesome.com](https://nameawesome.com/) : Baby name explorer with U.S. popularity history from 1880 to 2025, name meanings and origins, and a state-by-state name map.
 
 ## O :
 * [http://oldcomputers.net](http://oldcomputers.net/) : The museum of old, rare, vintage, antique computers. View all 150 old computers all at the same time to appreciate how diverse and interesting they are. :computer:

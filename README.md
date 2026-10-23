@@ -434,6 +434,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://plexto.tools](https://plexto.tools/) : 251 free online tools spanning developer, image, AI, text, math, security, SEO, PDF, and finance utilities, plus live crypto/stock/commodity trackers. No signup required. :free:
 * [https://pdfnorth.com](https://pdfnorth.com/) : 16 free PDF tools (merge, split, compress, sign, remove metadata) that run in your browser, so files are never uploaded. :free:
 * [https://packscena.com](https://packscena.com/) : AI product-photo backgrounds and lifestyle scenes; the current trial requires invitation, sign-in and an allowance.
+* [https://paper-texture.com](https://paper-texture.com/paper-texture-overlay/) : Free guest browser editor for layering six AI-generated paper surfaces over an image; surfaces are licensed for finished designs, not CC0 or standalone redistribution. Operator-affiliated, AI-assisted suggestion.
 
 ## Q :
 * [https://quickdraw.withgoogle.com](https://quickdraw.withgoogle.com/) : Can a neural network learn to recognize doodling? Help teach it by adding your drawings to the world's largest doodling data set, shared publicly to help with machine learning research. :pencil2:

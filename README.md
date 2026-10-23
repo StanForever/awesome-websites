@@ -89,6 +89,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.charitynavigator.org](https://www.charitynavigator.org/) : Evaluates various charities.
 * [https://www.calorieking.com](https://www.calorieking.com/) : Weight control is the goal. Take control with CalorieKing.
 * [http://chapiapp.com](http://chapiapp.com/) : Chapi helps you save contents like texts, images and webpages to a personalized space and recollects them when you require.
+ - [https://chessnewmove.com](https://chessnewmove.com) : Free chess move calculator - find the best move in any chess position with instant engine analysis. 🆓
 * [https://www.copypastecharacter.com](https://www.copypastecharacter.com/) : Copy special characters that aren't on your keyboard.
 * [https://cidr.online](https://cidr.online/) : This Subnet/CIDR calculator allows you to enter a IPv4 CIDR range and calculates IP addresses, Network Size, Subnet Mask, Min and Max Host etc.
 * [https://codebeautify.org](https://codebeautify.org/) : CodeBeautify is an online code beautifier which allows you to beautify your source code.

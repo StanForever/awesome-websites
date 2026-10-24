@@ -552,6 +552,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://mytoolsbench.com/](https://mytoolsbench.com/):ToolBench is a free set of browser-based image tools — converter, compressor, resizer, cropper and watermark tool. Everything runs client-side via the Canvas API, so files are never uploaded to a server. No sign-up, no file size limits.
 
 
+* [https://tunenoodle.com/audio-to-midi](https://tunenoodle.com/audio-to-midi) : Free, no-signup browser tool for converting a single audio melody into an editable MIDI sketch. Notes and timing may need manual correction. :free:
+
 ## U :
 * [https://unsplash.com](https://unsplash.com/) : Discover the latest free high resolution photos. :camera:
 * [https://www.upwork.com](https://www.upwork.com/) : Hire freelancers and get freelancers jobs online. :free:

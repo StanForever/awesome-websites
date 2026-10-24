@@ -436,6 +436,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 ## R : 
 * [https://remove-audio.com/tools](https://remove-audio.com/tools) : 30+ free video and audio tools that run in your browser, such as removing background music or vocals with AI, compressing a video and converting to MP4, MP3 or GIF. By default files stay on your device, with no signup and no watermark; an optional Cloud mode with an account takes bigger files. :free:
 * [https://refentra.com](https://refentra.com) : Free image tools for resizing, compression, format conversion, photo metadata editing and removal, and combining images into PDF. Image processing stays in your browser; no signup required. :free:
+* [https://reelgrab.ink](https://reelgrab.ink/) : Paste a public Instagram Reel, TikTok, YouTube Short or Facebook Reel link and get an AI transcript, a short summary and the MP3 audio. Free, no signup. Private videos don't work, and YouTube is Shorts only. :free:
 * [https://reactionmetric.com](https://reactionmetric.com/) : Free no-signup browser reaction-time benchmark with five-trial sessions, median/average/best/consistency results, local history, and clear device/browser/input measurement context. :free:
 * [https://relatedrepos.com](https://relatedrepos.com/) : Discover related open source projects. Find alternatives and other similar repositories. Updated daily.
 * [http://rainymood.com](http://rainymood.com/) : Listen to rain and thunderstorms online. :umbrella:

@@ -599,6 +599,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://world-power-plugs.com](https://world-power-plugs.com/) : Going on an internship, volunteering abroad or simply traveling for pleasure? Wherever you go, World Power Plugs makes sure you can power up. In seconds you'll know if you need a plug adapter or a power converter for any outlets used around the world 🌍
 * [https://workroomcalc.co.uk](https://workroomcalc.co.uk/) : Free in-browser Roman blind calculator. Estimate finished size, fabric and lining cuts, rods, rings and cord. No signup.
 * [https://watermarkremoverio.org/](https://watermarkremoverio.org/): Watermark Remover - Remove Watermarks from Images with AI
+* [https://warpnav.com](https://warpnav.com/) : WarpNav is a Chinese-language directory of practical digital tools: AI tools, GitHub open-source projects, desktop software, design resources, SEO tools and privacy services, grouped by category with a short note on what each one does. :free:
 
 ## Y : 
 * [http://www.youtube-mp3.org](http://www.youtube-mp3.org/) : Convert YouTube videos to MP3s. :cinema:

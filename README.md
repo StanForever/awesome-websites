@@ -285,6 +285,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://iwha.at](https://iwha.at/) : Send this when someone asks you something you'd only answer by pasting it into an AI chat yourself. I would have asked AI too, so ask it yourself.
 * [https://iqmaxxing.org](https://iqmaxxing.org/) : Free, no-signup brain-training drills in the browser: dual, quad and 3D n-back, digit span, Corsi blocks, reaction time, Stroop, go/no-go and more, with every run logged and charted. No ads. :free:
 
+* [https://icyzip.com](https://icyzip.com/) : Pair two browsers by QR code or a private link to copy live text and transfer one file at a time with browser-side end-to-end encryption; no account or app. :free:
+
 ## J :
 * [http://jsbeautifier.org](http://jsbeautifier.org/) : Beautify, unpack or deobfuscate JavaScript and HTML, make JSON/JSONP readable, etc. :dizzy:
 * [https://jsq3000.com](https://jsq3000.com/) : Free China-localized online calculators for mortgage, income tax, salary, auto purchase cost, compound interest, BMI, body fat, and more. Includes formulas, sources, and update dates. :free:

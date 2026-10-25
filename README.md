@@ -481,6 +481,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.sparkpeople.com](https://www.sparkpeople.com/) : Get Fit and Lose Weight With Free Online Program. :muscle:
 * [https://www.shellcheck.net](https://www.shellcheck.net/) : ShellCheck, a static analysis tool that gives warnings and suggestions for bash/sh shell scripts. :shell:
 * [https://stars.chromeexperiments.com](https://stars.chromeexperiments.com/) : Visualization of 100,000 nearby stars. :stars:
+* [https://spacesimulator.online](https://spacesimulator.online/) : Free 3D Solar System, Milky Way and exoplanet explorer in your browser, built on NASA data. :rocket:
 * [https://strobe.cool](https://strobe.cool/) : You are about to hallucinate. The world around you will change shape, appearing to warp and distort.
 * [https://securityplanner.org](https://securityplanner.org/#/) : Improve your online safety with advice from experts. 
 * [http://shinytoylabs.com/jargon/](http://shinytoylabs.com/jargon/) : Need some dialogue for your Hollywood thriller screenplay? Visit this website for some tech jargon!

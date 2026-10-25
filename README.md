@@ -533,6 +533,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.timeanddate.com](https://www.timeanddate.com/) : Date to date calculator.
 * [https://www.tidycalcs.com](https://www.tidycalcs.com/) : Free, no-signup calculators for mortgages, loans, debt payoff, retirement, and more. :free:
 * [https://tunein.com](https://tunein.com/) : Listen to over 100,000 real radio stations.
+* [https://theaudiostuff.com](https://theaudiostuff.com/) : Independent headphone and hi-fi reviews plus free browser audio tools: tone generator, speaker test, ABX blind test and headphone power calculator. :headphones: :free:
 * [https://www.topcv.me](https://www.topcv.me/) : Create a professional Resume/CV in minutes. The simplest way to have impressive Resume without Photoshop, AI technique.
 * [https://www.typing.com](https://www.typing.com/) : Master touch-typing with these practice sessions.
 * [https://teuxdeux.com](https://teuxdeux.com/) : If you like making to-do lists, you will love TeuxDeux.

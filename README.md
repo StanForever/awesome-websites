@@ -190,6 +190,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.freeprivacypolicy.com](https://www.freeprivacypolicy.com/) : Create a free custom privacy policy for your website, blog or mobile app in just minutes! :free:
 * [https://forget.me](https://forget.me/) : Remove yourself from Google search results.
 * [https://www.freecycle.org](https://www.freecycle.org/) : A network of people giving away free stuff in their towns.
+* [https://www.free-videodownload.com](https://www.free-videodownload.com/) : Free browser multi-platform video downloader (TikTok, Instagram, X, Facebook, and more). :free:
 * [https://www.followupthen.com](https://www.followupthen.com/) : The simplest way to schedule an email reminder.
 * [https://faxzero.com](https://faxzero.com/) : Send an online fax for free – see more fax services.
 * [https://www.freeimages.com](https://www.freeimages.com/) : Find and download free stock photos - all free for personal and commercial use. 

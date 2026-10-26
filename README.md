@@ -15,6 +15,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://3dhouseplanner.com](https://3dhouseplanner.com/) : 3D House Planner is a floor planner web application that allows users to design houses and apartments. :free:
 
 ## A : 
+* [https://a2oliteneon.xyz/guides/photo-guide](https://a2oliteneon.xyz/guides/photo-guide) : NEON DUO photo-preparation guide for a two-person dance-video concept: separate adult photo inputs, framing and role checks. Free public reading; real AI generation and purchases are not open. Operator-affiliated project; AI-assisted contribution.
 * [https://airdrift.stream](https://airdrift.stream/) : Listen to over 59,000 live radio stations from 241 countries, browsable by country and genre or shuffled at random. No signup, works on mobile, installable as an app. :radio:
 * [https://abox.tools](https://abox.tools/) : 35 small file tools - compress an image to an exact size, merge or redact a PDF, crop a video, trim audio, read a QR code - that run entirely in your browser, so nothing you open is uploaded anywhere. :free:
 * [https://www.awwwards.com](https://www.awwwards.com/) : The awards that recognize the talent and effort of the best web designers, developers and agencies in the world.
@@ -46,6 +47,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://alltools.dev](https://alltools.dev/) : 500+ free online calculators, converters and generators that run entirely in your browser. No signup needed. :free:
 * [https://alltoolsverse.com](https://alltoolsverse.com/) : 1,000+ free browser tools for development, files, images, text, data conversion, calculations and everyday tasks. No signup required. :free:
 * [https://aisotools.com](https://aisotools.com/) : A directory of 1,200+ AI tools across 21 categories with search, side-by-side comparison and an AI-search visibility monitor. Listing a tool is free. :free:
+* [https://ajun-industry.packscena.com](https://ajun-industry.packscena.com/) : Chinese-language industry-chain reference library with illustrated explainers and company relationships.
+* [https://ailab.packscena.com](https://ailab.packscena.com/) : Chinese browser utility hub with basic image compression and local text tools; advanced compression requires sign-in and points.
 
 ## B :
 * [https://bestjson.com](https://bestjson.com/) : Free browser tools to format, validate, repair and compare JSON locally, with a preview of repair changes and no account required. :free:
@@ -151,6 +154,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://dos.zone](https://dos.zone) : Enjoy classic games completely free and without ads on dos.zone!
 * [https://dev.events](https://dev.events) : dev.events is the #1 tech conference listing. Coded at night under caffeine, ad-free, curated by tech community.
 * [https://dvdscreensavermaker.com](https://dvdscreensavermaker.com/) : Recreates the classic bouncing DVD logo screensaver in your browser — bounce your own image or neon text, and export it as a GIF, video, or self-contained offline HTML loop. :free:
+* [https://dishvivid.com](https://dishvivid.com/) : Food-photo editor with local manual lighting, color and crop adjustments; optional AI edits require sign-in and an available allowance.
 
 ## E : 
 * [https://extinctatlas.com](https://extinctatlas.com/) : Explore extinct animals with an interactive dinosaur timeline, size comparisons, and a deep-time walkway planner for turning geological time into a measured classroom activity. :free:
@@ -327,6 +331,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://learngitbranching.js.org](https://learngitbranching.js.org/) : The most visual and interactive way to learn Git on the web; you'll be challenged with exciting levels, given step-by-step demonstrations of powerful features, and maybe even have a bit of fun along the way. 
 
 * [https://leettranslator.com](https://leettranslator.com/) : Free online leet speak (1337) translator — convert text to leet and back, with light, classic and extreme modes. 100% local processing.
+* [https://logomovo.com](https://logomovo.com/) : AI logo studio with public design references; generation requires sign-in and payment.
+* [https://lookscene.packscena.com](https://lookscene.packscena.com/) : AI hairstyle, outfit and scene previews; the current trial requires invitation, sign-in and credits.
 
 ## M :
 * [https://www.mathway.com](https://www.mathway.com/) : Free math problem solver answers your algebra homework questions with step-by-step explanations.
@@ -380,6 +386,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://dalton-nrs.manchester.ac.uk](https://dalton-nrs.manchester.ac.uk/) : Take a tour of Virtual nuclear reactor. 
 * [https://nutilz.com/file-size-converter](https://nutilz.com/file-size-converter) : Free browser-based file size converter — convert between bytes, KB, MB, GB, TB instantly, no upload or signup required. :free:
 * [https://naratake.com/en/tools](https://naratake.com/en/tools) : 43 free tools for local business owners — food cost, labor cost and tip pooling calculators, a menu engineering matrix, Google review link and QR code generators, printable hours signs, table tents and price lists, and website checklists for restaurants, salons, plumbers and contractors. Everything runs in your browser: nothing is uploaded and there is no account to create. :free:
+* [https://nailmoodlab.com](https://nailmoodlab.com/) : Nail-design references and AI style previews; generation requires sign-in and usage credits.
 
 ## O :
 * [http://oldcomputers.net](http://oldcomputers.net/) : The museum of old, rare, vintage, antique computers. View all 150 old computers all at the same time to appreciate how diverse and interesting they are. :computer:
@@ -433,6 +440,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://pmresume.io](https://pmresume.io) : ProductResume is an AI-powered tool designed to help Product Managers and aspiring PMs build interview-ready resumes by scoring them against hiring manager criteria, rewriting weak bullet points for impact, and generating personalized interview prep materials.
 * [https://plexto.tools](https://plexto.tools/) : 251 free online tools spanning developer, image, AI, text, math, security, SEO, PDF, and finance utilities, plus live crypto/stock/commodity trackers. No signup required. :free:
 * [https://pdfnorth.com](https://pdfnorth.com/) : 16 free PDF tools (merge, split, compress, sign, remove metadata) that run in your browser, so files are never uploaded. :free:
+* [https://packscena.com](https://packscena.com/) : AI product-photo backgrounds and lifestyle scenes; the current trial requires invitation, sign-in and an allowance.
+* [https://paper-texture.com](https://paper-texture.com/paper-texture-overlay/) : Free guest browser editor for layering six AI-generated paper surfaces over an image; surfaces are licensed for finished designs, not CC0 or standalone redistribution. Operator-affiliated, AI-assisted suggestion.
 
 ## Q :
 * [https://quickdraw.withgoogle.com](https://quickdraw.withgoogle.com/) : Can a neural network learn to recognize doodling? Help teach it by adding your drawings to the world's largest doodling data set, shared publicly to help with machine learning research. :pencil2:
@@ -467,6 +476,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.roomgpt.io](https://www.roomgpt.io/) : Your personal AI interior designer. Transform any room with just one photo.
 * [https://www.rentvsbuyindia.com](https://www.rentvsbuyindia.com) : Rent vs Buy Calculator for India that helps users make informed housing decisions by comparing the long-term financial costs and benefits of renting versus buying a home based on customizable parameters like loan rates, maintenance costs, and property appreciation.
 * [https://www.replacedbai.com](https://www.replacedbai.com) : Free AI replacement risk score (0-100) for 1,016 occupations, combining O*NET task and skill data with Frey & Osborne automation probabilities. Every job page also links a career-transition guide and pivot plan. :robot:
+* [https://resumeplot.com](https://resumeplot.com/) : Bilingual local resume editing with PDF and JSON export; optional AI, cloud saving and sharing require an account.
 
 ## S :
 * [https://studio.stupeflix.com](https://studio.stupeflix.com/) : Make amazing videos in seconds. Just add photos, videos, music, and text.
@@ -517,6 +527,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://studyarena.com](https://studyarena.com) : Compare three AI responses to a study question for free, then vote and reveal the models.
 * [https://store.xiu.ai/en/ai-ip/](https://store.xiu.ai/en/ai-ip/) : XiuStore AI IP Check compares the exit IPs seen by ChatGPT, Claude, Grok, Perplexity, and Cloudflare, with a separate WebRTC check. Free to use without signing in. :free:
 * [https://subskills.xyz](https://subskills.xyz/) : Free sports technique videos from YouTube, TikTok and Instagram, sorted by sport, sub-skill and level.
+* [https://subatlas.packscena.com](https://subatlas.packscena.com/) : Subscription-tool offer catalog with comparisons, help guides and provider-specific access conditions.
 
 ## T :
 * [http://typatone.com](http://typatone.com/) : Type some random stuff and enjoy the music.

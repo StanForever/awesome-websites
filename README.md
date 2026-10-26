@@ -571,6 +571,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.visualcv.com](https://www.visualcv.com/) : The #1 resume & CV builder, trusted by 3 million people to land their dream job.
 
 ## W :
+* [https://watt.xtotam.com](https://watt.xtotam.com/) : Free Ukrainian–English library of source-linked facts, with explanation levels, audio narration and short quizzes. Content and narration are AI-assisted.
 * [http://weavesilk.com](http://weavesilk.com/) : Totally mind blowing. Create dreamy works of art with your mouse. Have fun! :curly_loop:
 * [https://withresumeai.com](https://withresumeai.com/) : Free ATS checker + AI resume builder; live candidate leaderboard (paid placement/visibility, not pay-for-score).
 * [https://www.whatistheday.com](https://www.whatistheday.com/) : Enter any date — past, future, or even BC — and instantly see its day of the week, holidays, famous birthdays, historical events, and conversions across 10+ calendar systems (Hebrew, Islamic, Chinese, Maya and more). :calendar:

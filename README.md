@@ -433,6 +433,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://pmresume.io](https://pmresume.io) : ProductResume is an AI-powered tool designed to help Product Managers and aspiring PMs build interview-ready resumes by scoring them against hiring manager criteria, rewriting weak bullet points for impact, and generating personalized interview prep materials.
 * [https://plexto.tools](https://plexto.tools/) : 251 free online tools spanning developer, image, AI, text, math, security, SEO, PDF, and finance utilities, plus live crypto/stock/commodity trackers. No signup required. :free:
 * [https://pdfnorth.com](https://pdfnorth.com/) : 16 free PDF tools (merge, split, compress, sign, remove metadata) that run in your browser, so files are never uploaded. :free:
+* [https://pic2vector.com](https://pic2vector.com/) : Free PNG/JPG/WebP to SVG converter that traces images into color-layered vectors in your browser, so nothing is uploaded. No signup, no watermark. :free:
 
 ## Q :
 * [https://quickdraw.withgoogle.com](https://quickdraw.withgoogle.com/) : Can a neural network learn to recognize doodling? Help teach it by adding your drawings to the world's largest doodling data set, shared publicly to help with machine learning research. :pencil2:

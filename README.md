@@ -469,6 +469,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.replacedbai.com](https://www.replacedbai.com) : Free AI replacement risk score (0-100) for 1,016 occupations, combining O*NET task and skill data with Frey & Osborne automation probabilities. Every job page also links a career-transition guide and pivot plan. :robot:
 
 ## S :
+* [https://sandboxphysics.com](https://sandboxphysics.com/) : Explore interactive physics experiments with adjustable parameters and explanations in English and Chinese. :free:
 * [https://studio.stupeflix.com](https://studio.stupeflix.com/) : Make amazing videos in seconds. Just add photos, videos, music, and text.
 * [https://send-anywhere.com](https://send-anywhere.com/) : Send whatever you want, wherever you want. :arrow_up:
 * [http://www.stolencamerafinder.com](http://www.stolencamerafinder.com/) : Use the serial number stored in your photos to search the web for other photos taken with the same camera.

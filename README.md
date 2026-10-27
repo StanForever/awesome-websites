@@ -209,6 +209,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.freeflickfootball.com](https://www.freeflickfootball.com) :  A browser-based fooseball or street soccer game where you control a player to flick the ball against an AI opponent. ⚽
 * [https://fitmentnorth.com](https://fitmentnorth.com/) : Free wheel offset and tyre size calculator. Compare two setups and see poke, inner clearance and speedo error in millimetres. :free:
 * [https://foodindex.co](https://foodindex.co/) : Search a product, ingredient, additive or supplement. Straight answers on allergens, diets and E-numbers, backed by real data and cited evidence. Includes a free recipe nutrition calculator: type ingredients in plain language, get calories, protein and other macros per serving. :free:
+* [https://formgong.com/en/tools/html-form-generator](https://formgong.com/en/tools/html-form-generator/) : Free HTML form generator that writes plain form code with labels, required fields and a honeypot, no framework classes. Copy it without an account. :free:
 
 
 ## G :

@@ -168,6 +168,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://excalidraw.com](https://excalidraw.com/) : Excalidraw is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
 * [https://eontools.com](https://eontools.com/) : Collection of 3000+ simple, fast, and free tools and calculators across 30+ categories for everyday tasks. Runs locally in your browser with no sign ups and no data uploads.
 * [https://ferrarirules-creator.github.io/ev-ice-calculator](https://ferrarirules-creator.github.io/ev-ice-calculator) : Compare lifetime ownership costs and savings between Electrice and ICE (Internal Combustion Engine) vehicles.
+* [https://emojidig.com](https://emojidig.com/) : Search for an emoji by what you mean, including slang and misspellings, and copy it in one tap. Every emoji through Emoji 18.0, with skin tones. No sign-up. :free:
 
 ## F :
 * [https://filewhisk.com](https://filewhisk.com/) : Free browser-based image tools — compress, resize, crop, convert and watermark images. Everything runs client-side, nothing is uploaded. :free:

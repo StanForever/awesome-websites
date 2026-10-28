@@ -284,6 +284,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://indepai.app/tools/coast-fire-calculator](https://indepai.app/tools/coast-fire-calculator) : Free Coast FIRE calculator that shows how much you need invested today to reach financial independence, with cost-of-living data across 11,800+ cities so you can see where your money buys an earlier retirement. No signup. :free:
 * [https://iwha.at](https://iwha.at/) : Send this when someone asks you something you'd only answer by pasting it into an AI chat yourself. I would have asked AI too, so ask it yourself.
 * [https://iqmaxxing.org](https://iqmaxxing.org/) : Free, no-signup brain-training drills in the browser: dual, quad and 3D n-back, digit span, Corsi blocks, reaction time, Stroop, go/no-go and more, with every run logged and charted. No ads. :free:
+* [https://www.imagineyourbook.com](https://www.imagineyourbook.com/) : AI book-writing tool that plans and drafts full manuscripts, rewrites chapters, writes in your own voice, keeps series consistent with a story bible, suggests covers and titles, and exports to EPUB, Word and Markdown. Free trial, so you can create a full first book at no cost. :books:
 
 ## J :
 * [http://jsbeautifier.org](http://jsbeautifier.org/) : Beautify, unpack or deobfuscate JavaScript and HTML, make JSON/JSONP readable, etc. :dizzy:

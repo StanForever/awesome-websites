@@ -48,6 +48,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://aisotools.com](https://aisotools.com/) : A directory of 1,200+ AI tools across 21 categories with search, side-by-side comparison and an AI-search visibility monitor. Listing a tool is free. :free:
 
 ## B :
+* [https://bestjson.com](https://bestjson.com/) : Free browser tools to format, validate, repair and compare JSON locally, with a preview of repair changes and no account required. :free:
 * [https://bundle.js.org](https://bundle.js.org) : A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, js, jsx and npm projects all online, while returning the final bundle file size.
 * [https://builtwith.com](https://builtwith.com/) : Find out what websites are built with. You can find the technology stack of any website.
 * [http://bugmenot.com](http://bugmenot.com/) : Enter a website below to see if the bugmenot community has shared any logins for it.
@@ -107,8 +108,10 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://concreteestimatorhub.com/](https://concreteestimatorhub.com/) : Free concrete calculators and reference guides for volume, bag counts, slabs, footings, post holes, shed bases, ready-mix comparisons, and material cost planning. :free:
 * [https://www.car-pdi.app](https://www.car-pdi.app) : A digital and printable Pre-Delivery Inspection (PDI) checklist to help car buyers thoroughly inspect their new vehicle before accepting delivery, ensuring they verify critical details like VIN numbers and document any defects.
 * [https://crzy.site](https://crzy.site/) : A growing collection of absolutely pointless single-page websites. Each one dumber than the last.
+* [https://cursive-text-generator.net](https://cursive-text-generator.net/) : Turn any text into Unicode cursive and script letters you can copy and paste into bios, posts, usernames and messages. No signup required. :free:
 * [https://www.calculatorcampus.com/](https://www.calculatorcampus.com/) : Free online calculators with clear formulas, worked examples, and named sources. :free:
 * [https://chriswijnia.com/lab/emoji](https://chriswijnia.com/lab/emoji) : 1 Million Emojis, a shared 1,000 × 1,000 emoji canvas: pick an emoji and drag, watch everyone else's strokes arrive live, and an AI model called Jev answers each stroke with emoji of its own. No ads, no sign-up. :free:
+* [https://www.courtrules.app](https://www.courtrules.app/) : Free U.S. court rules, judge standing orders, court holidays and a filing deadline calculator.
 
 ## D : 
 * [https://drag-task.web.app](https://drag-task.web.app/) : A free browser-based to-do list laid out as a scrollable calendar; click a day to add a task and drag it to another date to reschedule. :free:
@@ -116,6 +119,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://downforeveryoneorjustme.com](http://downforeveryoneorjustme.com/) : Check if a website is down for everyone or just you.
 * [https://discoverwebtools.com](https://discoverwebtools.com) : 130+ free, browser-based developer and SEO tools — JSON, Base64, JWT, hashing, regex and image conversion. Everything runs client-side, so nothing you paste is uploaded. No signup.
 * [https://www.debugbear.com/test/website-speed](https://www.debugbear.com/test/website-speed) : Enter a URL to test and optmize page speed.
+* [https://www.dearovo.com](https://www.dearovo.com/) : AI-assisted message-writing tool for ready-to-send good-night and relationship messages, with recipient and context personalization plus rewrite controls.
 * [http://www.degraeve.com/color-palette](http://www.degraeve.com/color-palette) : Create color palettes from images. Simply put a URL of a photo and voila!
 * [http://downloadtimecalculator.com](http://downloadtimecalculator.com/) : A simple calculator with which you can calculate download time for a file depending on download speed. How long time it will take depends on file size, your own download speed and the server's upload speed. In these calculations it is assumed that your download speed is the bottleneck. :arrow_down:
 * [http://www.drawastickman.com](http://www.drawastickman.com/) : Draw a stickman and then take it on an adventurous trip. This cool website is actually a time machine that will transport you straight to your childhood.
@@ -204,6 +208,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://fireplanner.in](https://fireplanner.in) : FIRE Planner is a comprehensive retirement planning calculator that helps you analyze your Financial Independence, Retire Early (FIRE) strategy using historical market data.
 * [https://www.freeflickfootball.com](https://www.freeflickfootball.com) :  A browser-based fooseball or street soccer game where you control a player to flick the ball against an AI opponent. ⚽
 * [https://fitmentnorth.com](https://fitmentnorth.com/) : Free wheel offset and tyre size calculator. Compare two setups and see poke, inner clearance and speedo error in millimetres. :free:
+* [https://foodindex.co](https://foodindex.co/) : Search a product, ingredient, additive or supplement. Straight answers on allergens, diets and E-numbers, backed by real data and cited evidence. Includes a free recipe nutrition calculator: type ingredients in plain language, get calories, protein and other macros per serving. :free:
 
 
 ## G :
@@ -233,6 +238,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.geographyquizarcade.com](https://www.geographyquizarcade.com/) : Flag, capital and map quiz games with a daily challenge, printable worksheets and a classroom host mode where students join with a code. No signup. :free:
 
 * [https://gptimage2.asia](https://gptimage2.asia/) : GPT Image 2 is an AI image generator and editor for marketing visuals.
+* [https://getaskai.com](https://getaskai.com/) : Ask an AI anything without creating an account. On current topics it searches the web and numbers its sources, and you can snap a photo or drop in a PDF to ask about it. Ad-supported, no paid plan. :free:
 ## H :
 * [http://www.1happybirthday.com](http://www.1happybirthday.com/) : Birthday songs for a Happy Birthday. :birthday:
 * [http://htmlreference.io](http://htmlreference.io/) : A free guide to all HTML elements and attributes. :free:
@@ -277,6 +283,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://ip.me](https://ip.me) : IP.ME is a free service developed and maintained by Proton. Lookups are powered by dnspython, a DNS toolkit for Python.
 * [https://indepai.app/tools/coast-fire-calculator](https://indepai.app/tools/coast-fire-calculator) : Free Coast FIRE calculator that shows how much you need invested today to reach financial independence, with cost-of-living data across 11,800+ cities so you can see where your money buys an earlier retirement. No signup. :free:
 * [https://iwha.at](https://iwha.at/) : Send this when someone asks you something you'd only answer by pasting it into an AI chat yourself. I would have asked AI too, so ask it yourself.
+* [https://iqmaxxing.org](https://iqmaxxing.org/) : Free, no-signup brain-training drills in the browser: dual, quad and 3D n-back, digit span, Corsi blocks, reaction time, Stroop, go/no-go and more, with every run logged and charted. No ads. :free:
 * [https://www.imagineyourbook.com](https://www.imagineyourbook.com/) : AI book-writing tool that plans and drafts full manuscripts, rewrites chapters, writes in your own voice, keeps series consistent with a story bible, suggests covers and titles, and exports to EPUB, Word and Markdown. Free trial, so you can create a full first book at no cost. :books:
 
 ## J :
@@ -434,6 +441,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://quenq.com](https://quenq.com) : Project Quenq is an interactive museum of internet culture. Our library features fully functional emulators, preserved games, and rare digital artifacts, all restored to run perfectly in your browser.
 
 ## R : 
+* [https://remove-audio.com/tools](https://remove-audio.com/tools) : 30+ free video and audio tools that run in your browser, such as removing background music or vocals with AI, compressing a video and converting to MP4, MP3 or GIF. By default files stay on your device, with no signup and no watermark; an optional Cloud mode with an account takes bigger files. :free:
 * [https://refentra.com](https://refentra.com) : Free image tools for resizing, compression, format conversion, photo metadata editing and removal, and combining images into PDF. Image processing stays in your browser; no signup required. :free:
 * [https://reactionmetric.com](https://reactionmetric.com/) : Free no-signup browser reaction-time benchmark with five-trial sessions, median/average/best/consistency results, local history, and clear device/browser/input measurement context. :free:
 * [https://relatedrepos.com](https://relatedrepos.com/) : Discover related open source projects. Find alternatives and other similar repositories. Updated daily.
@@ -562,6 +570,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://www.vocalfish.co](http://www.vocalfish.co/) : You submit a URL to this website and it'll give an audio file back of an actual human reading it.
 * [https://www.virustotal.com](https://www.virustotal.com/) : Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community. 🕵🏼
 * [https://www.visualcv.com](https://www.visualcv.com/) : The #1 resume & CV builder, trusted by 3 million people to land their dream job.
+* [https://vintagephotoprompt.com](https://vintagephotoprompt.com/) : Free gallery of 1980s-style AI photo prompts with example images. Copy one into ChatGPT or Gemini to turn your photo into a retro yearbook, prom or mall portrait. No signup. :camera:
 
 ## W :
 * [http://weavesilk.com](http://weavesilk.com/) : Totally mind blowing. Create dreamy works of art with your mouse. Have fun! :curly_loop:

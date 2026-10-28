@@ -397,6 +397,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://onlinenotepad101.org/](https://onlinenotepad101.org/): Online Notepad – Free Online Text Editor & Notes Sharing
 
 ## P : 
+* [PewTranslate Census Language Lookup](https://pewtranslate.com/en/guides/languages-spoken-by-zip-code) : Free, account-free U.S. Census language-at-home and English-ability estimates for ages 5+ by county or ZIP/ZCTA, with source links and count margins of error. :free:
 * [http://pointerpointer.com](http://pointerpointer.com/) : It is on there and it's really cool.
 * [http://patatap.com](http://patatap.com/) : Just type some random letters on your keyboard and enjoy the music.
 * [https://panopticlick.eff.org](https://panopticlick.eff.org/) : Panopticlick will analyze how well your browser and add-ons protect you against online tracking techniques.

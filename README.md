@@ -13,6 +13,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.16personalities.com](https://www.16personalities.com/) : Take this Personality Test and get a "freakishly accurate" description of who you are and why you do things the way you do.
 * [https://10minutemail.com](https://10minutemail.com/) : Beat spam with the best and free disposable email service.
 * [https://3dhouseplanner.com](https://3dhouseplanner.com/) : 3D House Planner is a floor planner web application that allows users to design houses and apartments. :free:
+* [https://3dvalley.com/tools](https://3dvalley.com/tools) : Free AI 3D model tools and browser utilities to repair, remesh, convert and price prints, no signup for free daily use. :free:
 
 ## A : 
 * [https://airdrift.stream](https://airdrift.stream/) : Listen to over 59,000 live radio stations from 241 countries, browsable by country and genre or shuffled at random. No signup, works on mobile, installable as an app. :radio:
@@ -560,6 +561,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://unplugthetv.com](http://unplugthetv.com/) : Randomly selects an educational video for you to watch.
 * [http://www.usefulscience.org](http://www.usefulscience.org/) : This website offers a collection of one-line summaries of research published in scientific journals on topics ranging from health to productivity, creativity.
 * [https://unlockmybox.com](https://unlockmybox.com/) : Find it hard to talk about your sexual desires? This website is a simple real time game to help you and a partner communicate in a fun and safe way. All you need to play is a browser on your phone, tablet or computer. No account needed 👩‍❤️‍💋‍👨
+* [https://upsampler.com/free-tools](https://upsampler.com/free-tools) : Free AI and browser tools for upscaling, editing and generating images and video without creating an account. :free:
 
 ## V :
 * [https://vectormagic.com](https://vectormagic.com/) : Easily Convert Bitmaps To Vectors. Quickly get your artwork ready to print, embroider, cut, and more with the world's best full-color auto-tracer!

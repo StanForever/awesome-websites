@@ -295,6 +295,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://jsonresume.io](http://jsonresume.io/) : You can upload your JSON resume according to the spec and this website will render it all pretty for you.
 * [https://www.jscreenfix.com](https://www.jscreenfix.com/) : The JScreenFix pixel fixing algorithm has been applied to millions of screens and is the most effective software solution available for repairing defective pixels.
 * [https://job-ready.herokuapp.com](https://job-ready.herokuapp.com/) : AI-powered Cover Letter Generator 📄
+* [https://www.jobemerge.work](https://www.jobemerge.work) : AI career copilot for job-fit analysis, resume translation, Markdown editing, mock interviews, and application tracking.
 * [https://jsoning.com/](https://jsoning.com/) : Free online JSON tools. These tools include a formatter, validator, converter, JSONPath tester, Mock API, and more.
 
 ## K :

@@ -109,6 +109,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.car-pdi.app](https://www.car-pdi.app) : A digital and printable Pre-Delivery Inspection (PDI) checklist to help car buyers thoroughly inspect their new vehicle before accepting delivery, ensuring they verify critical details like VIN numbers and document any defects.
 * [https://crzy.site](https://crzy.site/) : A growing collection of absolutely pointless single-page websites. Each one dumber than the last.
 * [https://cursive-text-generator.net](https://cursive-text-generator.net/) : Turn any text into Unicode cursive and script letters you can copy and paste into bios, posts, usernames and messages. No signup required. :free:
+* [https://customspinnerwheel.com](https://customspinnerwheel.com/) : Free online spinner wheel for random decisions — build custom wheels, pick names, split into teams and draw giveaway winners. No signup required. :free:
 * [https://www.calculatorcampus.com/](https://www.calculatorcampus.com/) : Free online calculators with clear formulas, worked examples, and named sources. :free:
 * [https://chriswijnia.com/lab/emoji](https://chriswijnia.com/lab/emoji) : 1 Million Emojis, a shared 1,000 × 1,000 emoji canvas: pick an emoji and drag, watch everyone else's strokes arrive live, and an AI model called Jev answers each stroke with emoji of its own. No ads, no sign-up. :free:
 * [https://www.courtrules.app](https://www.courtrules.app/) : Free U.S. court rules, judge standing orders, court holidays and a filing deadline calculator.

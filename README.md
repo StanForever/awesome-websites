@@ -327,6 +327,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://learngitbranching.js.org](https://learngitbranching.js.org/) : The most visual and interactive way to learn Git on the web; you'll be challenged with exciting levels, given step-by-step demonstrations of powerful features, and maybe even have a bit of fun along the way. 
 
 * [https://leettranslator.com](https://leettranslator.com/) : Free online leet speak (1337) translator — convert text to leet and back, with light, classic and extreme modes. 100% local processing.
+* [https://lemonlawfinder.com](https://lemonlawfinder.com/) : Free lemon law case check for US car owners, with plain-English guides to every state's lemon law and a buyback calculator.
 
 ## M :
 * [https://www.mathway.com](https://www.mathway.com/) : Free math problem solver answers your algebra homework questions with step-by-step explanations.

@@ -570,6 +570,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.virustotal.com](https://www.virustotal.com/) : Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community. 🕵🏼
 * [https://www.visualcv.com](https://www.visualcv.com/) : The #1 resume & CV builder, trusted by 3 million people to land their dream job.
 * [https://vintagephotoprompt.com](https://vintagephotoprompt.com/) : Free gallery of 1980s-style AI photo prompts with example images. Copy one into ChatGPT or Gemini to turn your photo into a retro yearbook, prom or mall portrait. No signup. :camera:
+* [https://vostride.com](https://vostride.com/) : Home of agent-qa, an AI-powered web and mobile testing tool with advanced memidex memory and self-improvement.
 
 ## W :
 * [http://weavesilk.com](http://weavesilk.com/) : Totally mind blowing. Create dreamy works of art with your mouse. Have fun! :curly_loop:

@@ -601,6 +601,10 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://workroomcalc.co.uk](https://workroomcalc.co.uk/) : Free in-browser Roman blind calculator. Estimate finished size, fabric and lining cuts, rods, rings and cord. No signup.
 * [https://watermarkremoverio.org/](https://watermarkremoverio.org/): Watermark Remover - Remove Watermarks from Images with AI
 
+## X :
+
+* [https://xargaar-tools.pages.dev](https://xargaar-tools.pages.dev/) : Browser tools for everyday business busywork - merge, sign and redact PDFs, OCR scanned documents, remove image backgrounds, convert bank statements, build resumes, QR and invoice generators, and more. No signup for the core tools and files stay on your device; a few tools offer optional paid packs. :free:
+
 ## Y : 
 * [http://www.youtube-mp3.org](http://www.youtube-mp3.org/) : Convert YouTube videos to MP3s. :cinema:
 * [http://you.regettingold.com](http://you.regettingold.com/) : Website which shows interesting stats about your age.

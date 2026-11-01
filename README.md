@@ -560,6 +560,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://unplugthetv.com](http://unplugthetv.com/) : Randomly selects an educational video for you to watch.
 * [http://www.usefulscience.org](http://www.usefulscience.org/) : This website offers a collection of one-line summaries of research published in scientific journals on topics ranging from health to productivity, creativity.
 * [https://unlockmybox.com](https://unlockmybox.com/) : Find it hard to talk about your sexual desires? This website is a simple real time game to help you and a partner communicate in a fun and safe way. All you need to play is a browser on your phone, tablet or computer. No account needed 👩‍❤️‍💋‍👨
+* [https://www.upgrow.com](https://www.upgrow.com/free-instagram-tools) : Free Instagram tools: engagement rate calculator, hashtag, caption and bio generators, and influencer search. :free:
 
 ## V :
 * [https://vectormagic.com](https://vectormagic.com/) : Easily Convert Bitmaps To Vectors. Quickly get your artwork ready to print, embroider, cut, and more with the world's best full-color auto-tracer!

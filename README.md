@@ -70,6 +70,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 
 ## C :
 * [http://www.csgenerator.com](http://www.csgenerator.com/) : Complex Sentence Generator is a free content rewriter that can potentially rephrase, reword, paraphrase and/or rewrite sentences, paragraphs, articles, content, words and/or phrases into a more complex, unorthodox or convoluted alternative while delivering the same meaning. :free:
+* [https://creati.ai](https://creati.ai/) : A directory of 28,000+ AI tools and agents in 9 languages, with daily AI news and monthly rankings.
 * [http://crossfade.io](http://crossfade.io/) : Allows you to mix and match videos and change their audios, etc.
 * [https://cvmkr.com](https://cvmkr.com/) : Create beautiful, professional resumes in minutes, free. :page_facing_up:
 * [https://corrupt-a-file.net](https://corrupt-a-file.net/) : Can't finish your assignment before deadline? This will corrupt your assignment files so that you can ask for extra time.

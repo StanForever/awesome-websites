@@ -415,6 +415,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://pective.com](http://pective.com/) : Pective displays the actual size of any item on your monitor.
 * [https://pipl.com](https://pipl.com/) : With the world's largest people search engine, Pipl is the place to find the person behind the email address, social username or phone number.
 * [https://www.pdfescape.com](https://www.pdfescape.com/) : Lets you can quickly edit PDFs in the browser itself.
+* [https://www.pdfshed.com](https://www.pdfshed.com/) : 103 free PDF tools - merge, split, compress, convert, OCR, sign, edit - that run entirely in your browser; files never upload, no signup. :free:
 * [https://www.plustransfer.com](https://www.plustransfer.com/) : Transfer files of size up to 5 GB without uploading to a third-party server.
 * [https://www.preceden.com](https://www.preceden.com/) : Preceden is an simple yet powerful timeline maker that helps you quickly create great looking timelines. With our intuitive web-based interface, numerous export options, and more, you'll be able to build and share your timeline in no time at all.
 * [https://tools.pingdom.com](https://tools.pingdom.com/) : Enter a URL to test the load time of that page, analyze it and find bottlenecks.

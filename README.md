@@ -461,7 +461,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.random.org](https://www.random.org/) : RANDOM.ORG offers true random numbers to anyone on the Internet. The randomness comes from atmospheric noise, which for many purposes is better than the pseudo-random number algorithms typically used in computer programs.
 * [https://rejected.us](https://rejected.us/) : Read and share your rejection stories.
 * [https://www.remove.bg](https://www.remove.bg/) : Remove.bg removes backgrounds from photos. Automatically, in only 5 seconds and for free. Try it!
-* [https://rxresu.me](https://rxresu.me/) : Make your own reactive resume! 
+* [https://rxresu.me](https://rxresu.me/) : Make your own reactive resume!
+* [https://resumeinvited.com](https://resumeinvited.com/) : Build an English resume online with templates and live preview, then export as PDF or editable Word. Free, no sign-up required. :free:
 * [https://respresso.io/](https://respresso.io/) : Let your whole team edit resource files (localizations, images, colors, etc.) with Respresso's online editor to get them in a platform-specific format, automatically delivered to your source code 👨‍💻
 * [https://www.restorephotos.io](https://www.restorephotos.io/) : Have old and blurry face photos? Let AI restore them so those memories can live on.
 * [https://www.roomgpt.io](https://www.roomgpt.io/) : Your personal AI interior designer. Transform any room with just one photo.

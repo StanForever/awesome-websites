@@ -437,6 +437,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://pmresume.io](https://pmresume.io) : ProductResume is an AI-powered tool designed to help Product Managers and aspiring PMs build interview-ready resumes by scoring them against hiring manager criteria, rewriting weak bullet points for impact, and generating personalized interview prep materials.
 * [https://plexto.tools](https://plexto.tools/) : 251 free online tools spanning developer, image, AI, text, math, security, SEO, PDF, and finance utilities, plus live crypto/stock/commodity trackers. No signup required. :free:
 * [https://pdfnorth.com](https://pdfnorth.com/) : 16 free PDF tools (merge, split, compress, sign, remove metadata) that run in your browser, so files are never uploaded. :free:
+* [https://pwa.directory](https://pwa.directory) : A directory of installable Progressive Web Apps, with each listing showing offline support and install details. Free to browse. :free:
 
 ## Q :
 * [https://quickdraw.withgoogle.com](https://quickdraw.withgoogle.com/) : Can a neural network learn to recognize doodling? Help teach it by adding your drawings to the world's largest doodling data set, shared publicly to help with machine learning research. :pencil2:
@@ -605,6 +606,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://world-power-plugs.com](https://world-power-plugs.com/) : Going on an internship, volunteering abroad or simply traveling for pleasure? Wherever you go, World Power Plugs makes sure you can power up. In seconds you'll know if you need a plug adapter or a power converter for any outlets used around the world 🌍
 * [https://workroomcalc.co.uk](https://workroomcalc.co.uk/) : Free in-browser Roman blind calculator. Estimate finished size, fabric and lining cuts, rods, rings and cord. No signup.
 * [https://watermarkremoverio.org/](https://watermarkremoverio.org/): Watermark Remover - Remove Watermarks from Images with AI
+* [https://webapps.directory](https://webapps.directory) : A curated directory of web apps that run in the browser, including design and dev tools, editors, converters and games. Free to browse and submit. :free:
 
 ## Y : 
 * [http://www.youtube-mp3.org](http://www.youtube-mp3.org/) : Convert YouTube videos to MP3s. :cinema:

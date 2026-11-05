@@ -467,6 +467,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.roomgpt.io](https://www.roomgpt.io/) : Your personal AI interior designer. Transform any room with just one photo.
 * [https://www.rentvsbuyindia.com](https://www.rentvsbuyindia.com) : Rent vs Buy Calculator for India that helps users make informed housing decisions by comparing the long-term financial costs and benefits of renting versus buying a home based on customizable parameters like loan rates, maintenance costs, and property appreciation.
 * [https://www.replacedbai.com](https://www.replacedbai.com) : Free AI replacement risk score (0-100) for 1,016 occupations, combining O*NET task and skill data with Frey & Osborne automation probabilities. Every job page also links a career-transition guide and pivot plan. :robot:
+* [https://roomlab.app](https://roomlab.app/) : AI virtual staging and room redesign. Stage, restyle or declutter any room from one photo.
 
 ## S :
 * [https://studio.stupeflix.com](https://studio.stupeflix.com/) : Make amazing videos in seconds. Just add photos, videos, music, and text.

@@ -556,6 +556,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://toolio.pongvn.com](https://toolio.pongvn.com/) : 195 browser tools in one place — PDF, image, converters, calculators and developer utilities. Most of them run client-side, so your files never leave the browser. No signup. :free:
 * [https://treeidentifier.org/](https://treeidentifier.org/): Free Tree Identifier Online - Tree Identification By Picture
 * [https://mytoolsbench.com/](https://mytoolsbench.com/):ToolBench is a free set of browser-based image tools — converter, compressor, resizer, cropper and watermark tool. Everything runs client-side via the Canvas API, so files are never uploaded to a server. No sign-up, no file size limits.
+* [https://thumbnailsnap.com/secret-santa-generator](https://thumbnailsnap.com/secret-santa-generator) : Free Secret Santa draw for 3–100 people with exclusions for couples and a private reveal link for each person. No sign-up or email needed. :gift:
 
 
 ## U :

@@ -536,6 +536,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://twitternamegenerator.com](http://twitternamegenerator.com/) : Free Online Tool to Generate Pretty Nicknames for Twitter. :free:
 * [http://titlecase.com](http://titlecase.com/) : Text conversion solutions. 
 * [https://www.timeanddate.com](https://www.timeanddate.com/) : Date to date calculator.
+* [https://time.foo](https://time.foo/) : Free world clock on a 3D globe showing live day/night, multi-city time comparison, time zone and Unix timestamp converters. No ads, no signup, 8 languages. :free:
 * [https://www.tidycalcs.com](https://www.tidycalcs.com/) : Free, no-signup calculators for mortgages, loans, debt payoff, retirement, and more. :free:
 * [https://tunein.com](https://tunein.com/) : Listen to over 100,000 real radio stations.
 * [https://www.topcv.me](https://www.topcv.me/) : Create a professional Resume/CV in minutes. The simplest way to have impressive Resume without Photoshop, AI technique.

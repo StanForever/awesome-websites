@@ -15,6 +15,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://3dhouseplanner.com](https://3dhouseplanner.com/) : 3D House Planner is a floor planner web application that allows users to design houses and apartments. :free:
 
 ## A : 
+* [https://ascii-images.com](https://ascii-images.com) : 18 free, no-account browser tools for image-to-ASCII artwork, FIGlet banners, patterns and plain-text diagrams.
 * [https://airdrift.stream](https://airdrift.stream/) : Listen to over 59,000 live radio stations from 241 countries, browsable by country and genre or shuffled at random. No signup, works on mobile, installable as an app. :radio:
 * [https://abox.tools](https://abox.tools/) : 35 small file tools - compress an image to an exact size, merge or redact a PDF, crop a video, trim audio, read a QR code - that run entirely in your browser, so nothing you open is uploaded anywhere. :free:
 * [https://www.awwwards.com](https://www.awwwards.com/) : The awards that recognize the talent and effort of the best web designers, developers and agencies in the world.

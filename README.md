@@ -13,6 +13,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.16personalities.com](https://www.16personalities.com/) : Take this Personality Test and get a "freakishly accurate" description of who you are and why you do things the way you do.
 * [https://10minutemail.com](https://10minutemail.com/) : Beat spam with the best and free disposable email service.
 * [https://3dhouseplanner.com](https://3dhouseplanner.com/) : 3D House Planner is a floor planner web application that allows users to design houses and apartments. :free:
+* [https://3dsolarsystem.net](https://3dsolarsystem.net/) : Explore the solar system in an interactive 3D model right in the browser: planets, moons, orbits and real scale. :free:
 
 ## A : 
 * [https://airdrift.stream](https://airdrift.stream/) : Listen to over 59,000 live radio stations from 241 countries, browsable by country and genre or shuffled at random. No signup, works on mobile, installable as an app. :radio:

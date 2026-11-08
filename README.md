@@ -51,6 +51,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://aiskyla.com](https://aiskyla.com/) : AIskyla Gifting creates free animated eCards, love letters and virtual gifts with messages, photos and music, shared by browser link without signup. Uploaded photos and music expire after 15 days. :free:
 
 ## B :
+* [https://bike-size.com/calculators/bike-size](https://bike-size.com/calculators/bike-size) : Free starting frame-size estimates from height and inseam for road, mountain and hybrid bikes; educational guidance, not a full bike fit. :free:
 * [https://bestjson.com](https://bestjson.com/) : Free browser tools to format, validate, repair and compare JSON locally, with a preview of repair changes and no account required. :free:
 * [https://bundle.js.org](https://bundle.js.org) : A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, js, jsx and npm projects all online, while returning the final bundle file size.
 * [https://builtwith.com](https://builtwith.com/) : Find out what websites are built with. You can find the technology stack of any website.

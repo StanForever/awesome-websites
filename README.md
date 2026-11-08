@@ -366,6 +366,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.mytimecardcalculator.com/](https://www.mytimecardcalculator.com/) : easily calculator work hours
 * [https://mindtrip.ai)(https://mindtrip.ai) : A travel planning platform that helps users discover and book attractions, restaurants, hotels, and guided tours while offering local insights and trip inspiration.
 * [https://mumdiaries.1ocalhost.fun](https://mumdiaries.1ocalhost.fun) : Local community portal called "MumDiaries" that allows residents to view electoral wards on a map and submit garbage reports, although the current display shows zero active reports.
+* [https://musictoolset.com](https://musictoolset.com/) : 11 free music tools. Find a song's BPM and key from an audio file, look up guitar and piano chords, build chord progressions, explore scales and practice with a metronome in odd time signatures like 7/8. No signup. :free:
 
 ## N :
 * [https://nutilz.com](https://nutilz.com/) : 23 free browser-based developer tools and utilities: regex tester, JSON formatter, unit converter, calculators, and more. No sign-up required. :free:

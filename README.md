@@ -177,6 +177,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://ferrarirules-creator.github.io/ev-ice-calculator](https://ferrarirules-creator.github.io/ev-ice-calculator) : Compare lifetime ownership costs and savings between Electrice and ICE (Internal Combustion Engine) vehicles.
 
 ## F :
+* [https://fermatmind.com/en/tests/explore/seven-sins-virtues-test](https://fermatmind.com/en/tests/explore/seven-sins-virtues-test) : A free, no-sign-up 28-question sins-and-virtues quiz with 14 separate scores, a radar chart and reflection guides; intended for entertainment, not diagnosis.
 * [https://filewhisk.com](https://filewhisk.com/) : Free browser-based image tools — compress, resize, crop, convert and watermark images. Everything runs client-side, nothing is uploaded. :free:
 * [https://filesvo.com](https://filesvo.com/) : 104 free file tools — convert, compress, resize, merge and manage images, PDFs, audio, video and archives — that run entirely in your browser via WebAssembly. No signup, nothing is uploaded. :free:
 * [http://www.foxebook.net](http://www.foxebook.net/) : Amazing Free eBook Download Site. Newest Free eBook Share. Free Download PDF, EPUB, MOBI eBooks. :books:

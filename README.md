@@ -116,6 +116,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.calculatorcampus.com/](https://www.calculatorcampus.com/) : Free online calculators with clear formulas, worked examples, and named sources. :free:
 * [https://chriswijnia.com/lab/emoji](https://chriswijnia.com/lab/emoji) : 1 Million Emojis, a shared 1,000 × 1,000 emoji canvas: pick an emoji and drag, watch everyone else's strokes arrive live, and an AI model called Jev answers each stroke with emoji of its own. No ads, no sign-up. :free:
 * [https://www.courtrules.app](https://www.courtrules.app/) : Free U.S. court rules, judge standing orders, court holidays and a filing deadline calculator.
+* [https://createqrcodes.net/create/](https://createqrcodes.net/create/) : Make a QR code for a link, Wi-Fi, contact card and more, and download a PNG. The free generator needs no account. :free:
 
 * [https://cheatsheetmaker.space](https://cheatsheetmaker.space/) : Sheetmint is a free browser-based cheatsheet maker: import PDFs, review and edit extracted notes, arrange sections, and export every page as PDF. Local import, editing and export need no account; AI and cloud sharing are optional. :free:
 * [https://codexanywhere.app](https://codexanywhere.app) : Free local reader for Codex JSONL and ChatGPT/Claude JSON exports: search, source-preserving JSON backups, optional password encryption, Markdown and offline HTML/PDF reading. No account or conversation uploads; automatic cloud backup and session sync remain in development. :free:

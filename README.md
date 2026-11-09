@@ -306,6 +306,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.jscreenfix.com](https://www.jscreenfix.com/) : The JScreenFix pixel fixing algorithm has been applied to millions of screens and is the most effective software solution available for repairing defective pixels.
 * [https://job-ready.herokuapp.com](https://job-ready.herokuapp.com/) : AI-powered Cover Letter Generator 📄
 * [https://jsoning.com/](https://jsoning.com/) : Free online JSON tools. These tools include a formatter, validator, converter, JSONPath tester, Mock API, and more.
+* [https://jfiftojpg.app](https://jfiftojpg.app/) : Convert JFIF images to JPG or PNG right in your browser - nothing is uploaded, JPEGs keep their original bytes (no re-compression), batch download as ZIP, no signup or watermark. :free:
 
 ## K :
 * [http://www.keybr.com](http://www.keybr.com/) : Simple and adaptive typing lessons will help you type faster and with fewer errors.

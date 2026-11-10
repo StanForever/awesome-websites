@@ -70,6 +70,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://bengaluru.rent](https://bengaluru.rent) : bengaluru.rent is a free, anonymous, crowdsourced map that lets Bangalore renters share real rental prices and connect directly with landlords or flatmates without broker fees.
 * [Bird Identifier by Picture](https://birdfinder.app/) : Bird Identifier by Picture Online Free——AI Bird Identification
 * [https://bestmcserverlist.net/tools](https://bestmcserverlist.net/tools) : Free browser tools for Minecraft server owners: MOTD generator with live preview, 64x64 server icon maker, chest-menu GUI maker for DeluxeMenus and a rank prefix generator. No signup. :free:
+* [https://brewpage.app](https://brewpage.app/) : Publish an HTML page, Markdown, a file or a small static site and get a shareable HTTPS link, no signup required; links expire after up to 30 days. :free:
  
 
 ## C :

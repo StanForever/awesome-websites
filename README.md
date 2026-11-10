@@ -13,6 +13,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.16personalities.com](https://www.16personalities.com/) : Take this Personality Test and get a "freakishly accurate" description of who you are and why you do things the way you do.
 * [https://10minutemail.com](https://10minutemail.com/) : Beat spam with the best and free disposable email service.
 * [https://3dhouseplanner.com](https://3dhouseplanner.com/) : 3D House Planner is a floor planner web application that allows users to design houses and apartments. :free:
+* [https://3dsolarsystem.net](https://3dsolarsystem.net/) : Explore the solar system in an interactive 3D model right in the browser: planets, moons, orbits and real scale. :free:
 
 ## A : 
 * [https://airdrift.stream](https://airdrift.stream/) : Listen to over 59,000 live radio stations from 241 countries, browsable by country and genre or shuffled at random. No signup, works on mobile, installable as an app. :radio:
@@ -47,6 +48,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://alltoolsverse.com](https://alltoolsverse.com/) : 1,000+ free browser tools for development, files, images, text, data conversion, calculations and everyday tasks. No signup required. :free:
 * [https://aisotools.com](https://aisotools.com/) : A directory of 1,200+ AI tools across 21 categories with search, side-by-side comparison and an AI-search visibility monitor. Listing a tool is free. :free:
 
+* [https://aiskyla.com](https://aiskyla.com/) : AIskyla Gifting creates free animated eCards, love letters and virtual gifts with messages, photos and music, shared by browser link without signup. Uploaded photos and music expire after 15 days. :free:
+
 ## B :
 * [https://bestjson.com](https://bestjson.com/) : Free browser tools to format, validate, repair and compare JSON locally, with a preview of repair changes and no account required. :free:
 * [https://bundle.js.org](https://bundle.js.org) : A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, js, jsx and npm projects all online, while returning the final bundle file size.
@@ -66,6 +69,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.bananaprompts.xyz](https://www.bananaprompts.xyz) : Banana Prompts is a free community platform where creators share and discover AI-generated art prompts for Google Gemini image models and other image tools. 🍌
 * [https://bengaluru.rent](https://bengaluru.rent) : bengaluru.rent is a free, anonymous, crowdsourced map that lets Bangalore renters share real rental prices and connect directly with landlords or flatmates without broker fees.
 * [Bird Identifier by Picture](https://birdfinder.app/) : Bird Identifier by Picture Online Free——AI Bird Identification
+* [https://bestmcserverlist.net/tools](https://bestmcserverlist.net/tools) : Free browser tools for Minecraft server owners: MOTD generator with live preview, 64x64 server icon maker, chest-menu GUI maker for DeluxeMenus and a rank prefix generator. No signup. :free:
  
 
 ## C :
@@ -113,10 +117,14 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://chriswijnia.com/lab/emoji](https://chriswijnia.com/lab/emoji) : 1 Million Emojis, a shared 1,000 × 1,000 emoji canvas: pick an emoji and drag, watch everyone else's strokes arrive live, and an AI model called Jev answers each stroke with emoji of its own. No ads, no sign-up. :free:
 * [https://www.courtrules.app](https://www.courtrules.app/) : Free U.S. court rules, judge standing orders, court holidays and a filing deadline calculator.
 
+* [https://cheatsheetmaker.space](https://cheatsheetmaker.space/) : Sheetmint is a free browser-based cheatsheet maker: import PDFs, review and edit extracted notes, arrange sections, and export every page as PDF. Local import, editing and export need no account; AI and cloud sharing are optional. :free:
+* [https://codexanywhere.app](https://codexanywhere.app) : Free local reader for Codex JSONL and ChatGPT/Claude JSON exports: search, source-preserving JSON backups, optional password encryption, Markdown and offline HTML/PDF reading. No account or conversation uploads; automatic cloud backup and session sync remain in development. :free:
+
 ## D : 
 * [https://drag-task.web.app](https://drag-task.web.app/) : A free browser-based to-do list laid out as a scrollable calendar; click a day to add a task and drag it to another date to reschedule. :free:
 * [https://devicemetrik.com](https://devicemetrik.com) : 31 free browser-based checks for display, input, controller, audio, and camera behavior. Runs locally with clear browser-observed measurement limits. :free:
 * [http://downforeveryoneorjustme.com](http://downforeveryoneorjustme.com/) : Check if a website is down for everyone or just you.
+* [https://discoveralone.com](https://discoveralone.com/) : Free interactive map of over a million places across Ireland and Britain, with original heritage-record links and Explorer Tom's playful stories and tips on selected places. :free:
 * [https://discoverwebtools.com](https://discoverwebtools.com) : 130+ free, browser-based developer and SEO tools — JSON, Base64, JWT, hashing, regex and image conversion. Everything runs client-side, so nothing you paste is uploaded. No signup.
 * [https://www.debugbear.com/test/website-speed](https://www.debugbear.com/test/website-speed) : Enter a URL to test and optmize page speed.
 * [https://www.dearovo.com](https://www.dearovo.com/) : AI-assisted message-writing tool for ready-to-send good-night and relationship messages, with recipient and context personalization plus rewrite controls.
@@ -151,6 +159,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://dos.zone](https://dos.zone) : Enjoy classic games completely free and without ads on dos.zone!
 * [https://dev.events](https://dev.events) : dev.events is the #1 tech conference listing. Coded at night under caffeine, ad-free, curated by tech community.
 * [https://dvdscreensavermaker.com](https://dvdscreensavermaker.com/) : Recreates the classic bouncing DVD logo screensaver in your browser — bounce your own image or neon text, and export it as a GIF, video, or self-contained offline HTML loop. :free:
+* [https://drible.co](https://drible.co/) : 53 free tools for PDFs, images, text and code: merge, sign and edit PDFs (with redaction that really removes the text), resize photos to an exact KB size for exam forms, convert iPhone HEIC photos. 48 of the 53 run in your browser, so the file is not uploaded. No signup. :free:
 
 ## E : 
 * [https://extinctatlas.com](https://extinctatlas.com/) : Explore extinct animals with an interactive dinosaur timeline, size comparisons, and a deep-time walkway planner for turning geological time into a measured classroom activity. :free:
@@ -171,6 +180,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 
 ## F :
 * [https://filewhisk.com](https://filewhisk.com/) : Free browser-based image tools — compress, resize, crop, convert and watermark images. Everything runs client-side, nothing is uploaded. :free:
+* [https://filesvo.com](https://filesvo.com/) : 104 free file tools — convert, compress, resize, merge and manage images, PDFs, audio, video and archives — that run entirely in your browser via WebAssembly. No signup, nothing is uploaded. :free:
 * [http://www.foxebook.net](http://www.foxebook.net/) : Amazing Free eBook Download Site. Newest Free eBook Share. Free Download PDF, EPUB, MOBI eBooks. :books:
 * [http://www.fallingfalling.com](http://www.fallingfalling.com/) : Mind you, you'll fall for it!
 * [http://ffffidget.com](http://ffffidget.com/) : Someone made a fidget spinner simulation so you can waste your day away. :stuck_out_tongue_winking_eye:
@@ -327,10 +337,12 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://learngitbranching.js.org](https://learngitbranching.js.org/) : The most visual and interactive way to learn Git on the web; you'll be challenged with exciting levels, given step-by-step demonstrations of powerful features, and maybe even have a bit of fun along the way. 
 
 * [https://leettranslator.com](https://leettranslator.com/) : Free online leet speak (1337) translator — convert text to leet and back, with light, classic and extreme modes. 100% local processing.
+* [https://loretypes.com](https://loretypes.com/) : Six free self-discovery quizzes (aura color, archetype, D&D-style moral alignment, color season, spirit animal, fictional past life). No signup, complete results free, shareable result links. :free:
 
 ## M :
 * [https://www.mathway.com](https://www.mathway.com/) : Free math problem solver answers your algebra homework questions with step-by-step explanations.
 * [http://megavn.com](http://megavn.com/) : Download YouTube video, subtitles, channel, playlist for free.
+* [https://minigolfspots.com](https://minigolfspots.com/) : Free directory for finding US mini golf courses and comparing course details, with independent guides and no signup required. :free:
 * [http://mixlr.com](http://mixlr.com/) : Broadcasting live audio made simple.
 * [https://mp3to.cc](https://mp3to.cc/) : Free, privacy-first browser-based audio and media toolkit for converting MP3, WAV, FLAC, AAC and video-to-audio files with no upload required. :musical_note:
 * [https://monkeyeatingmango.com](https://monkeyeatingmango.com/) : Free AI travel planner that builds a day-by-day itinerary with a food guide and daily budgets from 8 tap questions. :free:
@@ -356,7 +368,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.mytimecardcalculator.com/](https://www.mytimecardcalculator.com/) : easily calculator work hours
 * [https://mindtrip.ai)(https://mindtrip.ai) : A travel planning platform that helps users discover and book attractions, restaurants, hotels, and guided tours while offering local insights and trip inspiration.
 * [https://mumdiaries.1ocalhost.fun](https://mumdiaries.1ocalhost.fun) : Local community portal called "MumDiaries" that allows residents to view electoral wards on a map and submit garbage reports, although the current display shows zero active reports.
-* [https://myfeed.space](https://myfeed.space/) : Describe a topic in plain English and get an AI-picked news feed from 200+ RSS sources and news outlets; 103 public topic feeds, each with RSS and a free daily email.
+* [https://matchmytype.org](https://matchmytype.org/) : Pick any two MBTI types to see love, work and friendship compatibility scores, with a detailed write-up for each of the 136 pairings. Available in English, Japanese, Korean and Chinese. :heart:
+* [https://myfeed.space](https://myfeed.space/) : Describe a topic to make a personal news feed, or browse public topics and subscribe over RSS. :free:
 
 ## N :
 * [https://nutilz.com](https://nutilz.com/) : 23 free browser-based developer tools and utilities: regex tester, JSON formatter, unit converter, calculators, and more. No sign-up required. :free:
@@ -381,6 +394,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://dalton-nrs.manchester.ac.uk](https://dalton-nrs.manchester.ac.uk/) : Take a tour of Virtual nuclear reactor. 
 * [https://nutilz.com/file-size-converter](https://nutilz.com/file-size-converter) : Free browser-based file size converter — convert between bytes, KB, MB, GB, TB instantly, no upload or signup required. :free:
 * [https://naratake.com/en/tools](https://naratake.com/en/tools) : 43 free tools for local business owners — food cost, labor cost and tip pooling calculators, a menu engineering matrix, Google review link and QR code generators, printable hours signs, table tents and price lists, and website checklists for restaurants, salons, plumbers and contractors. Everything runs in your browser: nothing is uploaded and there is no account to create. :free:
+* [https://noiseremover.site](https://noiseremover.site/) : QuietTake reduces background noise in short speech recordings locally in the browser using RNNoise, with original/cleaned playback and WAV export. Files must be 50 MB or smaller and five minutes or shorter. No account or audio upload required. :free:
 
 ## O :
 * [http://oldcomputers.net](http://oldcomputers.net/) : The museum of old, rare, vintage, antique computers. View all 150 old computers all at the same time to appreciate how diverse and interesting they are. :computer:
@@ -398,6 +412,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://onlinenotepad101.org/](https://onlinenotepad101.org/): Online Notepad – Free Online Text Editor & Notes Sharing
 
 ## P : 
+* [https://piccollages.com](https://piccollages.com) : Free browser-based photo collage maker with grid layouts, text and stickers, and PNG/JPG downloads. Basic editing and export work without signup. :free:
 * [http://pointerpointer.com](http://pointerpointer.com/) : It is on there and it's really cool.
 * [http://patatap.com](http://patatap.com/) : Just type some random letters on your keyboard and enjoy the music.
 * [https://panopticlick.eff.org](https://panopticlick.eff.org/) : Panopticlick will analyze how well your browser and add-ons protect you against online tracking techniques.
@@ -443,6 +458,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 ## R : 
 * [https://remove-audio.com/tools](https://remove-audio.com/tools) : 30+ free video and audio tools that run in your browser, such as removing background music or vocals with AI, compressing a video and converting to MP4, MP3 or GIF. By default files stay on your device, with no signup and no watermark; an optional Cloud mode with an account takes bigger files. :free:
 * [https://refentra.com](https://refentra.com) : Free image tools for resizing, compression, format conversion, photo metadata editing and removal, and combining images into PDF. Image processing stays in your browser; no signup required. :free:
+* [https://reelgrab.ink](https://reelgrab.ink/) : Paste a public Instagram Reel, TikTok, YouTube Short or Facebook Reel link and get an AI transcript, a short summary and the MP3 audio. Free, no signup. Private videos don't work, and YouTube is Shorts only. :free:
 * [https://reactionmetric.com](https://reactionmetric.com/) : Free no-signup browser reaction-time benchmark with five-trial sessions, median/average/best/consistency results, local history, and clear device/browser/input measurement context. :free:
 * [https://relatedrepos.com](https://relatedrepos.com/) : Discover related open source projects. Find alternatives and other similar repositories. Updated daily.
 * [http://rainymood.com](http://rainymood.com/) : Listen to rain and thunderstorms online. :umbrella:
@@ -518,8 +534,10 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://studyarena.com](https://studyarena.com) : Compare three AI responses to a study question for free, then vote and reveal the models.
 * [https://store.xiu.ai/en/ai-ip/](https://store.xiu.ai/en/ai-ip/) : XiuStore AI IP Check compares the exit IPs seen by ChatGPT, Claude, Grok, Perplexity, and Cloudflare, with a separate WebRTC check. Free to use without signing in. :free:
 * [https://subskills.xyz](https://subskills.xyz/) : Free sports technique videos from YouTube, TikTok and Instagram, sorted by sport, sub-skill and level.
+* [https://stayput.dev](https://stayput.dev/) : Free file tools that run in your browser: convert HEIC photos, compress images and PDFs, merge PDFs, trim video. Your files are not uploaded. :free:
 
 ## T :
+* [https://threshinggame.space](https://threshinggame.space/) : Wingbound is an original five-choice dragon rider fan quiz with transparent scoring, replay and spoiler-free archetype results. Free without an account; independent of Dragonkind. :free:
 * [http://typatone.com](http://typatone.com/) : Type some random stuff and enjoy the music.
 * [http://www.theuselessweb.com](http://www.theuselessweb.com/) : This website takes you to another brilliant and useless website every time you click. Great place to kill the time.
 * [http://tedib.com](http://tedib.com/) : For best homework help and training.
@@ -533,6 +551,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://titlecase.com](http://titlecase.com/) : Text conversion solutions. 
 * [https://www.timeanddate.com](https://www.timeanddate.com/) : Date to date calculator.
 * [https://www.tidycalcs.com](https://www.tidycalcs.com/) : Free, no-signup calculators for mortgages, loans, debt payoff, retirement, and more. :free:
+* [Tanzhang Surplus Calculator](https://tanzhang-market-kit.hypebeast2k17.chatgpt.site/en.html) : Estimates one market event's operating surplus in CNY from refund-adjusted receipts, sold-item costs, losses, and event expenses. Free Chinese/English interfaces, no account required. :free:
 * [https://tunein.com](https://tunein.com/) : Listen to over 100,000 real radio stations.
 * [https://www.topcv.me](https://www.topcv.me/) : Create a professional Resume/CV in minutes. The simplest way to have impressive Resume without Photoshop, AI technique.
 * [https://www.typing.com](https://www.typing.com/) : Master touch-typing with these practice sessions.
@@ -601,6 +620,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://world-power-plugs.com](https://world-power-plugs.com/) : Going on an internship, volunteering abroad or simply traveling for pleasure? Wherever you go, World Power Plugs makes sure you can power up. In seconds you'll know if you need a plug adapter or a power converter for any outlets used around the world 🌍
 * [https://workroomcalc.co.uk](https://workroomcalc.co.uk/) : Free in-browser Roman blind calculator. Estimate finished size, fabric and lining cuts, rods, rings and cord. No signup.
 * [https://watermarkremoverio.org/](https://watermarkremoverio.org/): Watermark Remover - Remove Watermarks from Images with AI
+* [https://wowcoloring.com](https://wowcoloring.com/) : Free printable coloring pages for kids and adults. 2,000+ PDF sheets across 50+ themes like animals, mandalas and holidays, no sign-up needed. :free:
 
 ## Y : 
 * [http://www.youtube-mp3.org](http://www.youtube-mp3.org/) : Convert YouTube videos to MP3s. :cinema:

@@ -341,6 +341,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://librecalculator.com](https://librecalculator.com/) : Free, open-source calculators with input-specific worked steps, diagrams, and lessons.
 * [https://loretypes.com](https://loretypes.com/) : Six free self-discovery quizzes (aura color, archetype, D&D-style moral alignment, color season, spirit animal, fictional past life). No signup, complete results free, shareable result links. :free:
 
+* [https://lookslate.com](https://lookslate.com/) : Prepared makeup-look explorer and beginner guides for planning routines and comparing styling ideas.
+
 ## M :
 * [https://www.mathway.com](https://www.mathway.com/) : Free math problem solver answers your algebra homework questions with step-by-step explanations.
 * [http://megavn.com](http://megavn.com/) : Download YouTube video, subtitles, channel, playlist for free.

@@ -574,6 +574,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://toolio.pongvn.com](https://toolio.pongvn.com/) : 195 browser tools in one place — PDF, image, converters, calculators and developer utilities. Most of them run client-side, so your files never leave the browser. No signup. :free:
 * [https://treeidentifier.org/](https://treeidentifier.org/): Free Tree Identifier Online - Tree Identification By Picture
 * [https://mytoolsbench.com/](https://mytoolsbench.com/):ToolBench is a free set of browser-based image tools — converter, compressor, resizer, cropper and watermark tool. Everything runs client-side via the Canvas API, so files are never uploaded to a server. No sign-up, no file size limits.
+* [https://toolverse-hub.pages.dev](https://toolverse-hub.pages.dev/) : 23 everyday tools that run in the browser, including percentage, age, GPA, tip and loan calculators, a unit converter, a time zone meeting planner, a word counter, QR code and password generators, and basic image compression and resizing. No sign-up. :free:
 
 
 ## U :

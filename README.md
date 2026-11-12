@@ -626,6 +626,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://wowcoloring.com](https://wowcoloring.com/) : Free printable coloring pages for kids and adults. 2,000+ PDF sheets across 50+ themes like animals, mandalas and holidays, no sign-up needed. :free:
 
 ## Y : 
+* [https://yaycodes.com](https://yaycodes.com/) : Browse shopping coupon codes by store or category, with recorded check histories where available.
 * [http://www.youtube-mp3.org](http://www.youtube-mp3.org/) : Convert YouTube videos to MP3s. :cinema:
 * [http://you.regettingold.com](http://you.regettingold.com/) : Website which shows interesting stats about your age.
 * [http://www.yamllint.com](http://www.yamllint.com/) : Paste in your YAML and click "Go" - it'll tell you if it's valid or not, and give you a nice clean UTF-8 version of it.

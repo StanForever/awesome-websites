@@ -14,6 +14,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://10minutemail.com](https://10minutemail.com/) : Beat spam with the best and free disposable email service.
 * [https://3dhouseplanner.com](https://3dhouseplanner.com/) : 3D House Planner is a floor planner web application that allows users to design houses and apartments. :free:
 * [https://3dsolarsystem.net](https://3dsolarsystem.net/) : Explore the solar system in an interactive 3D model right in the browser: planets, moons, orbits and real scale. :free:
+* [https://72fm.com](https://72fm.com/) : Listen to 30,000+ live radio stations from 200+ countries in the browser, browsing by country, genre or the station's local time. No app or account; 15 minutes a day free, paid plan for unlimited listening. :radio:
 
 ## A : 
 * [https://airdrift.stream](https://airdrift.stream/) : Listen to over 59,000 live radio stations from 241 countries, browsable by country and genre or shuffled at random. No signup, works on mobile, installable as an app. :radio:
@@ -177,6 +178,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://excalidraw.com](https://excalidraw.com/) : Excalidraw is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
 * [https://eontools.com](https://eontools.com/) : Collection of 3000+ simple, fast, and free tools and calculators across 30+ categories for everyday tasks. Runs locally in your browser with no sign ups and no data uploads.
 * [https://ferrarirules-creator.github.io/ev-ice-calculator](https://ferrarirules-creator.github.io/ev-ice-calculator) : Compare lifetime ownership costs and savings between Electrice and ICE (Internal Combustion Engine) vehicles.
+* [https://events.lat](https://events.lat/) : Find concerts, festivals and cultural events across Mexico, Brazil, Argentina, Colombia, Chile and Peru, with the source shown and a link to the official ticket seller. In English, Spanish and Portuguese.
 
 ## F :
 * [https://filewhisk.com](https://filewhisk.com/) : Free browser-based image tools — compress, resize, crop, convert and watermark images. Everything runs client-side, nothing is uploaded. :free:
@@ -340,6 +342,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://leettranslator.com](https://leettranslator.com/) : Free online leet speak (1337) translator — convert text to leet and back, with light, classic and extreme modes. 100% local processing.
 * [https://librecalculator.com](https://librecalculator.com/) : Free, open-source calculators with input-specific worked steps, diagrams, and lessons.
 * [https://loretypes.com](https://loretypes.com/) : Six free self-discovery quizzes (aura color, archetype, D&D-style moral alignment, color season, spirit animal, fictional past life). No signup, complete results free, shareable result links. :free:
+* [https://loftloom.com/tools](https://loftloom.com/tools) : Nine free room-sizing calculators: rug size, chandelier size and height, dining and coffee table size, wall art, lampshade, bar stool height, whether a sofa fits through a door, and Christmas tree size. No signup; inches only, and results also show products from the store that runs it. :free:
 
 ## M :
 * [https://www.mathway.com](https://www.mathway.com/) : Free math problem solver answers your algebra homework questions with step-by-step explanations.

@@ -553,6 +553,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://twitternamegenerator.com](http://twitternamegenerator.com/) : Free Online Tool to Generate Pretty Nicknames for Twitter. :free:
 * [http://titlecase.com](http://titlecase.com/) : Text conversion solutions. 
 * [https://www.timeanddate.com](https://www.timeanddate.com/) : Date to date calculator.
+* [https://time.foo](https://time.foo/) : Free world clock on a 3D globe showing live day/night, multi-city time comparison, time zone and Unix timestamp converters. No ads, no signup, 8 languages. :free:
 * [https://www.tidycalcs.com](https://www.tidycalcs.com/) : Free, no-signup calculators for mortgages, loans, debt payoff, retirement, and more. :free:
 * [Tanzhang Surplus Calculator](https://tanzhang-market-kit.hypebeast2k17.chatgpt.site/en.html) : Estimates one market event's operating surplus in CNY from refund-adjusted receipts, sold-item costs, losses, and event expenses. Free Chinese/English interfaces, no account required. :free:
 * [https://tunein.com](https://tunein.com/) : Listen to over 100,000 real radio stations.

@@ -538,6 +538,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://store.xiu.ai/en/ai-ip/](https://store.xiu.ai/en/ai-ip/) : XiuStore AI IP Check compares the exit IPs seen by ChatGPT, Claude, Grok, Perplexity, and Cloudflare, with a separate WebRTC check. Free to use without signing in. :free:
 * [https://subskills.xyz](https://subskills.xyz/) : Free sports technique videos from YouTube, TikTok and Instagram, sorted by sport, sub-skill and level.
 * [https://stayput.dev](https://stayput.dev/) : Free file tools that run in your browser: convert HEIC photos, compress images and PDFs, merge PDFs, trim video. Your files are not uploaded. :free:
+* [https://secretsantagenerator.xyz](https://secretsantagenerator.xyz/) : Free Secret Santa name draw for 3 to 200 people. Set exclusions (couples, last year's pairs) and a budget, then share one private link or printable slip per person. No sign-up, no emails. :gift:
 
 ## T :
 * [https://threshinggame.space](https://threshinggame.space/) : Wingbound is an original five-choice dragon rider fan quiz with transparent scoring, replay and spoiler-free archetype results. Free without an account; independent of Dragonkind. :free:

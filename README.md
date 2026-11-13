@@ -593,6 +593,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.virustotal.com](https://www.virustotal.com/) : Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community. 🕵🏼
 * [https://www.visualcv.com](https://www.visualcv.com/) : The #1 resume & CV builder, trusted by 3 million people to land their dream job.
 * [https://vintagephotoprompt.com](https://vintagephotoprompt.com/) : Free gallery of 1980s-style AI photo prompts with example images. Copy one into ChatGPT or Gemini to turn your photo into a retro yearbook, prom or mall portrait. No signup. :camera:
+* [https://vidquark.com](https://vidquark.com/) : Free browser-based tool for saving public TikTok videos as MP4 and converting their available audio to MP3, with file-saving and troubleshooting guides. :free:
 
 ## W :
 * [http://weavesilk.com](http://weavesilk.com/) : Totally mind blowing. Create dreamy works of art with your mouse. Have fun! :curly_loop:

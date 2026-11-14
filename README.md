@@ -49,6 +49,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://aisotools.com](https://aisotools.com/) : A directory of 1,200+ AI tools across 21 categories with search, side-by-side comparison and an AI-search visibility monitor. Listing a tool is free. :free:
 
 * [https://aiskyla.com](https://aiskyla.com/) : AIskyla Gifting creates free animated eCards, love letters and virtual gifts with messages, photos and music, shared by browser link without signup. Uploaded photos and music expire after 15 days. :free:
+* [https://appscreen.pro](https://appscreen.pro/) : Make App Store and Google Play screenshots in the browser: put your app in iPhone and Android device frames, add captions and export every size the stores ask for. :free:
 
 ## B :
 * [https://bestjson.com](https://bestjson.com/) : Free browser tools to format, validate, repair and compare JSON locally, with a preview of repair changes and no account required. :free:

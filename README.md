@@ -250,6 +250,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 
 * [https://gptimage2.asia](https://gptimage2.asia/) : GPT Image 2 is an AI image generator and editor for marketing visuals.
 * [https://getaskai.com](https://getaskai.com/) : Ask an AI anything without creating an account. On current topics it searches the web and numbers its sources, and you can snap a photo or drop in a PDF to ask about it. Ad-supported, no paid plan. :free:
+* [https://getyoutubetranscript.com](https://getyoutubetranscript.com/) : Paste a YouTube link to get the video's transcript with timestamps, then copy it, download it (TXT, SRT, VTT), translate it or ask AI to summarize it. A few transcripts a day work without an account.
 ## H :
 * [http://www.1happybirthday.com](http://www.1happybirthday.com/) : Birthday songs for a Happy Birthday. :birthday:
 * [http://htmlreference.io](http://htmlreference.io/) : A free guide to all HTML elements and attributes. :free:

@@ -176,6 +176,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://endoflife.date](https://endoflife.date/) : End-of-life (EOL) and support information is often hard to track, or very badly presented. endoflife.date documents EOL dates and support lifecycles for various products.
 * [https://excalidraw.com](https://excalidraw.com/) : Excalidraw is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
 * [https://eontools.com](https://eontools.com/) : Collection of 3000+ simple, fast, and free tools and calculators across 30+ categories for everyday tasks. Runs locally in your browser with no sign ups and no data uploads.
+* [https://everyapp.pro](https://everyapp.pro/) : 300+ free tools, apps and games in one place: merge a PDF, edit a photo, split a bill, track sleep and habits, play 70 games. Can't find the app you want? Describe it and it gets built for you.
 * [https://ferrarirules-creator.github.io/ev-ice-calculator](https://ferrarirules-creator.github.io/ev-ice-calculator) : Compare lifetime ownership costs and savings between Electrice and ICE (Internal Combustion Engine) vehicles.
 
 ## F :

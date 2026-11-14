@@ -574,6 +574,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://toolio.pongvn.com](https://toolio.pongvn.com/) : 195 browser tools in one place — PDF, image, converters, calculators and developer utilities. Most of them run client-side, so your files never leave the browser. No signup. :free:
 * [https://treeidentifier.org/](https://treeidentifier.org/): Free Tree Identifier Online - Tree Identification By Picture
 * [https://mytoolsbench.com/](https://mytoolsbench.com/):ToolBench is a free set of browser-based image tools — converter, compressor, resizer, cropper and watermark tool. Everything runs client-side via the Canvas API, so files are never uploaded to a server. No sign-up, no file size limits.
+* [https://emirmrkaljevic.github.io/truediscount](https://emirmrkaljevic.github.io/truediscount/) : Free, open-source Firefox add-on and userscript that checks EU shop discounts against the shop's own 30-day lowest price (the Omnibus rule) and shows a small local price graph. No account, no tracking. :free:
 
 
 ## U :

@@ -1,5 +1,9 @@
 # awesome-websites [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of awesome websites.
+
+## NOTE
+Hello, creating PR on this repository is disabled till end of December due to personal reasons. You all will be able to raise PR again in the new year. Thanks for stopping by!
+
 ## Motivation
 We all love to surf the Internet. Most of the times, we come across some cool awesome websites which we tend to bookmark for future use. And I love to say that I'm no exception to this behavior. 
 

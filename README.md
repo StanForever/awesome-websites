@@ -326,6 +326,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://kustodian.life](https://kustodian.life) : Kustodian helps you recover and fix issues across EPF, shares, Banks, Real Estate and more. PF stuck. Claim rejected. Multiple UAN. Ownership unclear.
 * [https://korelyy.com](https://korelyy.com) : Privacy-first collection of 100+ free online tools (image, PDF, unit, JSON, generators) that runs entirely in your browser with no signup. Six languages supported. :free:
 * [https://www.kiddoworksheets.com](https://www.kiddoworksheets.com) : Kiddo Worksheets has a lot of free educational resources. Get free printable worksheets for Preschool, Kindergarten & Grades from 1 to 5 curriculum.
+* [https://project-kiri.com](https://project-kiri.com/) : Focus timer and task list for laptop and desktop, with ten background sounds (rain, café, forest, brown noise and more) playing in the same tab. Free to start; the full version is a one-time purchase, no subscription. :hourglass:
 
 ## L :
 * [https://www.lucidchart.com](https://www.lucidchart.com/) : Flowchart maker and online diagram software.

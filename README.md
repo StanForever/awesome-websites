@@ -492,6 +492,8 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://www.replacedbai.com](https://www.replacedbai.com) : Free AI replacement risk score (0-100) for 1,016 occupations, combining O*NET task and skill data with Frey & Osborne automation probabilities. Every job page also links a career-transition guide and pivot plan. :robot:
 * [https://randomwheel.com](https://randomwheel.com/) : Free spinning wheel for picking names, winners or what's for dinner. Add your own options (pictures work too), split a group into teams, or put it on a stream. No sign-up, works in 18 languages.
 
+* [https://roofcostdata.com/roof-replacement-cost-calculator](https://roofcostdata.com/roof-replacement-cost-calculator) : Free U.S. roof replacement cost calculator with location, roof size, pitch, material, tear-off, and decking inputs, plus an itemized planning range. :free:
+
 ## S :
 * [https://studio.stupeflix.com](https://studio.stupeflix.com/) : Make amazing videos in seconds. Just add photos, videos, music, and text.
 * [https://send-anywhere.com](https://send-anywhere.com/) : Send whatever you want, wherever you want. :arrow_up:

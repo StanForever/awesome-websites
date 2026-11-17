@@ -562,6 +562,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://tunein.com](https://tunein.com/) : Listen to over 100,000 real radio stations.
 * [https://www.topcv.me](https://www.topcv.me/) : Create a professional Resume/CV in minutes. The simplest way to have impressive Resume without Photoshop, AI technique.
 * [https://www.typing.com](https://www.typing.com/) : Master touch-typing with these practice sessions.
+* [https://typersguild.com](https://typersguild.com/) : Practice typing by retyping classic books chapter by chapter, with WPM and accuracy tracking. :free:
 * [https://teuxdeux.com](https://teuxdeux.com/) : If you like making to-do lists, you will love TeuxDeux.
 * [https://tls.ulfheim.net](https://tls.ulfheim.net/) : Every byte of a TLS connection explained and reproduced.
 * [https://test-ipv6.com](https://test-ipv6.com/) : Test your IPv6 connectivity.
